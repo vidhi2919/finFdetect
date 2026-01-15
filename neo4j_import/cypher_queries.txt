@@ -1,0 +1,111 @@
+# FRAUD DETECTION CYPHER QUERIES
+# Generated: 2026-01-15T21:35:07.921973
+# Use these in Neo4j Browser for fraud pattern detection
+========================================================================
+
+// ===== 1. SMURFING DETECTION =====
+// Find accounts distributing money to many recipients with similar amounts
+
+MATCH (source:Account)-[r:TRANSFERRED_TO]->(target:Account)
+WITH source, 
+     count(DISTINCT target) as num_recipients,
+     avg(r.avg_amount) as avg_amount,
+     stdev(r.avg_amount) as stdev_amount,
+     sum(r.total_amount) as total_sent
+WHERE num_recipients > 10 
+  AND stdev_amount < (avg_amount * 0.2)
+RETURN source.accountId as suspicious_account,
+       num_recipients,
+       avg_amount,
+       total_sent
+ORDER BY num_recipients DESC
+LIMIT 20;
+
+========================================================================
+
+// ===== 2. LAYERING DETECTION =====
+// Find multi-hop money flows (3-5 hops)
+
+MATCH path = (start:Account)-[:TRANSFERRED_TO*3..5]->(end:Account)
+WHERE start <> end
+WITH start, end, path,
+     [r in relationships(path) | r.total_amount] as amounts,
+     length(path) as hops
+RETURN start.accountId as origin,
+       end.accountId as destination,
+       hops,
+       reduce(total = 0, amount IN amounts | total + amount) as total_moved
+ORDER BY hops DESC, total_moved DESC
+LIMIT 50;
+
+========================================================================
+
+// ===== 3. CYCLE DETECTION =====
+// Find circular money flows (money returns to origin)
+
+MATCH path = (start:Account)-[:TRANSFERRED_TO*2..4]->(start)
+WITH start, path,
+     [r in relationships(path) | r.total_amount] as amounts,
+     length(path) as cycle_length
+RETURN start.accountId as account,
+       cycle_length,
+       reduce(total = 0, amount IN amounts | total + amount) as cycle_amount,
+       [n in nodes(path) | n.accountId] as cycle_path
+ORDER BY cycle_length DESC
+LIMIT 30;
+
+========================================================================
+
+// ===== 4. BURST DETECTION =====
+// Rapid-fire transactions (>5 transfers in <1 hour)
+
+MATCH (a:Account)-[r:TRANSFERRED_TO]->()
+WHERE r.transaction_count > 5 
+  AND r.time_window_hours < 1.0
+RETURN a.accountId as account,
+       r.transaction_count as transfers,
+       r.time_window_hours as hours,
+       r.total_amount as amount
+ORDER BY r.transaction_count DESC
+LIMIT 50;
+
+========================================================================
+
+// ===== 5. HUB ACCOUNTS =====
+// Find central accounts with many connections
+
+MATCH (a:Account)
+WHERE a.out_degree > 15 OR a.in_degree > 15
+RETURN a.accountId as account,
+       a.in_degree as incoming,
+       a.out_degree as outgoing,
+       a.total_received as received,
+       a.total_sent as sent,
+       a.net_flow as net_flow
+ORDER BY (a.in_degree + a.out_degree) DESC
+LIMIT 30;
+
+========================================================================
+
+// ===== 6. COMBINED SUSPICIOUS PATTERN =====
+// High out-degree + rapid transfers + similar amounts
+
+MATCH (a:Account)-[r:TRANSFERRED_TO]->(target:Account)
+WITH a, 
+     count(DISTINCT target) as num_targets,
+     sum(r.transaction_count) as total_txns,
+     avg(r.time_window_hours) as avg_time_window,
+     stdev(r.avg_amount) as amount_variance,
+     sum(r.total_amount) as total_sent
+WHERE num_targets > 8
+  AND avg_time_window < 2.0
+  AND amount_variance < 5000
+RETURN a.accountId as high_risk_account,
+       num_targets as recipients,
+       total_txns as transactions,
+       avg_time_window as avg_hours,
+       total_sent as total_amount
+ORDER BY num_targets DESC
+LIMIT 20;
+
+========================================================================
