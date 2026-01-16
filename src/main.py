@@ -1,20 +1,28 @@
-from ingestion.load_data import load_data
-from ingestion.validate_schema import validate_schema
-from preprocessing.build_transfers import build_transfers
-from graph.build_graph import build_transaction_graph
+from preprocessing.build_graph import build_transaction_graph
 from agents.transaction_analysis_agent import transaction_analysis_agent
+from agents.generative_agent import ClaudeGenerativeAgent
+from agents.flags import derive_flags
 
 def main():
-    transactions, metadata = load_data()
-    validate_schema(transactions, metadata)
+    # Build graph
+    graph = build_transaction_graph("data/transactions.csv", "data/metadata.csv")
 
-    transfers = build_transfers(transactions, metadata)
-    graph = build_transaction_graph(transfers)
+    # Compute structural metrics
+    account_metrics = transaction_analysis_agent(graph)
 
-    analysis = transaction_analysis_agent(graph)
+    # Initialize Claude generative agent
+    gen_agent = ClaudeGenerativeAgent()
 
-    for account, metrics in list(analysis.items())[:5]:
-        print(account, metrics)
+    # Explain for sample accounts
+    for account_id, metrics in list(account_metrics.items())[:5]:  # first 5
+        profile = {
+            "account_id": account_id,
+            "metrics": metrics,
+            "flags": derive_flags(metrics)
+        }
+
+        explanation = gen_agent.explain_account(profile)
+        print(f"\n--- Explanation for {account_id} ---\n{explanation}")
 
 if __name__ == "__main__":
     main()
