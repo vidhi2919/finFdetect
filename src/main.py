@@ -1,11 +1,15 @@
-from preprocessing.build_graph import build_transaction_graph
+from preprocessing.build_graph import load_graph_from_files
 from agents.transaction_analysis_agent import transaction_analysis_agent
 from agents.generative_agent import ClaudeGenerativeAgent
 from agents.flags import derive_flags
 
 def main():
-    # Build graph
-    graph = build_transaction_graph("data/transactions.csv", "data/metadata.csv")
+    # Load graph from precomputed files instead of rebuilding
+    graph = load_graph_from_files(
+        nodes_path="data/nodes.csv",
+        edges_path="data/edges.csv",
+        transfers_path="data/transfers.csv"
+    )
 
     # Compute structural metrics
     account_metrics = transaction_analysis_agent(graph)
