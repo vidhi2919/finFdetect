@@ -1,0 +1,10 @@
+[
+  {
+    "account_1": "ACC0112",
+    "account_2": "ACC0001",
+    "recipient_sim": 1.0,
+    "amount_sim": 1.0,
+    "temporal_sim": 0.0,
+    "correlation_score": 0.8
+  }
+]
