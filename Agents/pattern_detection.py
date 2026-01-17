@@ -19,13 +19,14 @@ from typing import Dict, List, Tuple, Optional
 from dataclasses import dataclass
 from enum import Enum
 from collections import deque
-
+import json
 from langchain_anthropic import ChatAnthropic
 from langchain_core.messages import HumanMessage
 import os
 from dotenv import load_dotenv
 from neo4j import GraphDatabase
 from datetime import datetime
+
 
 load_dotenv()  
 
@@ -716,12 +717,33 @@ Evidence: {detection.evidence}
 
             print(f"✓ Built graph with {len(G.nodes)} accounts and {len(G.edges)} edges")
             return G
+    def save_results(self, detections, filename):
+                """
+                Save selected detections (usually high severity ones) to a JSON file.
+                """
+                serializable = []
 
+                for d in detections:
+                    if hasattr(d, "to_dict"):
+                        serializable.append(d.to_dict())
+                    else:
+                        serializable.append(d)
+
+                output = {
+                    "generated_at": datetime.utcnow().isoformat(),
+                    "count": len(serializable),
+                    "detections": serializable
+                }
+
+                with open(filename, "w", encoding="utf-8") as f:
+                    json.dump(output, f, indent=4)
+
+                print(f"💾 High severity results saved to → {filename}")
 # =============================================================================
 # USAGE EXAMPLE
 # =============================================================================
 if __name__ == "__main__":
-    from graph_builder_agent import GraphBuilderAgent
+    
 
     print("Pattern Detection Agent (V1) - Deterministic Analysis")
     print("=" * 60)
@@ -760,17 +782,25 @@ if __name__ == "__main__":
     # 💾 Export results
     df = detector.get_detections_dataframe()
     df.to_csv('pattern_detections.csv', index=False)
-    detector.export_to_json('pattern_detections.json')
+    detector.export_to_json('outputs/pattern_detections.json')
+
+    with open("outputs/pattern_detection_summary.json", "w") as f:
+        json.dump(detector.get_summary(), f, indent=2)
+
+    print("💾 Saved → outputs/pattern_detection_summary.json")
+
 
     # ------------------- ADD LLM REASONING HERE -------------------
     print("\n🧠 Generating LLM explanations for high-severity patterns...")
 
     high_severity = [d for d in detector.detections if d.severity > 0.7]
-    explained = detector.generate_llm_reasoning_for_all(high_severity)
+    detector.save_results(high_severity, "pattern_results.json")
+
+    # explained = detector.generate_llm_reasoning_for_all(high_severity)
 
     # Optional: save reasoning to JSON
-    import json
-    with open('pattern_detections_reasoning.json', 'w') as f:
-        json.dump(explained, f, indent=2)
+   
+    # with open('pattern_detections_reasoning.json', 'w') as f:
+    #     json.dump(explained, f, indent=2)
 
-    print(f"✓ LLM explanations generated for {len(explained)} high-severity detections")
+    # print(f"✓ LLM explanations generated for {len(explained)} high-severity detections")

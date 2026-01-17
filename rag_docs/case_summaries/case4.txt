@@ -1,0 +1,3059 @@
+1 
+ 
+ 
+ 
+ 
+IN THE WESTMINSTER MAGISTRATES’ COURT 
+ 
+BEFORE 
+ 
+DISTRICT JUDGE (MC) SAM GOOZÉE 
+Appropriate Judge 
+ 
+ 
+The Government of India 
+ (Requesting State) 
+V 
+Nirav Deepak Modi 
+(Requested Person) 
+ 
+JUDGMENT 
+ 
+Table of Contents 
+ 
+Background & Chronology of Proceedings     Page 2 
+The Challenges to Extradition       Page 4 
+The Requests          Page 5 
+Prima Facie case         Page 9 
+Admissibility of evidence        Page 14 
+Prima Face Case – CBI Request       Page 18 
+Conclusions on Prima Facie Case – CBI Request    Page 31 
+Conclusion on Prima Facie Case – ED Request     Page 36 
+Prima Facie Case – CBI Supplementary Request    Page 36 
+Conclusion on Prima Facie Case – CBI Supplementary Request  Page 42 
+Extradition Offences        Page 45 
+
+2 
+ 
+Human Rights Challenges – Article 6 ECHR     Page 53 
+Conclusions Article 6 Challenge       Page 58  
+Human Rights Challenges – Article 3 ECHR & s.91 EA 2003   Page 61 
+Conclusions Article 3 Challenge       Page 74 
+Conclusions – s.91 EA 2003.        Page 79 
+Procedural Requirements and Decision      Page 80 
+ 
+              
+ 
+Background and Chronology of proceedings 
+ 
+1. This is an extradition request submitted by the Government of India, the Requesting 
+State(“GOI”) for the extradition of Nirav Deepak Modi, the Requested Person (NDM). 
+The request is governed by the Provisions of Part 2 of the Extradition Act 2003 (“EA 
+2003”). India is a designated Part 2 country by virtue of the Extradition Act 2003 
+(Designation of Part 2 Territories) Order 2003. 
+ 
+2. The return of NDM, an Indian national, is sought for the purposes prosecution. On 
+the 27th July 2018, the GOI issued a request for the extradition of NDM. Initially, NDM 
+was subject to two sets of criminal proceedings. The first set of proceedings are 
+brought by the Indian Central Bureau of Investigation (“the CBI case”). The second 
+set of proceedings are brought by the Indian Enforcement Directorate (“the ED case”). 
+In short, the CBI case relates to a large-scale fraud upon the Punjab National Bank 
+and the ED case relates to the laundering of the proceeds of that fraud. 
+ 
+3. On the 11th February 2020, the GOI issued a further extradition request for NDM for 
+two additional offences which he now faces as part of the CBI case. In short, these 
+offences relate to allegations that NDM has interfered with the CBI investigation by 
+causing the disappearance of evidence and intimidating witnesses.  
+ 
+4. On the 27th July 2018, the GOI submitted a request for the extradition of NDM in 
+relation to the ED case. On the 24th August 2018, the GOI submitted a request in 
+relation to the first CBI case. Both requests were certified by the Home Office on the 
+28th February 2019. On the 28th February 2019, the Secretary of State issued a 
+3 
+ 
+certificate in accordance with s.70(1) of the 2003 Act, certifying the requests were 
+valid and had been made in the approved way.  
+ 
+5. The RP was arrested on 19th March 2019. He appeared before an appropriate judge at 
+Westminster Magistrates’ Court on the 20th March 2019. Consent was put and refused. 
+The extradition hearing was opened and adjourned. The RP was remanded in custody 
+and has been in custody throughout the proceedings. 
+ 
+6. In relation to the supplemental CBI request, on the 11th February 2020, the GOI issued 
+a further extradition request for NDM for the two additional offences which NDM 
+faces as part of the CBI request. On the 20th February 2020 the Secretary of State 
+issued a certificate in accordance with s.70(1) of the 2003 Act, certifying the request 
+was valid and had been made in the approved way.  
+ 
+7. NDM was produced at Westminster Magistrates’ Court on the 12th March 2020 and 
+arrested in relation to the further request. Consent was put and refused. The 
+extradition hearing was opened and adjourned to be joined with the earlier requests. 
+Again, NDM was remanded in custody. 
+ 
+8. The full hearings took place before me over two weeks. Week commencing 11th May 
+2020 and week commencing 7th September 2020. On the 3rd November 2020 I heard 
+submissions on the admissibility of evidence and gave a written ruling in order to 
+assist Counsel with their final submissions. I received final written submissions which 
+were expanded upon orally on 7th and 8th January 2021. I reserved judgment until 
+Thursday 25th March 2021. 
+ 
+9. Clare Montgomery QC leading Ben Watson of Counsel represented NDM. Helen 
+Malcolm QC leading Nicholas Hearn of Counsel represented the GOI.  
+ 
+10. Throughout the proceedings NDM appeared by live link from HMP Wandsworth. This 
+was at his request and an appropriate application was made on his behalf for a live 
+link direction. This was not opposed by the GOI.  I was satisfied it was in the interests 
+of justice. NDM did not give evidence at the extradition hearing. I was satisfied he was 
+able to fully participate in these proceedings. I am very grateful to HMP Wandsworth 
+for providing the necessary resources to facilitate live link production at every stage of 
+the extradition hearing.  
+ 
+4 
+ 
+11. I will say from the outset that in the course of these proceedings, in addition to the 
+core bundle, authorities bundles and extensive written submissions, I received 16 
+volumes of evidence and information from the GOI and 16 bundles of expert reports 
+and defence evidence. A total of 32 lever arch folders of documents, which I have 
+considered. I do not intend to summarise all the evidence that has been provided to 
+me but just the evidence which I consider relevant and probative to the challenges and 
+issues I must determine. It does not mean I have not considered all the evidence and 
+documents submitted by the parties.  
+ 
+12. Unlike the evidence from the Defence, the evidence produced by the GOI in the case, 
+through no fault of Counsel, was poorly presented and very difficult to navigate. 
+Observations I note were similarly made by the Senior District Judge (Magistrates’ 
+Courts) in Mallya. I hope the GOI take these observations on board in relation to 
+future requests. I am indebted to Counsel for both the GOI and NDM, the CPS and 
+NDM’s solicitors for the considerable time spent providing me with indexes and 
+schedules to assist me, as well as attending at Court to update physical bundles. 
+ 
+ 
+The Challenges to extradition 
+ 
+13. Ms Montgomery and Mr Watson raise the following issues to persuade the court not 
+to grant the requests:  
+i. whether they are extradition offences (s.137 of the 2003 Act) 
+ii. whether there is a prima facie case -  whether there is evidence which would 
+be sufficient to make a case requiring an answer by NDM if the proceedings 
+were the summary trial of an information against him (section 84 of the 2003 
+Act) 
+iii. whether extradition is compatible with the NDM’s Convention rights, in 
+particular Articles 3 and 6 (section 87 of the 2003 Act)  
+iv. Oppressive due to NDM’s mental health (section 91 of the 2003 Act)  
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+The Requests 
+ 
+The CBI case 
+ 
+14. On the 29th January 2018, the CBI received a written complaint from Mr Avneesh 
+Nepalia. Mr Nepalia is the Deputy General Manager of the Punjab National Bank 
+(“PNB”). The PNB is a major Indian Bank which is majority owned by the Indian 
+Government. Mr Nepalia, on behalf of PNB, alleged that the Bank had been the victim 
+of a large-scale fraud perpetrated by NDM, a number of named associates and staff 
+members at the PNB. The allegations centre around a number of NDM’s firms and 
+their fraudulent use of a credit facility offered by PNB known as “Letters of 
+Undertaking” (“LOUs”).  
+ 
+15. The LOUs are a form of bank guarantee which facilitate foreign transactions. When a 
+Bank issues an LOU on behalf of a customer, it allows the customer to obtain credit 
+from a foreign bank. Mr Nepalia explained that the bank had discovered that NDM’s 
+firms had fraudulently obtained a number of LOUs. The LOUs had been issued by two 
+officials at PNB named Mr Gokulnath Shetty and Mr Hanumant Kharat. Mr Nepalia 
+explained that he believed the LOUs had been issued fraudulently because (i) the 
+appropriate procedures had not been followed (ii) appropriate documentation had not 
+been obtained (iii) the LOUs had not been recorded with entries in the bank’s system 
+and (iv) the LOUs had been issued for the payment of import bills but were not in fact 
+used for that purpose. 
+ 
+16. In his initial complaint, Mr Nepalia described that 8 LOUs had been fraudulently 
+issued to NDM’s firms. He estimated at the time of his complaint that the fraudulent 
+activity had resulted in a loss to PNB of INR 280.70 crores (approx. USD 44m). 
+ 
+17. On the 23th February 2018, Mr Nepalia again wrote to the CBI. He informed them 
+that further investigations by the bank had revealed that, in fact, 150 fraudulent LOUs 
+had been issued to NDM’s firms. The cumulative sum of the LOUs was INR 6498.20 
+crores (USD 1015.35m). The companies to which the LOUs had been issued are as 
+follows (also referred to in defence submissions as the “3P partnership companies”) 
+ 
+i. M/s Diamond R US (issued with LOUs amounting to INR 2210.61 crores) 
+6 
+ 
+ii. M/s Solar Exports (issued with LOUs amounting to INR 2152.88 crores) 
+iii. M/s Stellar Diamonds (issued with LOUs amounting to INR 2134.71 crores) 
+ 
+18. There is no dispute these companies are part of NDM’s Firestar Group.  
+ 
+19. An investigation was subsequently launched by the CBI and the CBI allege the 
+following facts: 
+i. M/s Diamond R US had a current account with PNB. Documents submitted to 
+the PNB confirmed that initially the partners were NDM and Mehul Choksi. 
+Subsequently PNB was informed about a change in constitution of the firm. 
+The new partnership deed confirmed that the partners were NDM (90%), 
+ANM Enterprises Ltd (5%) and NDM Enterprises Ltd (5%). 
+ii. M/s Solar Exports had a current account with PNB. Documents submitted to 
+the bank confirmed that the partners in the firm were “Nirav Family Trust” 
+and “Nirav Modi Family Trust”. M/s Stellar Diamonds had a current account 
+with PNB. Documents submitted to the Bank confirmed that the partners in 
+the firm were “Nirav Family Trust” and “Nirav Modi Family Trust”.  
+iii. PNB’s internal guidelines in relation to the issuing of LOUs require the 
+transactions to be recorded in the “Core Banking System” (“CBS”) to ensure 
+transparency and so that the bank can monitor its liabilities in respect of any 
+LOUs that have been issued. 
+iv. A number of PNB staff had conspired with NDM to ensure LOUs were issued 
+to his companies without ensuing the companies were the subject to the 
+required credit check, without recording the issuance of LOUs and without 
+charging the required commission to the transactions. 
+v. NDM appointed dummy partners in the firms in January 2016 without 
+informing PNB. However, the firms always remained under the direct control 
+of NDM. He continued to sign the Income Tax Returns and Balance sheets of 
+these firms. 
+ 
+20. As a result of the CBI’s findings, NDM was charged with offences contrary to Section 
+120B of the Indian Penal Code (IPC) (Criminal Conspiracy) read with Section 420 of 
+the IPC (Cheating and Dishonestly Inducing Delivery of Property), 409 of the IPC 
+(criminal breach of trust by public servant or by banker, merchant or agent) and 
+7 
+ 
+contrary to s.13 of the Prevention of Corruption Act 1988 (Criminal Misconduct by a 
+Public Servant). 
+ 
+The ED case 
+ 
+21. The Directorate of Enforcement (“ED”) is a law enforcement agency and economic 
+agency responsible for enforcing economic laws and fighting economic crime in India. 
+As a result of the CBI investigation a parallel investigation was instigated by the ED 
+into offences of suspected money laundering of the proceeds of the fraud reported by 
+PNB. The ED investigation was instigated on the 14th February 2018. 
+ 
+22. The ED’s findings can be summarised as follows: 
+ 
+i. NDM with his associate Mihir Bhansali and others, arranged for dummy 
+partners to be appointed in respect of each of the firms said to be the recipient 
+of the fraud upon PNB (namely, M/s Diamond R US, M/s Solar Exports and 
+Stellar Diamonds). The individuals chosen to be dummy partners were paid a 
+meagre cash sum and did not perform any genuine functions ordinarily 
+associated with legitimate partners. The firms remained under the direct 
+control of NDM. 
+ii. The ED discovered that NDM had set up a number of overseas companies in 
+Hong Kong and Dubai which received the proceeds of the fraud on PNB. 
+Dummy directors / owners/ managers were also appointed in these 
+companies, although the companies remained under the direct control of 
+NDM. The companies were used for the circular rotation of diamonds, pearls, 
+gold and jewelry at highly inflated values to give the impression that the 
+companies in receipt of the LOUs issued by PNB were engaged in legitimate 
+trade. 
+iii. The ED investigation identified a number of ways in which the proceeds of the 
+PNB fraud were diverted by NDM and his associates. These included, transfer 
+of USD 50m to Firestar International Pvt Ltd, India as a “Foreign Direct 
+Investment”, a transfer in excess of USD 50m into a US based jewelry rental 
+company called “Bailey Bank and Biddle” owned by NDM, illegal payments 
+and loads to NDM from Hong Kong and Dubai based companies under his 
+control, purchases of property using proceeds of the PNB fraud that had been 
+8 
+ 
+channeled through multiple companies under NDM’s control and through 
+accounts of close family members. Funds had also been transferred to various 
+bank accounts held in the names of various entities and individuals in 
+Switzerland, Singapore and other overseas jurisdictions, some of which had 
+been identified and seized by ED.  
+ 
+23. As a result, NDM was charged with an offence contrary to Section 3 of the Prevention 
+of Money Laundering Act 2002.  
+ 
+Supplementary CBI Request  
+ 
+24. It is alleged that NDM conspired with others to remove original documents relating to 
+the LOU applications from PNB bank premises to those offices of a law firm, Cyril 
+Amarchand Mangaldas (“CAM”). CAM were misled into accepting the documents as 
+they were informed that the documents they were receiving were not original 
+documents. It is also said NDM conspired with others to move the dummy directors 
+of the Dubai based companies (utilised in the PNB fraud) to Cairo where they were 
+held against their will, pressured to sign false statements and deprived of their mobile 
+phones and electronic devices which were subsequently destroyed. It is finally said he 
+conspired with others to destroy a server in Dubai in which all the data relating to 
+NDM’s companies was stored. It is also said that during a phone call on the 19th or 20th 
+June 2018 NDM threatened to kill Ashish Lad. 
+ 
+25. Consequently, NDM faces two further allegations which are categorized in Indian law 
+as an offence under s.120B read with s.201 IPC – criminal conspiracy for causing 
+disappearance of evidence of offence or giving false information to screen offender; an 
+offence under s.201 IPC – causing disappearance of evidence of offence or fiving false 
+information to screen offender and finally an offence under s.506 IPC – criminal 
+intimidation to cause death.  
+ 
+Extradition Offences: 
+26. S 78(4)(b) EA 2003 requires me to decide whether the offences specified in the request 
+are extradition offences. I will deal with this issue later in my judgment.  
+ 
+ 
+9 
+ 
+ 
+Prima Facie Case 
+ 
+27. India is not designated pursuant to s.84(7) of the 2003 Act. Section 84 (1) Extradition 
+Act 2003 requires me to decide whether there is evidence which would be sufficient to 
+make a case requiring an answer by NDM if the proceedings were the summary trial 
+of an information against him. 
+ 
+28. In terms of my approach, I remind myself of the relevant passage in Devani v. Kenya 
+[2015] EWHC 3535 (Admin) where Aitkens LJ analysed the correct approach to 
+s.84(1): 
+ 
+“ 47. In the case of a country to which s.84(1) EA 2003 applies, a three-stage process 
+is involved once the DJ is satisfied that the request document itself establishes that 
+the conduct alleged is criminal in accordance with the laws of the requesting state. 
+The first stage, following the decision of the House of Lords in Norris v. Government 
+of the United States of America, is to identify, for the relevant charge, the “essence of 
+the conduct” which is alleged by the requesting state. Secondly, the DJ must 
+determine, upon the assumption that the relevant conduct had occurred in the UK, 
+whether that conduct would be an offence under the UK law. For this purpose, the 
+requesting state will often produce “notional English charges” identifying the 
+particular UK offence which is said to be constituted by the “essence of the conduct” 
+alleged. Thirdly, the DJ must determine whether the requesting state has proved, on 
+the basis of all admissible evidence (taking account of the admissibility rules set out 
+in sections 84(2) – (4), s.202 and s.205 of the EA) whether there is sufficient evidence 
+to substantiate the conduct alleged.  
+ 
+48. In R v. Governor of Pentonville Prison ex Alves, the House of Lords held that 
+under paragraph 7(1) of Schedule 1 to the Extradition Act 1989, which is in different 
+terms to s.84 of the EA, the correct approach to be applied by a magistrate on an 
+extradition request was to decide whether there was a case to answer, by reference 
+to the well known test set out by Lord Lane CJ in R v. Galbraith. The same approach 
+has been adopted in relation to s.84(1) of the EA: see, for example, the statement of 
+Sir Brian Leveson PQBD at [16] of Ravi Shankaran v. Government of the State of 
+India. 
+10 
+ 
+ 
+49. Putting the matter this way could be mildly confusing. Lord Lane identified the 
+test in Galbraith as the one to be used by judges in criminal trials when they have to 
+decide whether to accede to a submission of “no case to answer” at the end of the 
+prosecution case. Under s.84(1) the DJ has to do the opposite: viz. decide whether 
+there is a case to answer. Furthermore, it is now well established that in an 
+extradition case to which s.84(1) applies, the court is required to have regard to all 
+the admissible evidence before the court, including that of the requested person. In 
+our view, the correct way to put the matter is to say that the DJ who has to decide 
+whether there is a case to answer for the purposes of s.84(1) must determine whether, 
+on one possible view of the facts, he is satisfied that there is evidence upon which the 
+requested person could be convicted at a summary trial of an information against 
+him, upon the basis of the national English charges. In other words, the DJ must 
+apply the test referred to at the end of the celebrated passage in Lord Lane’s 
+judgment in Galbraith at 1042, but with the additional gloss that, in deciding 
+whether there is a case to answer, the DJ should consider all the admissible evidence 
+before him, including evidence called on behalf of the requested person. 
+ 
+50. For convenience we will call this “the prima face case test”. 
+ 
+29. I also remind myself of the approach laid down in R v. G & F [2012] EWCA Crim 1756. 
+In that case, the Court of Appeal (Criminal Division), Aitkens LJ summarized the 
+approach as follows: 
+ 
+“36. We think that the legal position can be summarized as follows: (1) in all cases 
+where a judge is asked to consider a submission of no case to answer, the judge 
+should apply the “classic” or “traditional” test set out by Lord Lane CJ in Galbraith. 
+(2) where a key issue in the submission of no case is whether there is sufficient 
+evidence on which a reasonable jury could be entitled to draw an adverse inference 
+against the defendant from a combination of factual circumstances based on 
+evidenced adduced by the prosecution, the exercise of deciding that there is a case to 
+answer does involve the rejection of all realistic possibilities consistent with 
+innocence. (3) However, most importantly, the question is whether a reasonable 
+jury, not all reasonable juries, could, on one possible view of the evidence, be entitled 
+to reach that adverse inference. If a judge concludes that a reasonable jury could be 
+11 
+ 
+entitled to do so (properly direct) on the evidence, putting the prosecution case at its 
+highest, then the case must continue; if not it must be withdrawn from the jury”.  
+ 
+30. My role is to consider whether a tribunal of fact, properly directed, could reasonably 
+and properly convict on the basis of the evidence. I am not required to be sure of guilty 
+in order to send the case to the Home Secretary. The extradition court must conclude 
+that a tribunal of fact, properly directed and considering all the relevant evidence, 
+could reasonably be sure of guilt.  
+ 
+31. I accept submissions made on behalf of the GOI by Ms Malcolm QC and Mr Hearn 
+that I am not required to exclude all Mr Modi’s various alternative theoretical 
+possibilities and narratives; nor exclude his personal interpretation of the evidence, in 
+order to find a prima face case has been established. As was stated in Mallya v. India 
+[2020] EWHC 924 (Admin), to adopt such an approach would be to “truncate the 
+test”.   
+ 
+32. Put simply, following the test in Devani (supra) I must determine whether, on one 
+possible view of the facts, I am satisfied that there is evidence upon which Mr Modi 
+could be convicted. 
+ 
+Notional UK Charges:  
+ 
+33. First request – CBI Request – “Conspiracy to defraud” 
+NIRAV DEEPAK MODI, you are accused in a category 2 territory of the commission 
+of offences constituted by conduct which, had it occurred within the jurisdiction of 
+the United Kingdom, would have constituted the following offences: 
+ 
+1. That you, between the 1st September 2008 and the 30th June 2018, conspired 
+with Neeshal Modi, Gokulnath Shetty, Manoj Kharat, Hemant Bhatt, Bechu Tiwari, 
+Yashwant Joshi, Prafful Sawant, Vipul Ambani, Arjun Patil, Kavita Mankikar, Rajesh 
+Jindal, Mohinder Sharma, Bishnubrata Mishra, Miten Pandya, Manish Bosamiya, 
+Sanjay kumar Rambhia, Subhash Parab, Usha Ananthasubramanian, K. V. Brahmaji 
+Rao, Sanjiv Sharan, Nehal Ahad, M/s Diamonds R US, M/s Solar Exports, M/s 
+Stellar Diamond, Sanjay Prasad, Nehal Modi, Amit Magia, Sandeep Mistry and Mihir 
+Bhansali, and others known and unknown to defraud the Punjab National Bank 
+12 
+ 
+(‘PNB’), by dishonestly causing and permitting the PNB to issue (1214) Letters of 
+Undertaking (LOU) to the three accused NDM firms (being M/s Diamonds R US, 
+M/s Solar Exports, M/s Stellar Diamond) as guarantee of loans in the form of 
+Buyer’s Credit, by divers wrongful means including: 
+ 
+i)) without there being in place any sanctioned credit limit for LOUs and/or any 
+formal borrowing arrangements between the three NDM firms and PNB 
+ii) without providing any or any sufficient cash margin against the LOUs 
+iii) without paying the proper bank charges/commission 
+iv) without complying with the proper requirements as to registration and 
+recording of foreign letter guarantees within the PNB, including entry on the CBS 
+v) on the basis that the sums thereby guaranteed were to be used wholly for the 
+payment of legitimate suppliers; but where the funds obtained were in fact not 
+wholly used for that purpose, but were dishonestly used to repay earlier loans 
+and/or diverted to companies within Nirav Modi’s control and/or 
+vi) without arranging funds to pay the amounts outstanding against 150 LOUs 
+thereby causing wrongful loss to the PNB in the sum of INR 6805.24 crores 
+(68,052.40 million), being the sum of 150 LOUs issued between 9th February 
+2017 and 23th May 2017 amounting to INR 6498.20 Crores (64,982.00 million) 
+plus interest and other charges paid under the LOUs by the PNB to the Overseas 
+Banks which had extended Buyer’s Credit to the three accused firms. 
+ 
+Contrary to section 12 of Criminal Justice Act 1987 
+ 
+34. Second request – Ed Request – Conspiracy – money laundering 
+ 
+2. That you, between 1st March 2011 and 1st March 2020, conspired with Mr. 
+Neeshal Modi, Mr. Nehal Deepak Modi Mr. Deepak Kumar Modi, Mr. Shyamsunder 
+Wadhwa, Mr. Gokulnath Shetty, Ms. Purvi Maiank Mehta, Mr. Maiank Mehta, Mr. 
+Saju Poulose Parokaran, Mr. Aditya Nanavati, Mr. Hemant Bhatt, Mr. Subhash 
+Parab, Mr. Mihir Bhansali, Mr. Dharmesh Bothra, M/s Radashir Jewelery Company 
+pvt. Ltd., M/s Solar Exports, M/s Stellar Diamond, M/s Diamonds R US, M/s 
+Firestar International Pvt. Ltd., M/s Firestar Diamond International Pvt. Ltd, M/s 
+Nirav Modi Trust, M/s Firestone Trading Pvt. Ltd., M/s Mak Business Enterprises 
+Pvt. Ltd. M/s Bentley Properties Pvt. Ltd., Ms. Ami Nirav Modi, M/s Neeshal 
+13 
+ 
+Merchandizing Private Limited, M/s Belvedere Holdings Group Ltd., M/s Nirav 
+Modi Ltd., M/s Yanike 
+Properties Ltd, M/s Diamond Holdings SA., M/s Central Park Real Estate LLC., M/s 
+Pavilion Point Corporation, M/s Rhythm House Private Limited, M/s Pacific 
+Diamonds FZE, M/s Fine Classic FZE and M/s Firestar Diamond FZE to conceal, 
+disguise, convert, transfer or remove criminal property, namely the (direct or 
+indirect) funds obtained by means of Buyer’s Credit guaranteed by 1214 Letters of 
+Undertaking worth USD 1015.35 Million issued by the Punjab National Bank 
+knowing those funds to represent in whole or in part the proceeds of criminal 
+conduct. 
+ 
+Contrary to section 1 of the Criminal Law Act 1977 and sections 327 and 
+334 of the Proceeds of Crime Act 2002 
+ 
+35. Third Supplementary ED Request – Conspiracy to pervert the course of 
+justice and perverting the course of justice (threats to kill Ashish Lad)  
+ 
+NIRAV MODI, you are accused in a category 2 territory of the commission of 
+offences constituted by conduct which, had it occurred within the jurisdiction of the 
+United Kingdom, would have constituted the following offences: 
+ 
+1. That you on divers days between 01.09.2008 and 30.06.2018 conspired together 
+with Neeshal Modi, Gokulnath Shetty, Manoj Kharat, Hemant Bhatt, Bechu 
+Tiwari, Yashwant Joshi, Prafful Sawant, Vipul Ambani, Arjun Patil, Kavita 
+Mankikar, Rajesh Jindal, Mohinder Sharma, Bishnubrata Mishra, Miten Pandya, 
+Manish Bosamiya, Sanjay Kumar Rambhia, Subhash Parab, Usha 
+Ananthasubramanian, K. V. Brahmaji Rao, Sanjiv Sharan, Nehal Ahad, Sanjay 
+Prasad, Nehal Modi, Amit Magia, Sandeep Mistry and Mihir Bhansali to commit 
+acts tending and intended to pervert the course of justice, namely: 
+ 
+(i) causing evidence relevant to a criminal investigation into a fraud committed 
+upon the Punjab National Bank, to be removed from the premises of PNB, MCB, 
+Brady House, Mumbai and concealed in the law firm Cyril Amarchand 
+Mangaldas “CAM” with the intention of preventing that evidence being 
+discovered by investigators. 
+14 
+ 
+ 
+(ii) interfering with witnesses relevant to the aforementioned investigation 
+including by arranging for them to travel to, and remain in, Cairo, Egypt, where 
+they were pressured to sign false statements. 
+ 
+(iii) causing evidence relevant to the aforementioned investigation to be 
+destroyed, namely a server in Dubai; and the mobile phones and electronic 
+devices which were taken away from the witnesses in Dubai and Hong Kong and 
+destroyed. 
+ 
+Contrary to section 1 of the Criminal Law Act 1977 and common law 
+ 
+2. That in June 2018 you did an act tending and intended to pervert the course of 
+justice, namely made a threat to kill Ashish Lad, a potential witness in the CBI 
+investigation into an alleged fraud committed upon the Punjab National Bank. 
+Contrary to common law. 
+ 
+Admissibility of evidence 
+ 
+36. On the 3rd November 2020 I heard submissions from the parties in relation to the 
+admissibility of evidence relied on by the GOI in these proceedings.  
+ 
+37. Where a RS has to prove a prima facie case under section 84 of the 2003 Act, the 
+evidence it relies on has to be admissible under English rules of evidence or fall 
+within the admissibility provisions in section 84 of the Extradition Act 2003.  
+ 
+Section 84 reads: 
+ 
+Case where person has not been convicted 
+ 
+(1)If the judge is required to proceed under this section he must decide whether 
+there is evidence which would be sufficient to make a case requiring an answer by 
+the person if the proceedings were the summary trial of an information against 
+him. 
+ 
+(2)In deciding the question in subsection (1) the judge may treat a statement made 
+by a person in a document as admissible evidence of a fact if— 
+ 
+15 
+ 
+(a)the statement is made by the person to a police officer or another person 
+charged with the duty of investigating offences or charging offenders, and 
+ 
+(b)direct oral evidence by the person of the fact would be admissible. 
+ 
+(3)In deciding whether to treat a statement made by a person in a document as 
+admissible evidence of a fact, the judge must in particular have regard— 
+ 
+(a)to the nature and source of the document; 
+ 
+(b)to whether or not, having regard to the nature and source of the document and 
+to any other circumstances that appear to the judge to be relevant, it is likely that 
+the document is authentic; 
+ 
+(c)to the extent to which the statement appears to supply evidence which would not 
+be readily available if the statement were not treated as being admissible evidence 
+of the fact; 
+ 
+(d)to the relevance of the evidence that the statement appears to supply to any 
+issue likely to have to be determined by the judge in deciding the question in 
+subsection (1); 
+ 
+(e)to any risk that the admission or exclusion of the statement will result in 
+unfairness to the person whose extradition is sought, having regard in particular 
+to whether it is likely to be possible to controvert the statement if the person 
+making it does not attend to give oral evidence in the proceedings. 
+ 
+(4)A summary in a document of a statement made by a person must be treated as 
+a statement made by the person in the document for the purposes of subsection (2). 
+ 
+(5)If the judge decides the question in subsection (1) in the negative he must order 
+the person’s discharge. 
+ 
+(6)If the judge decides that question in the affirmative he must proceed under 
+section 87. 
+ 
+(7)If the judge is required to proceed under this section and the category 2 
+territory to which extradition is requested is designated for the purposes of this 
+section by order made by the Secretary of State— 
+ 
+(a)the judge must not decide under subsection (1), and 
+ 
+(b)he must proceed under section 87. 
+ 
+38. In this case the parties set out the 8 categories of material as follows: 
+ 
+Category 1 – Affidavits from the investigating officers  
+Category 2 – documentary material attached to the affidavits 
+Category 3 – s.161 statements. 
+16 
+ 
+Category 3A – s.161 statements containing hearsay, or otherwise containing 
+information apparently not within the witnesses’ own knowledge 
+Category 3B – s.161 statements containing passages verbatim of other witnesses’ 
+statements. 
+Category 4 – statement purporting to exhibit documents without those 
+documents appearing. 
+Category 4A – documents not apparently exhibited by any witness 
+Category 5 – Foreign language statements without original language copy 
+provided.  
+Category 6 – statement taken other than by s.161. 
+Category 6A – statements in Category 6 containing hearsay, or otherwise 
+containing information apparently not in the witness’s own knowledge 
+Category 6B – statement in category 6 containing passages verbatim of other 
+witness’s statements 
+Category 7 – GOI narrative response document.  
+Category 8 – material provided to investigation by Ashish lad 
+ 
+39. It was common ground that the following categories of material were admissible under 
+s.84 of the 2003 Act: 
+ 
+i. Category 4 – Documentary exhibits - Statements purporting to exhibit 
+documents without those documents appearing and documents not 
+apparently exhibited by any witness. 
+ 
+ii. Category 5B – foreign language statements not taken under s.161. 
+ 
+iii. Category 6 - statements taken other than by way of s.161 – sworn statements 
+made by witnesses in the context of the EDs investigation.  
+ 
+iv. Category 8 – material provided to investigation by Ashish lad. 
+ 
+40. In terms of the starting point for the consideration of the remaining material, in 
+particular the admissibility of statements made under s.161 of the Indian Criminal 
+Procedure Code, I took as my starting point the recent decision of the Divisional Court 
+in Mallya v. Government of India [2020] EWHC 924 (Admin). In the appeal, 
+Ms Montgomery sought to rely on the decision in Shankaran v India [2014] 
+EWHC 957 (Admin) in support of her submissions on the admissibility of s.161 
+statements. Ms Montgomery advanced those arguments on behalf of NDM seeking to 
+distinguish NDM’s case from that of Mr Mallya. The Divisional Court determined that 
+s.161 statements meet the s.84 Extradition Act 2003 criteria and I considered myself 
+bound by that decision. I did make clear that I would have regard to paragraph 48 of 
+the judgment, namely that s.161 statements “dealing with events that their makers 
+17 
+ 
+had not seen were inadmissible in so far as it was sought to rely on them as evidence 
+of matters which their makers did not witness. It follows that they should be given 
+no weight on those matters. However, there is no reason why the points they, (the 
+witnesses) made on the documents could not be taken into account as informed 
+explanation of or commentary on the documents, rather than as evidence of relevant 
+facts”.  
+ 
+41. I adopted the approach taken by the Divisional Court in Mallya. I found that the 
+section 161 statements were admissible under section 84(2), (3) and (4) of the 2003 
+Act.  
+ 
+41. Turning therefore to the remaining categories of material: 
+ 
+i. Category 1 - It was accepted by the GOI that the affidavits of the investigating 
+officers cannot amount to admissible evidence of matters the officers did not 
+witness. However, they are admissible in the prima facie exercise and can be 
+taken into account as informed explanations of or commentary on the 
+documents. 
+ 
+ii. Category 2 – documentary exhibits attached to the affidavits – there was no 
+challenge to the admissibility of this material. 
+ 
+iii. Category 3 – statements made under s.161 of the Indian Criminal Procedure 
+Code – in view of the decision of the Divisional Court in Mallya these 
+statements are per se admissible pursuant to s.84.  
+ 
+iv. Category 3B - statements under s.161 containing passages verbatim of 
+another witness’s statements. This is a fraud case involving many witnesses 
+who give evidence of very similar matters. Admissible per se and obviously 
+weight of those statements will be considered alongside the totality of the 
+evidence.  
+ 
+v. Category 5A – statements taken from foreign language statements – I accept 
+the GOI’s submissions that admissibility is governed by s.84 (4).  
+ 
+18 
+ 
+vi. Category 7 - GOI narrative response documents – agreed by the GOI that 
+response documents are not admissible evidence in support of prima facie case 
+but are admissible in terms of informed explanation and commentary. 
+ 
+vii. Remaining categories, 3A and 6A containing specific admissibility issues 
+I determined was too broad to provide a ruling that all statements within the 
+category are either admissible or not admissible. The statements may be 
+admissible per se but what weight is attached to that material can only be 
+assessed in considering totality of the evidence.  There may be evidence within 
+statements that is admissible in support of a prima facie case and part of a 
+statement which may be inadmissible. I accepted Ms Malcolm’s submission 
+that it would be inappropriate at this stage in relation to other categories of 
+evidence to give a ruling which would necessarily apply to all documents 
+within a particular category – that is not amenable to a blanket ruling that such 
+documents are or are not, per se admissible. 
+ 
+Prima Facie case – CBI case 
+ 
+42. The s.161 statement of Dinesh Bhardwaj dated 14.04.2018. Mr Bhardwaj [ V1 / p 292-
+297 & V8 / p 305 – 311] is the PNB Assistant General Manager. His statement provides 
+the following relevant information: 
+i. He explains within his statement how the provisions of LOUs operate within 
+the PNB. He explains that the LOUs are issued by the Bank to another overseas 
+bank on the request of a client of the Branch to guarantee the trade credit, also 
+known as Buyers Credit being or to be granted to the same client by the 
+overseas bank. He explains that Buyers Credit is obtained by a client from 
+overseas bank, as they get the funds at competitive rates of interest than the 
+interest prevailing in India.  
+ii. He explains that buyers credit is governed by guidelines of the Reserve Bank 
+of India and the Reserve Bank of India has issued circulars with guidance for 
+availing buyers credit and monitoring arrangements for Banks. Internally, the 
+PNB has issued loans and advance Circulars which deal with letters of 
+Undertaking and how they are to be issued. 
+iii. He explains that LOUs issued must be recorded on the banks records system. 
+19 
+ 
+iv. He confirms that M/s Solar Exports, M/s Stellar Diamond, M/S Diamonds R 
+US and M/s Firestar Diamond International and M/s Firestar International 
+Pvt Ltd all hold accounts with the PNB.  
+v. He recalls that on the 16th January 2018, Yashwant Joshi a Manager at the 
+Branch spoke to him about requests received for LOUs from M/s Stellar 
+Diamond, M/S Diamond R US and M/s Solar Exports amounting to USD 
+50583737.43 (IND Rs 323.74 crore). Mr Bhardwaj explains that in October 
+2017 the Branch had issued 6 LOUs to the firms against 100% cash margin and 
+that Mr Joshi should request a 100% cash margin before proceeding with the 
+applications. Mr Bhardwaj is made aware that 8 other LOUs issued about a 
+year previously to the same firms amounting to IND Rs 280 crore were 
+maturing for payment on 25.01.2018 and they were not entered in the CBS 
+system of the Bank and documents were not available in the Branch. 
+vi. He identifies that the LOUs have been issued by Golkulnath Shetty who retired 
+from the Bank on 31st May 2017.  
+vii. He asks Mr Joshi to analyse whether further LOUs had been opened by Mr 
+Shetty without entry onto the banks systems. 
+viii.  Mr Bhardwaj is shown the LOUs and confirms that Mr Shetty had issued the 
+LOUs to overseas banks namely Allahbad Bank Hong Kong, Axis Bank Hong 
+Kong and Bank of India in Antwerp during 2017 up until his retirement on the 
+31st May 2017. There is a total of 150 LOUs issued to Diamond R US, Solar 
+Export and Stellar Diamond.  
+ix. He confirms that the bank is not in possession of the required documentation 
+for the LOUs from 2011 onwards, which indicates Mr Shetty had not obtained 
+the required documents from the applicant companies.  He states that the 
+LOUs were “unauthorizedly issued by him without any sanctioning limit and 
+without any cash margin and thus the bank was exposed to wrongful loss and 
+it was required to pay the funds to the overseas banks on the maturity dates of 
+each LOU”.  
+x. Mr Bhardwaj explains that thereafter the matter was handled by the Banks 
+Head Office. He attended a meeting on the 26th January 2018 at which Nirav 
+Modi’s brother Nehal Modi was present. On the same day Mr Bhardwaj states 
+that he received a call from Nirav Modi trying to speak to one of the managers 
+at the meeting. During the meeting Nehal Modi requested the Bank allow the 
+firms to obtain Buyers’ Credit on the strength of the new LOUs and that they 
+20 
+ 
+will make efforts to arrange funds to meet the liabilities of the LOUs which 
+would be due to payment on the 25th January 2018. The senior managers at 
+the meeting explained that first the liabilities for the LOUs maturing at the end 
+of the month needed to be paid. Nehal Modi explained he would revert back 
+after speaking to his brother, Nirav Modi. 
+xi. He was made aware thereafter that the Bank were referring a complaint to the 
+CBI against the Nirav Modi Group of Firms and the accounts would be frozen. 
+The complaint was filed with the CBI on the 29th January 2018. 
+xii. On 3rd February 2018 all sanction credit facilities were recalled. 
+xiii. Mr Bhardwaj was present at another meeting on the 8th February 2018 at 
+which Nirav Modi was present. He accepted that they had obtained LOUs from 
+PNB on behalf of M/s Stellar Diamonds, M/s Solar Exports and M/s Diamonds 
+R US but claimed it was a facility available to them for 8 years which the bank 
+had withdrawn abruptly. Mr Bhandwaj states that the Bank confirmed no such 
+facility had been available, the Bank had been cheated and Nirav Modi was 
+asked to produce documents / sanction orders of the Bank. 
+ 
+43. In relation to documentation which should have been retained by Mr Shetty it is noted 
+that the s.161 statement of Ravindra Hindelkar date 18th April 2018 March provides 
+some explanation [ V1 / p.399 – 424]. He was employed by Firestar International Pvt 
+Ltd who reported to Subhash Parab an employee of Nirav Modi. He was instructed to 
+visit the PNB bank with documents pertaining to the LOUs and hand them over to 
+Gokulnath Shetty. “ Gokulnath Shetty use to receive the original set and used to give 
+an acknowledge copy (office copy) to me. Later after 4 – 7 days, Sh Subash Parab 
+used to instruct me to take the banks original set of documents from Gokulnath 
+Shetty and bring the same to Diamonds R US Office where I used to hand them over 
+this copy to Sh Rahul Sisodiya, who will then file in our office records. I further state 
+than when I asked Gokulnath Shetty as to why he was handing over the Banks’ 
+original set back to me, he answered that Sh Subash Parab knows about it and I need 
+not worry about the same”. Of note in his first statement dated 14th March 2018, 
+Ravindra Hindelkar was instructed to shift documents relating to the three Nirav Modi 
+firms to a firm of lawyers, CAM, Cyril Amarchand Mandaldas. There were 50 cartons 
+of documents. He describes them all as original documents.  
+ 
+21 
+ 
+44. The s.161 statement of Rajendra Keshri dated 17.03.2018 [ v8/ p. 312 – 474 and v 12/ 
+p 3-4] Mr Keshri  is the Chief Manager PNB Brady House Branch. In considering the 
+Bank records, Mr Keshri confirms that the LOUs were not recorded appropriately 
+within the bank’s system and cash margins were not obtained against the LOUs. He 
+gives explanations within his statement dated 20th April 2018 that in relation to the 
+eight LOUs/ Buyers credit funds relating to the initial complaint to the CBI on 29th 
+January 2018, “the entire funds were used for settling the liabilities of earlier Buyers 
+Credit and not for payment to the overseas suppliers”. 
+ 
+45.  The s.161 statement of Sreekumar Menon dated 20.03.2018 [ v 1 / p. 316 – 325] sets 
+out the process for obtaining LOUs and how LOUs should operate. Mr Menon is the 
+Chief Manager of the Punjab National Bank, International Banking Branch. In 
+summary his statement confirms that Buyers Credit is raised by an importer in India 
+from a foreign based bank for making payment to the foreign based supplier / exporter 
+for the import by the Indian importer. The foreign bank requires a Bank Guarantee 
+from the importer’s Bank, for extending buyers credit and the guarantee is given in 
+the form of an LOU by the PNB, assuring the foreign bank of payment of the amount 
+along with interest on the due date. The importer in India submits the application for 
+issuing an LOU along with the required documents (“quote of foreign bank, 
+agreement, bills of lading / airway bills, bill of entry, invoices, packing list etc” ) and 
+the details of the proposed import to PNB. After processing the application, the 
+Branch Head of PNB approves an LOU by the bank on behalf of the importer, if the 
+importer has sufficient credit limit with the bank. However, if the bank has not 
+sanctioned a sufficient credit limit to the importer, the importer has to provide PNB 
+110% of the LOU amount as a cash margin. The competent authority for the sanction 
+of the LOU is the Branch Head of PNB. Once an LOU is sanctioned by the Branch 
+Head, the officials in Forex Department of the Branch send a message through the 
+“SWIFT Message” system to the concerned foreign bank. At the same time an entry is 
+made in the CBS system of the PNB and a commission is charged to the importer for 
+the issuing of the LOU. On the basis of the SWIFT message received from PNB, the 
+foreign bank releases the amount of buyer’s credit to allow payment to be made to the 
+foreign based supplier / exporter. The buyer’s credit is to be repaid to the foreign bank 
+along with interest on a specified date. On the due date, if the importer fails to pay the 
+amount, then PNB has to make the payment to the relevant foreign bank. In relation 
+to how much commission was required to be collected by the bank for the issuance of 
+22 
+ 
+the 150 LOUs and whether the Branch has collected the commission in respect of those 
+LOUs, he explains IND Rs 237.12 crore was required to be charged but only IND Rs 
+7.76 crores was charged.  
+ 
+46. The s.161 statement of Rajesh Sinha dated 20th April 2018 [ v 1/ p. 326 – 335] . He is 
+a Chief Manager at PNB, and was part of the investigation team to ascertain how many 
+LOUs had been issued at the PNB branch which had not been entered in the Core 
+Banking Solution (CBS) system resulting in the non-creation of liabilities against the 
+Nirav Modi Group. Following the investigation, it revealed that during the period 2011 
+to 2017 a total of 1208 LOUs had been issued on behalf of the Nirav Modi Group which 
+were not entered in the CBS system. Following the investigation he stated that “we 
+came to the conclusion the bank had suffered wrongful loss of IND Rs 6498.18 crore 
+on account of the 150 outstanding LOUs which were fraudulently issued from MCB, 
+Brady House Branch without entering in the CBS system in the year 2017”.  
+ 
+47. The s.161 statement of Supriya Sakhare dated 17th April 2017 [ v 1 / p.336 – 343]. She 
+worked in the Foreign Exchange department of the Brady House Branch of the PNB. 
+She explains that after Mr Shetty retired from the Branch on 31st May 2017, she was 
+assigned a portfolio of imports which included sending SWIFT messages under to 
+supervision of Yashwant Joshi. She was advised by Mr Joshi that M/s Diamonds R 
+US, Solar Exports and Stellar Diamonds belonged to Firestar Group of Nirav Modi and 
+the branch also managed the accounts of M/s Firestar International Pvt Ltd and M/S 
+Firestar Diamond International Pvt Ltd. She explains that under instruction of Mr 
+Joshi she issued 6 LOUs to Stellar Diamond, Diamond R US and Solar Exports from 
+October to November 2017. She explained she had difficulty entering them onto the 
+CBS system until 11th January 2018. She explains that she was not told by Mr Joshi 
+that the firms were not having any sanctioned limit for LOUs. In relation to the first 
+LOU she states a proposal note was put before Shri Bhardwaj by Yashwant Joshi which 
+was approved and a 100% margin was to be taken. However, the remaining five LOUs 
+were not sanction by Shri Bhardwaj. In December 2017 she was told by Mr Joshi that 
+he had met with Nirav Modi and Vipul Ambani of Firestar Group and during the 
+meeting he had been requested to continue opening LOUs on behalf of the three firms 
+without entering them onto the CBS system as was being done earlier by Mr Shetty 
+and the bank should not ask for 100% margin. As a result of hearing this she was 
+worried about the 6 LOUs she had not been able to enter onto the CBS system. She 
+23 
+ 
+confirms that checks of the bank records in relation to LOUs issued to M/s Diamond 
+R US, M/S Stellar Diamond and M/s Solar Exports that many had not been entered 
+as liabilities on the CBS system “which is a must as only then the branch can monitor 
+liability”.   
+ 
+48. The s.161 statement of Jasmine Makwana dated 17th April 2017 [ v1 / p.344-351]. She 
+also worked in the foreign exchange department. She also confirms that she was told 
+that M/s Diamond R US, Solar Exports and Stellar Diamonds belong to Firestar 
+International Pvt. Ltd and M/S Firestar Diamond International Pvt. Ltd and she was 
+introduced to some employees of Firestar and meet with Mr Joshi. She confirms that 
+in October and November 2017, 6 LOUs were opened by Ms Sakhare on behalf of the 
+companies with 100% margin, but that was taken after the LOUs were issued. The 
+LOUs were entered onto the CBS system on 11th January 2018 after earlier attempts 
+were unsuccessful due to system errors. She also confirms that checks on the Bank 
+records in relation to LOUs granted to the three companies for the period 2012 – 2017 
+were not entered on the liability register through CBS system 
+ 
+49. The s.161 statement of Rajesh Kumar Sinha dated 20th April 2018. He is the Chief 
+Manager in PNB Audit Office. He was assigned to the Bank’s investigation into how 
+many LOUs had been issued at the Brady House Branch which had not been entered 
+in the CBS resulting in non-creation of liabilities and losses to the Bank. They looked 
+at the banks records from 2011 – 2017. They confirms 1314 LOUs were issued to Nirav 
+Modi’s firms of M/s Stellar Diamond, M/s Solar Exports and M/s Diamond R US. 
+More specifically, in 2017 150 LOUs were issued without entry onto the CBS system. 
+He also confirms that during the investigation they discovered that “no fund based or 
+non-fund based facility was granted by MCB, Brady House Branch to these 3 firms of 
+Nirav Modi Group who were maintaining only current accounts in the said Branch”. 
+He states that if LOU facility is not sanctioned to a customer no LOU would be opened 
+on request unless 110% cash margin and then only with approval. He finally states that 
+the 150 LOUs issued without entry onto the CBS system in 2017 resulted in losses of 
+IND Rs 6498.18 crore.  
+ 
+50. The s.161 statement of Sreekumar Menon dated 8th August 2019, He sets out the 
+results of the investigation leading to the discovery that between February 2017 to May 
+2017 150 LOUs had been issued by Mr Shetty and other officers of Foreign Exchange 
+24 
+ 
+Department of MCB Brady House, Mumbai Branch on behalf of the three firms 
+without entry onto the CBS system against which the firms had obtained Buyers Credit 
+from overseas Banks. It was also revealed that Mr Shetty had “increased the maturity 
+date of said LOUs for more than 350 days to grant undue pecuniary advantage to the 
+said 3 firms and their partners and created liability on the Bank amounting to IND Rs 
+6498.20”. He also confirms “the said 3 firms did not arrange the required funds in 
+their accounts to re-pay the liabilities to the 3 overseas banks”.  
+ 
+51. On the 22nd January 2018, the PNB wrote to each of the three companies in response 
+to their request for issuance of buyer’s credit. The letters to the companies explain “in 
+the absence of any sanctioned facility in your favour, you are requested to provide 
+us the copy of the sanction, if any, available with you, as stated in your request. 
+Meanwhile please arrange for cash collateral to the tune of at least 100% to enable 
+us to look into your request”. [ v9 / p. 970 – 972] 
+ 
+52.  The relevant extracts of the statements of accounts of M/S Stellar Diamonds, M/s 
+Solar Express and M/s Diamonds R US are exhibited [v 9/ p. 904-942] and 
+demonstrate that while obtaining LOUs from PNB, the firms had insufficient credit 
+balance to provide the requisite cash margins and security.  
+ 
+53. The notes of the meeting attended by Mr Bhardwaj and Nirav Modi on the 8th February 
+2018 are exhibited [V 9 / p. 1870]. Nirav Modi accepted the issuance of the LOUs to 
+m/s Stellar Diamond, M/s Solar Exports and M/s Diamond R US, contending that it 
+was a facility available to them for at least 8 years and the Bank withdraw the facility 
+abruptly.  PNB confirmed there were no approval or facility sanctioned by PNB and 
+requested Nirav Modi to share copies of any such approvals.  
+ 
+54. The three firms alleged to perpetrate the fraud upon PNB are M/s Diamond R US, M/s 
+Stellar Diamond and M/s Solar Exports. The GOI rely on the following evidence to 
+demonstrate the Nirav Modi was in fact in direct control of these companies: 
+ 
+i. The charter documents for the companies were signed by Nirav Modi [ see 
+references in GOI closing submissions on prima face case for extensive 
+references to the evidence in the bundles] 
+25 
+ 
+ii. Balance sheets and indenture of partnership of the three firms submitted to 
+the PNB for the opening of the current accounts were signed by Nirav Modi. 
+iii. The statement of Mr Raghu Kothari dated 13th October 2018 confirms from the 
+Diamonds R US bank accounts that Nirav Modi withdrew IND Rs 848 Crore 
+to his personal accounts. 
+iv.  In emails send by Nirav Modi on February 5th, 2018 to the Bank, Nirav Modi 
+refers to the companies as “affiliated with me” He goes on to state that his 
+ownership interests are limited to 5% [ v E / Tab 13 & 18] However, in 
+subsequent emails, it is apparent that he refers to the companies generically 
+as the “Nirav Modi” group and in correspondence with PNB has continued to 
+express his willingness and responsibility to resolve the issues and liabilities 
+relating to the three companies. An email dated 15th February 2028 he offered 
+to place his flagship company “Firestar International Ltd” under the banks 
+charge and to sell its shares and assets as repayment [ v 9/ p. 1876 – 1877 and 
+1866 – 1887] 
+v. Examples of statements of dummy directors appointed to the three firms. 
+Oghadbhai Kalsaria in a statement dated 19th March 2018 [ v8 / p. 286 – 290], 
+a farmer is approached together with 5 others to be paid modest amounts to 
+sign documents as partners of the three firms and were given majority 
+shareholdings. His statement also confirms that he was illiterate and was not 
+aware of the consequences of signing cheques, partnerships documents or 
+account opening forms. The indenture of partnership was executed by Nirav 
+Modi.  
+ 
+55. In terms of what the companies did with the buyers credit, it is clear from the s.161 
+statement from Srekumar Menon dated 20.03.2018 the permissible purpose for 
+buyer’s credit is to facilitate genuine import transactions into India. Buyer’s credit 
+must be used for the import of goods. An LOU cannot be used to re-pay the liability of 
+an earlier LOU. The exhibited PNB Circular No 131/2009 dated 19th October 2009 
+regarding issuance of letters is exhibited. [ v 9/  p.  1342]. The s.161 Statement of Shri 
+Keshri dated 20th April 2018 provides some detailed analysis of how the LOUs 
+obtained by Nirav Modi’s firms were used to re-pay liabilities in relation to buyer’s 
+credit obtained by the firms in 2016 and 2017 as opposed for genuine import 
+transactions. The statement also confirms these were authorised by Gokulnath Shetty. 
+ 
+26 
+ 
+56. The s.161 statement of Satyendra Shukla dated 7th August 2018 [ v 9 / p. 950- 966] 
+explains that he worked for one of the Firestar International Pvt Ltd group of 
+companies managed by Nirav Modi’s brother, Neshal Modi. In December 2009 he was 
+asked by Nishal Modi to work in the office of the company in Hong Kong or Dubai and 
+he went to work for M/s Firestar Diamond FZE in Dubai as general manager. After 
+moving to Dubai he recalls Hemel Shah, Hiren Tallor, Hresh Shah, Abhijeet Pawar 
+and Jurian Matthews joining the company. He was responsible for visa processing. He 
+describes that for other Dubai based companies, Mihir Bhansali appointed a 
+consultancy firm to undertake visa processing. The group also had a company in Hong 
+Kong in the name of m/s Firestar Diamond Ltd controlled by a friend of Nirav Modi’s 
+brother. Initially Firestar Diamond FZE imported cut and polished diamonds from 
+Hong Kong and also local purchases from UAE. They would sell the diamonds to local 
+market as well as export to Hong Kong. He was directed by Sandeep Mistry who used 
+to consult Mr Bhansali and Nirav Modi about any transactions. He worked for the 
+company until 2013 before returning to India as instructed by Mihir Bhansali in order 
+to set up a diamond cutting and polishing unit in Surat. In 2014 he was asked again 
+by Mihir Bhansali to go back to Dubai and set up a jewelry manufacturing unit in 
+Dubai for M/s Firestar Diamond FZE. He did this before returning to India. He 
+explains that Mihr Bhansali is Nirav Modi’s cousin and he monitored all the jewelry 
+operations of the Firestar group. Once again in 2016 he was asked by Mihir Bhansali 
+to return to Dubai and join Firestar Diamond & Jewelry as general manager. However, 
+Mr Shukla explains that in relation to other Dubai based companies of the Firestar 
+Group he states they were “dummy companies which were set up by Nirav Modi in 
+Dubai” through the same consultancy company appointed by Mihir Bhansali. He 
+states “In these companies, there was no real business. Transactions were done just 
+for the movement of funds as desired by Nirav Modi. Some of these companies are 
+having branches also in UAE”. He lists the companies operating from Dubai. He also 
+states that other employees of Firestar Group in India were also moved to Dubai, 
+including Sandeep Mistry, Shallesh Mehta and Netajl Mohite. Their visas showed 
+them as employees of the dummy companies and in fact as directors and shareholders 
+of the dummy companies.   
+ 
+57. Satyendra Shukla provided a second s.161 statement dated 8th August 2018. In this 
+statement he explains that Mihir Bhansali had asked him to become manager in a 
+similar complex structure of companies formed under the instruction of Mihir 
+27 
+ 
+Bhansali and Nirav Modi. Gradually Nirav Modi, Nehal Modi and Mihir Bjhansall, so 
+that by the end of 2013, the managers / owners of the companies were most ex-
+employees of Firestar Group. He describes the rotation of pearls and pearl jewelry 
+between the companies. Communication regarding the functioning of the dummy 
+companies was done on ‘panemail’ or ‘cricket’. He also describes a similar set up of 
+companies in Hong Kong formed by Nirav Modi, which operated in a similar manner 
+to the Dubai based companies.  
+ 
+58. He explains after the investigation against Nirav Modi started, he and the other 
+dummy directors decided to leave Dubai and return to India but Mihir Bhansali asked 
+them all to wait as if they returned to India the government agencies may arrest them. 
+Mihir Bhansalli left for the US and instructed them not to contact him. Nehal Modi 
+took the mobile phones off all the dummy directors and destroyed them. Although Mr 
+Sukra was not involved in the financial matters of these companies, he worked with 
+the other directors and “came to know that huge funds were transferred to Nirav 
+Modi and Deepak Modi”.  
+ 
+59. Further statements from the dummy directors of Hong Kong based company who 
+were part of the Firestar Group are provided by Nilesh Khetani in his s.161 statement 
+dated 19th July 2018 [ v 11 / p. 188-197]. He states there were no genuine business 
+transactions in the companies and the companies were being used for transferring 
+funds generated “in the guise of sale – purchase / export – import of goods” he 
+described the companies being controlled by Nirav Modi and Mihir Bhansali. He 
+corroborates the setup of the companies in Dubai. He also explains that after the 
+registration of the case by the CBI, Nehal Modi the younger brother of Nirav Modi 
+took overall control of the affairs of the various companies. He was advised to leave 
+Hong Kong for Cairo and their cell phones were destroyed.  
+ 
+60. The s.161 statement of Nilesh Mistry dated 20th August 2018 [ v 11 / p. 206 – 210] is a 
+junior account officer who handled accounting and maintained the sale/purchase 
+transaction entries pertaining to import/export/local sale carried out within the group 
+of companies based in Mumbai, Surat, Dubai and Hong Kong. He made accounting 
+entries pertaining to local purchase as well as import/export of goods (diamonds / 
+jewelry) within M/s Firestar Diamond International Pvt Ttd, Mumbai, M/s Neeshal 
+Merchandising Pvt. Ltd, M/s Firestar Diamond Inc, M/s Brilliant Diamond ltd, Hong 
+28 
+ 
+Kong, M/s Eternal Diamond Co Ltd, Hong Kong, M/s Ajafee Inc, USA and M/s 
+Fantasy Diamond Inc, Mumbai. He states all these companies were owed by Nirav 
+Modi and his family members. He describes the account entries as “round tripping 
+nature” between the dummy companies. He came across transactions where “round 
+tripping funds” were transferred into personal accounts of Pruvi Modi, Nirav Modi’s 
+sister. He also described how “round tripped funds” were also siphoned off within the 
+Dubai based companies to Purvi Modi’s personal account. In March April 2018 when 
+the CBI investigation commenced, he states he was instructed by Mandeep Mistry and 
+Mihir Bhansali to withdraw money from the Dubai based group accounts of which he 
+and others were namesake directors. This was handed to Sandeep Mistry. He also 
+describes being threatened by Mihir Bhansali and Nehal Modi to go to Cairo. He 
+questioned the round tripping transactions and was told by the Finance Manager “I 
+don’t have to worry about these round tripping transactions”. He was told the 
+Mumbai based Finance Team of FIPL/FDIPL companies were arranging loans from 
+Punjab National Bank. Albeit hearsay, that fact is not actually in dispute.  
+ 
+61. Further corroborative evidence is found in the statements taken as part of the ED case. 
+ 
+62. Statement of Ashish Bagaria [ v 6(ii) / p. 137-147].  In June 2009 Mr Bagaria joined 
+Firestone International as a data entry operator. In January 2011, he was transferred 
+to Hong Kong. He was asked to sign some papers by Afditya Nanavati and it was 
+explained he had become a director of Eternal Diamonds Corporation Limited. He was 
+told that this was necessary as Purvi Modi was the owner of the company but she could 
+not manage the affairs of the company as she was frequently travelling. He was also 
+required to open a bank account. He confirms he never had any decision-making 
+authority within the company. Having returned to Mumbai he was asked to return to 
+Hong Kong in 2015 by Sandeep Mistry and Mihir Bhansali. He was tasked with 
+“Diamond, Jewelry and Pearl Shipment” of six Hong Kong based companies including 
+the company he was a director of. He also explains the companies were dummy 
+companies used to import diamonds, effect sales between dummy companies before 
+diamonds were exported again. He states each of the companies was in essence 
+controlled by Nirav Modi. In March 2018 after the CBI investigation was launched, he 
+explains Nehal Modi came to Hong Kong and informed the directors that the 
+companies must be liquidated and they were to destroy their mobile phones. He was 
+also placed under pressure to travel to Cairo but Mr Bagaria refused. 
+29 
+ 
+ 
+63. Ashish Lad provides a number of statements [ v 11 / p. 127 – 176 &  v 6(ii) ]  He joined 
+Firestar Diamond Ltd in 2007 and worked in the accounts department. In 2012 he 
+was transferred to the Dubai office. His role was to enter sales and purchase 
+information into accounting software in relation to Eternal Diamond Corporation Ltd, 
+Brilliant Diamonds Ltd, Tricolour Gems and World Diamonds Distribution. In 2013 
+he was summonsed to Surat office of Firestar International. He was told he was 
+required to become the owner of a Hong Kong based company named Sunshine Gems 
+Limited. He was required to travel to Hong Kong to open a bank account. He was also 
+asked to become owner of a further Hong Kong Company Unity Trading [ this is also 
+corroborated in the statement made by Satyendra Shukla above, who details Ashish 
+Lad as owner of this dummy company]. In both companies, Mr Lad confirms he had 
+no decision-making authority. He also, like Satyendra Shulka, provides details of other 
+similar companies which were opened with no employees other than nominal director 
+/ owners. There was no legitimate trade by the companies. He confirms that Nirav 
+Modi was the beneficial owner and controller of the Dubai and Hong Kong based 
+companies. He also explains that in March 2018, Mihir Bhansali visited the directors 
+in Dubai and warned them that if they go to India they will be arrested. They are told 
+that if they co-operate they will be provided shelter and legal help. Mr Bhansali warned 
+them if they returned to India the company will not help. Nehal Modi told them Dubai 
+was not safe and they agreed to go to Cairo.  
+ 
+64. Ms Montgomery and Mr Watson have made extensive submissions as to the 
+alternative narrative of what occurred. In their submissions the only realistic 
+possibility is that PNB’s lending was the result of ordinary commercial arrangements 
+entered into openly, and therefore without deception, and that is the most realistic 
+probability on the evidence. They submit there is no evidence anyone was misled. The 
+evidence is overwhelmingly that anyone at the PNB who needed to know of the LOU 
+arrangements between the bank and 3Ps did. PNB was very well aware, at the highest 
+levels, of the arrangements. They submit the CBI case is an exercise in reverse 
+engineering – taking as its starting point that there was fraud and then looking to find 
+it. They submit the GOI have failed to consider the wider commercial context of the 
+lending, its actual origins, the absence of any pattern of deception or secrecy or 
+financial gain and the absence of any evidence that any funds derived from those 
+arrangements were wrongly obtained by NDM.  
+30 
+ 
+ 
+65. Nirav Modi submits the PNB had provided the 3P partnership with a long established 
+and largely unsecured LOU credit facility. It was operated in plain sight with on-going 
+repayments and further borrowing. The defence identify the 6 OUs previously 
+authorized by Jasmine Makwana and Dinesh Bhardwaj without a 100% margin being 
+taken when the LOUs were issued. They also point to other LOUs being repaid when 
+they fell due. When further buyer’s credit was sought on the 16th January 2018 and 
+100% margin was insisted upon, it is submitted that the 3Ps replied by letter to Mr 
+Bhardwaj stating “As explained to you, this is per the revolving buyers credit facility 
+we have been enjoying with your bank for the last several years. Each amount has 
+been paid through your bank to suppliers and each amount due has been repaid by 
+us over all these years. Kindly do not delay in issue of the LOUs as this will result in 
+cash crunch, buyer default in case of the nature of contract work done by us for them 
+and [in] turn default in repayment of the buyer’s credit extended in February 2017” 
+[ v E(2) / Tab 7]   
+ 
+66. Ms Mongomery and Mr Watson submit that the PNB bankers were then negotiating 
+with 3P since 22nd January 2018 and met with Nehal Modi on 25th January 2018. 
+Negotiations continued including further correspondence between Nirav Modi and 
+the PNB, including on the 13th February 2018 an email to PNB’s Managing Director 
+Sunil Mehta, making further proposals for a structured repayment process “My intent 
+is to honour all the obligations on my part, Firestar’s part and whatever the firms 
+are liable to pay, while reserving our rights regarding your action”. [ v E(2)/ Tab 25]  
+There were ongoing negotiations and attempts at finding a compromise solution up 
+until 15th February 2018 when Nirav Modi emailed the PNB and the broader 
+consortium of Firestar lenders “My intent is to cooperate fully with PNB and the 
+consortium of banks, and sincerely request that value in FIPL [ Firestar 
+International Private Limited] is not destroyed. FIPL has 2400 employees and has 
+over the years built excellent relationships with suppliers and customers around the 
+world….I once again request you obtain the repayment of your dues through a 
+combination of the receipts from the three firms buyers and sale of FIPL / its assets 
+and keep FIPL’s business intact until then” [v e(2) / Tab 25].Therefore it is submitted 
+that although PNB filed its criminal complaint regarding the 150 fraudulent LOUs on 
+the 13th February 2018 the Bank was already looking to negotiate a solution to what 
+was in reality a commercial dispute initiated by the PNB refusal to issue LOU on the 
+31 
+ 
+same terms as it had before. The finance facility had been running for many years, 
+signed off by numerous employees in the bank with repayments made on time by the 
+3P. It was only when PNB simultaneously changed the terms of the lending and placed 
+pressure on the other banks who had provided facilities to the wider group to 
+withdraw lending and informed the CBO it had been a victim of fraud, the PNB created 
+an immediate cash crisis for Firestar. As a result, Firestar International Ltd, Firestar 
+Diamond International Limited and the 3P ceased to be going concerns.  
+ 
+67. Although Nirav Modi has not given evidence at the extradition hearing, I received 
+evidence from Thierry Fritsch [ v D / Tab 2] , who had worked for Nirav Modi for many 
+years and spoke passionately about Nirav Modi as an entrepreneur and an artist. His 
+evidence in my assessment does not assist me in relation to whether a prima face case 
+has been disclosed. 
+ 
+68. I also received live evidence from Dr Richard Taylor [ v C] an expert within the jewelry 
+industry. His evidence was in essence to rebut the GOI’s evidence concerning the Hong 
+Kong and Dubai based companies and the suggestion that they were related parties 
+and simply involved in the circular rotation of goods to give the impression of trade. 
+Dr Taylor describes the circular rotation of stock is in fact relatively common practice 
+within the jewelry industry for compelling commercial reasons, in order to ensure 
+stock which is not selling can be refashioned to improve salability or release capital 
+when a company is suffering liquidity problems.  
+ 
+Conclusions on prima facie case for CBI request. 
+ 
+69. As Ms Malcolm and Mr Hearn submit, the GOI must establish that Nirav Modi: 
+i. Formed or was party to an agreement 
+ii. To defraud PNB by 
+iii. Dishonestly causing/ permitting the issue of LOUs 
+iv. By one or more of the indicated means 
+v. Causing loss/risk of loss to PNB. 
+ 
+70. I have considered the case of Shillam [2013] EWCA Crim 160 at [19] “The evidence 
+may prove the existence of a conspiracy of narrower scope and involving fewer 
+people than the prosecution originally alleged, in which case it is not intrinsically 
+32 
+ 
+wrong for the jury to return a guilty verdict accordingly but it is always necessary 
+that for two or more persons to be convicted of a single conspiracy each of them must 
+be proved to have shared a common purpose or design”. 
+ 
+71. Based on the evidence set out above I make the following findings; 
+ 
+i. The LOUs which are the subject of the CBI case were issued to NDM’s firms by 
+Gokulnath Shetty, who is alleged as a co-conspirator with NDM. Mr Shetty 
+retired on the 31st May 2017 shortly after the relevant LOUs were issued. 
+ii. The LOUs had been issued in the same manner as LOUs issued to NDM’s firms 
+between 2011 – 2017, without appropriate cash margins and without being 
+recorded on the bank’s systems.  
+iii. I find that it was necessary for the LOUs to be entered onto the CBS system so 
+that the bank’s contingent liability could be tracked. I find the only reasonable 
+explanation for the transactions not being entered onto the CBS system is so 
+that the PNB were misled and the fraud would not be detected. This inference 
+is also supported by Supriya Sakhare’s evidence.  
+iv. The submission that the PNB had provided the companies with a long 
+established and largely unsecured LOU credit facility operated in an ordinary 
+way and in plain sight is not supported by the evidence that the LOUs were not 
+entered on the bank’s CBS system. Submissions that between 17th October and 
+13th November 2017 six LOUs had been issued to the companies approved by 
+senior managers in circumstances where 100% margin had not been taken or 
+entered on the LOUs is not supported by Mr Bhardwaj’s statements or those 
+of other bank officials highlighted above. Mr Bhardwaj confirms the cash 
+margins were obtained. They had been issued by Yashwant Joshi a co-
+conspirator and were explicitly excluded from the CBI case. Supriya Sakhare 
+confirms that details of those LOUs were entered onto the CBS system 
+eventually due to software issues. Mr Bhardwaj’s evidence confirms Mr Shetty 
+had failed to retain documents lodged by the firms in support of the LOUs. 
+Those documents had been returned by Mr Shetty to the NDM Firms as 
+confirmed by Mr Hindlekar.  
+v. At the time the LOUs were issued, the firms did not have sufficient credit to 
+provide requisite cash margins. The NDM firms had current accounts and did 
+not enjoy any credit facility for issuance of LOUs.  
+33 
+ 
+vi. The LOUs were issued in direct contravention of the PNBs Circular No 
+131/2009 dated 19th October 2009 by Mr Shetty. Albeit it is submitted the 
+LOUs were sanctioned by PNB heads of Branch. Some of those heads of Branch 
+remain under investigation. Albeit it is submitted on behalf of NDM that Mr 
+Bhardwaj approved the issuance of the LOUs, that is not supported by the 
+evidence of Supriya Sakhare. 
+vii. There are clear links between NDM, Nehal Modi, Mihir Bhansali Gokulnath 
+Shetty and Yashwant Joshi, named as some of the co-conspirators. To some 
+extent, NDM’s links with officials at the Banks is corroborated by the 
+conversation Supriya Sakhare had with Yashwant Joshi. In that conversation, 
+Mr Joshi told her he had been asked to continue opening LOUs without 
+entering them on the CBS system as was being done earlier by Gokulnath 
+Shetty and she was told the bank should not ask for 100% margin. Albeit what 
+was relayed in the conversation may be inadmissible hearsay, the evidence of 
+the conversation itself is admissible to demonstrate the links between NDM 
+and officials at the Bank, as well as the instruction she received not to ask for 
+100% margin. There is also the evidence from Ravindra Hindelkar supporting 
+how Mr Shetty sent original documents, which should have been retained at 
+the Bank back to Firestar offices under the direction of Subhash Parab who 
+reported to NDM.  
+viii. When NDM’s firms approached PNB in January 2018 requesting fresh LOUs, 
+when challenged by the Bank regarding the absence of any sanctioned facility 
+in the firms’ favour, the NDM firms could not provide any evidence of any 
+sanctioned facility with PNB. On 25th January 2018 the NDM firms replied to 
+PNB indicating that in the absence of fresh buyers credit being issued they 
+would default on repayment of the buyers credit extended to them by PNB in 
+February 2017. The evidence of communications between NDM and PNB 
+suggesting that this demonstrates a longstanding awareness by the Bank that 
+LOUs had been long provided to the firms without cash margins were sent 
+subsequent to PNBs refusals to issue further LOUs. I agree with the 
+submission made by Ms Malcolm and Mr Hearn that it is a reasonable 
+inference that these communications were a post facto attempt to legitimise 
+what had occurred. I balance that against the fact no evidence has ever been 
+adduced demonstrating the NDM firms had a sanctioned facility with PNB, 
+something which was specifically requested by the Bank in January 2018.  
+34 
+ 
+ix. PNB filed a complaint with the CBI on 29th January 2018 and 13th February 
+2018. 
+x. On 5th February 2018 Nirav Modi personally wrote to the PNB accepting the 
+fact of the debt and taking responsibility for the outstanding borrowing. The 
+argument that the borrowing was known about, tolerated or sanctioned by 
+PNB is inherently implausible in view of the amount of unsecured debt INRs 
+6498 crores (equivalent to £729m) obtained by the three firms. In any event, 
+that is disputed in the evidence from the Bank officials. 
+xi. PNB officials unraveled a “Ponzi-like” structure where LOUs were used to 
+repay earlier ones. 
+xii. Following the reporting by the Bank to the CBI, concerted attempts were made 
+to prevent dummy directors of companies controlled by NDM in Dubai and 
+Hong Kong co-operating with investigators.  
+xiii. The CBI investigation demonstrates that NDM had retained control of the 
+Nirav Modi Firms but had sought to disguise the control of the firms through 
+the use of dummy partners recruited at his behest in order to sustain the LOU 
+scheme.  This was despite the email from Nirav Modi to the PNB stating his 
+ownership in the entitles was less than 5% but he saw it as his “moral 
+responsibility to arrive at an amicable solution”. 
+xiv. I do not accept the submissions that NDM was involved in legitimate business 
+and using the LOUs in a permissible fashion. It would not be in PNBs interests 
+to create such enormous financial exposure through a financial product which 
+the evidence from the Bank officials confirms is not designed for general 
+business lending, I find there is no evidence of genuine import transactions 
+and the applications for the LOUs was being done dishonestly. The statement 
+of Rajendra Keshri is supportive of the fact the LOUs obtained by NDM’s firms 
+were used to re-pay liabilities in relation to buyer’s credit obtained from earlier 
+LOUs. Suggestion that buyers credit obtained by the Nirav Modi Firms was 
+required for making payment for genuine imports from suppliers mentioned 
+in the LOUs is not born out by statements from the dummy directors in the 
+Hong Kong and Cairo based companies. Their evidence is that these 
+companies were not genuine suppliers and were shadow companies controlled 
+by NDM through several employees who were represented as directors of the 
+companies. NDM’s firms’ business transactions were primarily with these 
+dummy companies. The statements demonstrate that the circulation of pearls, 
+35 
+ 
+diamonds and gold between the NDM firms and the Dubai and Hong Kong 
+based companies was not genuine business and the companies were being 
+used for transferring funds generated “in the guise of sale – purchase / export 
+– import of goods” colloquially referred to as “round tripping transactions”. 
+Again, there no evidence demonstrating that the NDM firms had any 
+sanctioned facility with PNB. 
+xv. The fact NDM and his associates were aware of the risks presented by the 
+dummy directors if they were to be spoken to by the authorities after the CBI 
+investigation opened can be the only explanation for efforts which were made 
+to ensure they were kept away from India. 
+xvi. The evidence referred to at paragraph 54 above demonstrates that NDM was 
+in direct control of the three Nirav Modi firms.  
+xvii. Although there may be no direct evidence of NDM entering into an agreement 
+with Bank officials and his other alleged conspirators, the evidence of the links 
+between Nirav Modi, Nehal Modi, Mihir Bhansali, Gokulnath Shetty and 
+Yashwant Joshi alone combined with my other findings above, in particular 
+the lack of evidence of any sanctioned limit agreed with the Bank; the manner 
+in which the LOUs were obtained and concealed, the manner to which the 
+LOUs was used, the actions of NDM, his brother and Mr Bhansali after the CBI 
+investigation opened cumulatively and progressively eliminate the alternative 
+narrative put forward on NDMs behalf. The combination of the evidence taken 
+as a whole create an inevitable conclusion NDM, his brother, Mr Shetty, Mr 
+Bhansali and Mr Joshi Jie Zhang, were operating together dishonestly with 
+other associates and banking officials to defraud the PNB.  
+xviii. The loss to the Bank is evidenced in the statements from the Banking officials.  
+ 
+72. I remind myself that this Court does not have to exclude all of NDM’s alternative 
+narrative and possibilities or his personal interpretations of the evidence. Many of 
+which will be matters for the trial in India and not relevant to the ultimate task for this 
+Court on these requests. Pulling all these findings together, I determine, on one 
+possible view of the evidence, I am satisfied that there is evidence upon which NDM 
+could be convicted in relation the conspiracy to defraud the PNB. A prima face case is 
+established.  
+ 
+ 
+36 
+ 
+Prima Facie case – ED case 
+ 
+73. As Ms Mongomery and Mr Watson concede in their final written submissions, the ED 
+case of money laundering is parasitic on whether prima facie case of conspiracy to 
+defraud has been made out. If it has not, then there is no predicate offence on which 
+to find any allegation of money laundering. If a prima facie case is made out on the 
+conspiracy to defraud, then Ms Mongomery and Mr Watson accept that there will 
+necessarily be a prima facie case of money laundering. Having found a prima facie 
+case on the conspiracy, for the sake of brevity, I am not going to embark on setting out 
+the full evidence relied on within the ED request and my evaluation thereof. It is a 
+point conceded by those representing NDM and I find there is prima facie case of 
+money laundering.  
+ 
+Prima Face case – Supplementary CBI Request 
+ 
+74. The GOI must establish that NDM: 
+i. Formed or was party of an agreement 
+ii. To commit acts 
+iii. Tending and intending to pervert the course of justice 
+iv. By one or more of the indicated means 
+ 
+75. The s.161 statement of Anand Mohan [ v 11 / p.106-111] dated 9th March 2018. He is 
+employed as an associate at the firm of laws Cryril Amarchand Manglada (CAM). On 
+the 14th February 201, being aware that the ED and the CBI were undertaking searches 
+of various premises of Nirav Modi group. He was aware that the three firms were 
+Diamonds R US, Stellar Diamond and Solar Exports. He was asked by a colleague Ms 
+Shaneen Parikh to liaise with Mr Miten Pandya so that documents relating to Nirav 
+Modi’s firms could be delivered to the CAM offices. He was asked specifically to 
+confirm with Mr Pandya that they would not accept any original documents. He 
+confirms that Mr Pandya works with NDM. The documents were delivered to the 
+lawyer’s office on the evening of 14th February 2018. It was confirmed by Mr Pandya 
+that only copy documents had been brought. Scanning of the documents was 
+undertaken and Ms Shanneen Parikh instructed him to contact Mr Pandya to have all 
+the papers taken back but Mr Pandya never contacted him to arrange. He goes on to 
+say that the documents were then seized from CAMs offices on 20th & 21st February 
+37 
+ 
+2018 and he subsequently learnt that they contained original documents from the 
+three firms .His further statements dated 17th July 2019 explains during the scanning 
+process he asked Mr Pandya why they had brought original documents and he was 
+told  that “Nehal Modi and Vipul Ambani had told him that all documents which were 
+lying in their office should be shifted to the office of Cyril Amarchand Mangaldas and 
+he had brought all the documents of Firestar Group which were given to him by 
+Nehal Modi and Vipul Ambani”.   
+ 
+76. The search lists exhibited in the request set out details of the documents seized from 
+the offices of CAM (V 11 (ii) pages 112 – 121) . These include original applications for 
+LOU, airway bills, bills of entry, copies of SWIFT messages. All documents relating to 
+the Nirav Modi Firms. In addition, the Production Cum Seizure Memo at pages 122 – 
+123) include rubber stamps relating to companies controlled by Nirav Modi, all seized 
+from the CAM office by the CBI.  
+ 
+77. On the 29th May 2018, Ms Shannen Parikh of CAM emails Nirav Modi. The email is 
+exhibited at Annex D of the Supplementary Request, is terminating the services to 
+NDM by the firm of lawyers. Within the email she states: 
+ 
+“ ….we are still reeling under the trauma that come upon us consequent to 
+your treacherous conduct of saddling us with boxes of several original papers 
+contrary to the express instructions to your representative to only send copies of 
+relevant documents for conducting the legal and forensic analysis that we were 
+engaged to do. Further, to our shock and surprise we later discovered that the boxes 
+also had rubber stamps, seals and blank letter heads of your various companies, 
+which apart from being highly unusual, was totally irrelevant for our professional 
+work. Your conduct is reprehensible”   
+ 
+78. In addition, statements have been provided by the dummy directors of the companies 
+were transported from Dubai to Egypt by NDM’s associates. I will refer mainly to the 
+s.161 statements from Ashish Lad [ referred to above] . He provides further details to 
+those described above in his statements of 27th July 2018 and 10th June 2019 about 
+the “round tripping transactions” used to create turnover for the Firestar Group and 
+how transactions were communicated through a private communications system 
+“panmail” or “crickinfo” within Firestar Group as well as the Dubai and Hong Kong 
+38 
+ 
+based companies. He explains that in March 2018 when the CBI investigation started, 
+Mihir Bhansalli instructed all the dummy directors to withdraw money from the Dubai 
+based accounts in which they were shown as namesake directors and handed over to 
+Sandeep Mistry. They were told the cash would be handed over to Nirav Modi’s 
+brother Nehal Modi. Thereafter in March 2018, Nehal Modi and Mihir Bhansali 
+instructed them to go to Cairo and threatened them that the police would arrest them 
+if they remained in Dubai. Flights were arranged by Nehal Modi. In the meeting with 
+the dummy directors, Mihir Bhansali told them “there is a hostile scenario in India 
+right now, and if we go to India, we will be arrested by the investigating agencies. 
+He also told us that if we co-operate with them, they will provide shelter and legal 
+help”. They were told by Mihir Bhansali he was conveying the instructions of NDM in 
+terms of the sale / purchase transactions by Dubai based firms with the Nirav Modi 
+firms, but they were requested “Not to disclose his name before any authority”. He 
+also explains that Nehal Modi also came to Dubai and took their mobile phones back 
+and issued new ones.  
+ 
+79. Ashish Lad also explains that “There was a server in the office of World Diamond 
+Distribution FZE in which all the data related to accounting and operations in 
+respect of all the companies of Nirav Modi in Dubai was stored. The server was 
+connected to all the branch/ head offices of the supplier dummy companies of Nirav 
+Modi. As I recollect, somewhere at the end of March or April 2018, the office premises 
+of World Diamond Distribution FZE situated in Dafza was vacated and returned to 
+the authority. Similarly, the other Branch / Head Offices of certain dummy 
+companies were also vacated and returned to the respective authorities. Prior to 
+vacating the office of World Diamond Distribution FZE, the server was also 
+removed. As per my knowledge, Shri Nehal Modi handed over the server hard disc 
+to the firm of Pakistani Nationals for destroying the same “. 
+ 
+80. He goes on to explain that Nehal Modi told him and the other directors in Dubai to 
+leave. In fear, they all agreed to go to Cairo in Egypt. Nehal Modi arranged travel. 
+Ashish Lad, Rushbh Jethwa, Netaji Mohite, Subhash Parab, Sandeep Mistry, Mrs 
+Jyoti Mistry, Meet Mistry Nilesh Mistry, Jinesh Shah, Donu Mehta, Vipin Sanit, Suby 
+George and Shridhar Mayekar were taken to Cairo and Nehal Modi removed their 
+phones again.  
+ 
+39 
+ 
+81. In addition, I was provided with a video recording of a number of the dummy directors 
+taken in Cairo. (Ashish Lad, Rushabh Jethwa, Shreedhar Mayekar, Sonu Mehta and 
+Nilesh Mistry) This was played in Court and a transcript provided. In summary they 
+each they describe themselves as the namesake owners of the various companies. They 
+describe the fact they were made to sign documents for their own safety and those 
+documents state that the companies in Dubai belonged to them. The documents state 
+that they have been carrying on business with Firestar and NDM and after his financial 
+crises, their businesses faced difficulties and to avoid creditor claims they have all 
+come to Cairo. They say on the video that this is not true, because they were all working 
+for NDM, they are under his control, they are living in fear and that is why they signed 
+the documents, they signed the documents to get their passports back. Their passports 
+were taken from them to get visas. They explain that they are making the video to let 
+everyone know the pressure in which they’ve signed the documents because they had 
+no other choice. [ Annex L (V) of the supplemental request] 
+ 
+82. In addition, the request includes transcripts of audio recordings between Nehal Modi 
+and a number of the dummy directors while they are in Cairo [ v 11 (ii) pp 145 – 151, 
+152 – 159, 163 – 164, 180-181, 183-184. The conversations show how Nehal Modi 
+placed pressure on individuals to make untruthful statements, tell them what to say 
+in statements. In a conversation between Nehal Modi and Ashish Lad, Nehal Modi is 
+instructing Ashish Lad about how he should return to India via Calcutta to evade the 
+authorities. He explains a lawyer will visit him and he will sign documents and make 
+same statements as Divyesh Ghandi. He also tells Ashish Lad he will need to go to 
+Europe to make a statement in return for 20 Lakhs.   
+ 
+83. In another transcribed call with Rushabh Jethwa, Nehal Modi instructs him to make 
+a statement in which he states he travelled to Cairo because he was scared and that he 
+does not work with Nirav Modi.  
+ 
+84. In a further statement dated 11th June 20-19, Ashish Lad explains that in Cairo he was 
+asking Sandeep Mistry to convince Nehal Modi to allow him to return to India. He 
+explains that he received a call on his mobile from a private number which he did not 
+answer. He then received a call from Nehal Modi telling him to answer the number as 
+it was NDM. Ashish Lad explains that he then received a call from NDM. He tried to 
+convince him to stay in Egypt and assured him that he would provide legal help. 
+40 
+ 
+Ashish Lad sates he kept asking NDM if he could return to India. He was told by NDM 
+that if he does go to India he will be arrested. Ashish Lad explains to him that he has 
+done all the transactions as per his instructions conveyed by Mihir Bhansali and 
+Sandeep Mistry and he will face the authorities in India. However, at this point Ashish 
+Lad says that Nirav Modi “started threatening me by using abusive language and 
+also told me that he will get me killed ( In Gujarati “marvalakhis”) if I do not follow 
+his instructions. He also threatened to implicate me in theft case. I was so scared. I 
+was not expecting such type of response from Nirav Modi. I shared this conversation 
+with Rushub Jethwas and Sridhar Mayekar”.  
+ 
+85. Rushabth Jethway anf Shreedhar Mayekar confirm that Ashish Lad told them of the 
+call from Nirav Modi in their respective statements dated 17th June 2019 and 26th 
+November 2019. [ v 11 p.177- 181 & p 182 – 184] 
+ 
+86. Finally, evidence of the threats made by NDM are further set out in the transcripts of 
+audio conversations between Ashish Lad, Sandeep Mistry and Nehal Modi during the 
+course of which Nehal Modi appears to apologise for his brother as he is under “crazy 
+amount of stress and I am apologizing on his behalf”, before giving his word that 
+Ashish Lad can leave Cairo on the 29th June.  
+ 
+87.  In relation to moving the documents to CAMs, Ms Mongomery and Mr Watson 
+submit that at its highest, it is simply the action of taking evidence to a very well-
+known law firm for it to be scanned and stored electronically. Where there is a formal 
+retainer in place between a client and a reputable law firm and documents are taken 
+to the law firm to be copied pursuant to that retainer, that conduct cannot disclose a 
+criminal offence of perverting the course of justice.  The letters of retainer exhibited 
+by the defense show that CAM were engaged as soon as PNB refused to issue further 
+letters of credit, in order to seek to resolve the issues between Nirav Modi’s companies 
+and the PNB. On the GOIs own evidence, it is submitted that the documents were 
+taken to CAMs offices and held there for a matter of days for the scanning to be 
+undertaken. However, before they were returned to the companies, the documents 
+were seized by the CBI. The only wrongdoing alleged is the fact there were some 
+original documents. The email from Ms Shannen Parikh on the 29th May 2018 was 
+sent at a time when CAM was having to fend off allegations made against it by the CBI. 
+In summary, Ms Mongomery and Mr Watson submit there is no evidential basis to 
+41 
+ 
+support the proposition that in handing over materials to a reputable law firm in order 
+than they could be scanned and stored, any person involved in a conspiracy to pervert 
+the course of justice.  
+ 
+88. In relation to the Cairo allegations, the alleged threat to Ashish Lad and the 
+destruction of the server, the GOIs essential case is that the directors of the Dubai 
+companies were transported involuntarily out of Dubai to Egypt by Nirav Modi and 
+his associates, held against their will and placed under pressure to give false 
+statements to the Indian authorities. However, Ms Mongomery and Mr Watson 
+submit that the reality was somewhat very different. The Directors themselves chose 
+whether or not to travel to Cairo. They went for their own reasons, because they were 
+fearful of arrest in Dubai in circumstances where their families in India were being 
+pressurized by the CBI. They lived freely in Cairo, were able to leave as and when they 
+wanted to and they made plans to remain there and work. They were not coerced into 
+making false statements to the Indian authorities, they decided to return to India 
+having seen a former director who had stayed in India (Divyesh Ghandi) had been able 
+to avoid arrest having made statements against Mr Modi and having made contact 
+with the Indian authorities, they then concocted an account of having been pressured 
+/ coerced to go to Cairo to seek to justify their departure from Dubai and preserve their 
+position before the Indian authorities. 
+ 
+89. The flaws in the GOI case are such it is submitted that the s.161 statements taken from 
+the directors are worthless. I am asked to consider various identical verbatim sections 
+of the statements taken from Ashish Lad, Nilesh Mistry and Mayeka regarding what 
+led the directors to go to Cairo. It is submitted that these verbatim sections, which 
+must have been prepared by the investigators causes very substantial concern 
+surrounding the authenticity and reliability of the s.161 statements such that no weight 
+should be attached to those statements. In addition, the notion that the directors were 
+held there against their will is unsustainable when considered alongside the evidence 
+submitted by the defence. 
+ 
+90. The Defence have filed significant evidence including six statements from those who 
+were with the directors in Cairo between April and June 2018. In brief summary, 
+Mohamed Yosr [ v N / Tab 7] , a coordinator for tourists and visitors who acted as the 
+directors tour guide in Cairo. Ahmed Akl [ v N / Tab 8], a corporate lawyer in Cairo 
+42 
+ 
+who assisted the directors to set up businesses in Egypt. Mohamed Selim [ v N / Tab 
+9], a property developer in Cairo who not only helped the directors find suitable 
+accommodation but also became a joint shareholder in the Egyptian companies they 
+incorporated. Ibraham Zakariya [ v N / Tab 10] a PR manager at a school in Cairo who 
+showed Ashish Lad around the Al Ahram Modern School in Cairo when he was 
+considering sending his son there. Ahmed Magdy [ v n / Tab 11], a real estate broker 
+in Cairo who helped Mr Lad who was looking to buy and apartment which was close 
+to the school. Finally, Subhash Parab [ v N/Tab 12] who worked in the finance 
+department at Firestar Dubai who travelled to Egypt with the directors and explains 
+his experience of his time with them. Various contemporaneous documents and 
+communications which support their accounts are exhibited. Taken together it is 
+submitted these statements and their exhibits demonstrate no reliance whatsoever 
+can be placed on the evidence on which the GOI rests its case. It is completely at odds 
+with the reality of the situation in Cairo and therefore the evidence on which the GOI 
+is characterized is “worthless” and ought to be excluded from consideration. 
+ 
+91. Finally, significant criticism is made of Ashish Lad’s evidence, particularly his 
+truthfulness about him visiting the schools in Egypt.  
+ 
+Conclusions on prima facie case for supplemental CBI request. 
+ 
+92. I make the following findings on the evidence: 
+i. Albeit it is submitted on NDM’s behalf that the characterisation of the evidence 
+relating to moving documents to CAM is simply evidence of the retainer with 
+the Indian Law firm engaged in January 2018 to act on behalf of NDM and the 
+three Nirav Modi firms to provide strategic and legal advice in relation to the 
+firms interaction with the PNB and other lenders is one view that can be taken 
+of the conduct within the request, however, I find the context cannot be 
+ignored. Once NDM learned in January 2018 that no further LOUs would be 
+forthcoming from the PNB all documentation relating to the companies was 
+moved to CAM. The relevant documents included original LOU applications 
+and request letters which should never have left the PNB. Although whether 
+these were originals is disputed, that is a matter for the trial. However, what is 
+probative in determining whether there is a prima facie case is the evidence 
+that original documents had been returned to the NDM firms by Mr Shetty (as 
+43 
+ 
+per evidence from Ranvindra Hindelkar in the first CBI request – see above). 
+Of note the documents were delivered to CAM on the 14th February 2018 at a 
+time when NDM would have been aware of the CBI investigation and searches 
+of the Firestar Group offices which began on the 3rd February 2018. The seizure 
+memo and search list documents materials seized from the CAM offices which 
+included rubber stamps of various entities within the Firestar Group including 
+the NDM firms, blank judicial stamp papers issued in the names of the various 
+Firestar Group entities, original copies of request letters submitted to PNB by 
+the NDM firms for issuance of the LOUs. These should have been in PNB’s 
+possession. Also found were blank letter heads of various Firestar Group 
+entities, original invoices, house airway bills and bills of entry. There is no 
+explanation provided why original documents that had been submitted to PNB 
+in support of the LOU applications are in the possession of NDM firms or his 
+co-conspirators or why they were sent to CAM. As I have found in relation to 
+the first CBI request, those documents had been returned by Mr Shetty to the 
+firms contrary to PNB practice and procedure. 
+ii. I accept there are competing version of events when you compare the 
+statements of the dummy directors and those statements served by the defense 
+about what happened in Cairo. Considering the entirety of the evidence, the 
+dummy directors’ evidence in their statements supports the ponzi-like scheme 
+and the operation of the fraud set out in the statements from the PNB officials 
+in relation to the first request. The directors’ statements are corroborated by 
+the video recording made in Cairo and the audio recordings of telephone 
+conversations between the directors and NDM’s associates in particular his 
+brother Nehal Modi. The audio recordings support the directors’ evidence 
+about the involvement of NDM’s brother in making arrangements for the 
+directors to travel to Cairo and specific instructions Nehal Modi was giving as 
+to when individuals could leave Cairo and their points of entry back in India to 
+avoid investigating authorities. They also corroborate evidence from the 
+directors that they are told to make statements and what the statements will 
+say by Nehal Modi and indeed Nehal Modi instructs Ashish Lad to travel to 
+Europe to make a statement.  
+iii. Albeit the witness statements served by the defence provide an alternative 
+narrative about what happened in Cairo, these do not in my assessment 
+undermine the value of the telephone and video evidence in determining 
+44 
+ 
+whether there is a prima facie case. The transcripts of the telephone calls make 
+clear who remained in control though inducements and intimidation by NDM, 
+his brother and their associates.  
+iv. Albeit I accept the submission made by Ms Montgomery that some of the 
+directors’ statements included verbatim passages, these were statements made 
+to a police officer. The direct oral evidence would be admissible in England 
+and I find the statements have value. There is no evidence that undermines the 
+bona fides of the officers or supports the defence assertion that the statements 
+had been prepared by the investigators or undermines their authenticity. The 
+statements are being made from the witnesses’ own knowledge about what 
+happened to them and what they were told by Nehal Modi and Mihir Bhansali. 
+The contents of their statements and their veracity can be tested at trial.  
+v. There is clear evidence in Ashish Lad’s statement of a direct threat being made 
+by NDM which is supported by the audio recorded conversations between 
+Ashish Lad, Sandeep Mistry and Nehal Modi. In the course of the conversation 
+the threat is impliedly accepted by NDM’s brother who apologies for what was 
+said to Ashish Lad.  
+vi. Again, although there may be no direct evidence of NDM entering into an 
+agreement with his other alleged conspirators, the evidence cumulatively and 
+progressively, taken as a whole create an inevitable conclusion NDM and his 
+co-conspirators were working in concert to cause the removal of evidence from 
+the reach of the investigators, interfering with witnesses to the investigation, 
+destruction of evidence all of which tends to pervert the course of justice.  In 
+addition, there is direct evidence of a threat made by NDM to Ashish Lad.  
+ 
+93. I remind myself again that this Court does not have to exclude all of Nirav Modi’s 
+alternative narrative and possibilities or his personal interpretations of the evidence. 
+These will be matters for the trial in India and not relevant to the ultimate task for this 
+Court on these requests. Considering these findings, I determine that on one possible 
+view of the evidence, I am satisfied that there is evidence upon which Nirav Modi could 
+be convicted in relation the conspiracy to pervert the course of justice and the stand 
+alone conspiracy to pervert the course of justice by threatening to kill Ashish Lad. A 
+prima face case is established.  
+ 
+ 
+45 
+ 
+Extradition Offences 
+94. It is submitted by the GOI that the offences specified in the request are extradition 
+offences as defined by s.137(3) of the 2003 Act, which applies where, as here, Nirav 
+Modi is accused in a Category 2 territory of the commissions of offences constituted 
+by the conduct set out in the request. The test is based upon the conduct described 
+rather than upon the elements of the foreign offence Norris v. USA [2008] 1 AC 920.  
+ 
+95. I remind myself that the burden rests of the RS to prove to the criminal standard 
+pursuant to s.206 EA 2003 that the offences within the request are extradition 
+offences. I also remind myself of the provisions of s.137 EA 2003: 
+ 
+s.137 Extradition offences: person not sentenced for offence 
+ (1) This section sets out whether a person's conduct constitutes an “extradition 
+offence” for the purposes of this Part in a case where the person— 
+(a)is accused in a category 2 territory of an offence constituted by the 
+conduct, or 
+(b)has been convicted in that territory of an offence constituted by the 
+conduct but not sentenced for it. 
+(2) The conduct constitutes an extradition  offence in relation to the category 2 
+territory if the conditions in subsection (3), (4) or (5) are satisfied. 
+(3) The conditions in this subsection are that— 
+(a)the conduct occurs in the category 2 territory; 
+(b)the conduct would constitute an offence under the law of the relevant part 
+of the United Kingdom punishable with imprisonment or another form of 
+detention for a term of 12 months or a greater punishment if it occurred in 
+that part of the United Kingdom; 
+(c)the conduct is so punishable under the law of the category 2 territory. 
+ 
+96. The correct approach is to look at the essentials of the conduct relied on and consider 
+whether if it had occurred in England, at the time it was alleged to have occurred, it 
+would have constituted an English offence. The words “constitute an offence” in 
+s.137(2)(b) EA 2003 do not mean the RS have to prove guilt of NDM in English law, it 
+simply means that, if proved, it would constitute a comparable English offence  
+Maurov v. USA [2009] EWHC 150 (Admin). Maurice Kay LJ main it plain that 
+whether to court is dealing with the actus reus or mens rea, the principle is the same, 
+46 
+ 
+namely it suffices that the matters alleged would “be capable of satisfying the 
+requirements of the English offence, if proved.”  
+ 
+97. A request need not identify the relevant mens rea of the equivalent English offence for 
+the purposes of satisfying dual criminality. Instead it suffices that the necessary 
+mental element can be inferred by the court from the conduct identified in the request 
+documents or that the conduct alleged includes matters capable of sustaining the 
+mental element necessary under English law.  
+ 
+98. Furthermore, at paragraph 57 of Assange v. Swedish Prosecution Authority [2011] 
+EWHC 2849 (Admin) the “inevitable inference” test is described as” it is not necessary 
+to identify in the description of the conduct the mental element or mens rea required 
+under the law of England and Wales for the offence; it was sufficient if it could be 
+inferred from the description of the conduct set out in the EAW. However, the facts 
+set out in the warrant must not merely enable the inference to be drawn that the 
+defendant did the acts alleged with the necessary mens rea. They must be such as to 
+impel the inference that he did so; it must be the only reasonable inference to be 
+drawn from the facts alleged”. 
+ 
+99. This was recently affirmed in the recent decision of the Divisional Court in Cleveland 
+v. Government of the USA [2019] 1WLR 4392 at para[83]: 
+ 
+“To summarise, the “inevitable inference” test set out in para 57 of Assange’s case is 
+solely aimed at preventing a person being extradited and then convicted in the 
+requesting state on a basis which would not constitute an offence under English law. 
+Where an essential ingredient under our criminal law is missing from the offence 
+for which extradition is sought, a requirement for dual criminality is none the less 
+satisfied if the court concludes that that ingredient would be the inevitable corollary 
+of proving the matters alleged to constitute the foreign offence. But there is no legal 
+justification for applying the “inevitable inference” test more widely. To do so would 
+breach the general principle that a court dealing with a request for extradition is 
+not concerned to assess the strength of the evidence that would be presented in any 
+trial in the foreign court”. 
+ 
+100. Scrutiny by the Court of the description of conduct alleged to constitute the 
+offence specified, is not an enquiry into the adequacy of the evidence summarised in 
+47 
+ 
+the request. The Court is not concerned to assess the quality or sufficiency of the 
+evidence in support of the conduct alleged; R (Castillo) v. King of Spain [2005] 1WLR 
+1043.  
+ 
+101. The GOI submit that the requirements of s.137(3) are met: 
+ 
+i. The conduct occurs in the Category 2 territory – the alleged conduct in all three 
+requests occurred in India or at least in part in India. 
+ 
+ii. The conduct would constitute offences under the law of the relevant part of the 
+United Kingdom punishable with imprisonment or another form of detention 
+for a term of 12 months or greater punishment if it occurred in that part – the 
+conduct in request of the CBI request would constitute, inter alia, the UK 
+offence of “conspiracy to defraud” which carries a maximum sentence of 10 
+years imprisonment.  
+ 
+The conduct in respect of the ED request would constitute, inter alia, the UK 
+offence of “Conspiracy to conceal, disguise, convert, transfer or remove 
+criminal property” namely money laundering which carries a maximum 
+sentence of 14 years imprisonment. 
+ 
+The conduct in the Third request would constitute, inter alia, the offence of 
+perverting the course of justice or conspiracy to pervert the course of justice 
+had the conduct occurred in the UK. Perverting the course of justice is 
+punishable under UK law with a maximum sentence of life imprisonment.  
+ 
+iii. The conduct is so punishable under the law of the Category 2 territory: 
+ 
+The offence of criminal conspiracy contrary to s. 120B read with section 420 
+of the Indian Penal Code is punishable with imprisonment up to 7 years; 
+s.120B read with s.409 of the Indian Penal Code carries maximum sentence of 
+life imprisonment; section 120B Indian penal Code read with section 12 of the 
+Prevention of Corruption Act is punishable with imprisonment up to 10 years. 
+ 
+48 
+ 
+The offence of cheating and dishonestly inducting delivery of property 
+contrary to section 420 of the Indian Penal Code is punishable with 
+imprisonment up to 7 years. 
+ 
+The offence of money laundering contrary to the PMLA 2002 is punishable 
+with between 3 and 7 years imprisonment. 
+ 
+The offence of criminal conspiracy for causing disappearance of evidence or 
+giving false information to screen offender is punishable with a maximum 
+sentence of 3 years imprisonment. 
+ 
+The offence of criminal intimidation to cause death is punishable with a 
+maximum sentence of 7 years.  
+ 
+102.  The GOI submit the requests disclose extradition offences. 
+ 
+103. Ms Mongomery and Mr Watson make submissions arising from evidence I 
+heard from Justice Thipsay. He provided a report dated 20th December 2019 and 29th 
+June 2020, which he adopted [ Vol a / Tab 1, Tab 6].  He also gave live evidence by 
+live link on the 13th May 2020. Justice Abhay M. Thipsay is a retired judge of the High 
+Court of Judicature in Allahabad. In relation to the first CBI request, for the purposes 
+of establishing an offence of “cheating” contrary to s.420 of the Indian Penal Code, 
+Justice Thipsay explained that under Indian law there must be an “operative 
+deception” on a “victim”. As Justice Thipsay summarises “It must be shown that the 
+complainant would not have parted with the property, but for the deception payed 
+on him. If the victim is not deceived, there would be no cheating”. It is submitted that 
+no such conduct is alleged in the request. As Justice Thipsay explained in his evidence 
+“there must have been a victim who has been deceived. If we see the case of the GOI 
+in the extradition request it is that all the accused who were in the conspiracy, those 
+accused were not deceived. And therefore the GOI has come up with an answer that 
+it was PNB body that was deceived…But I cannot find anybody deceived by the 
+issuing LOU”. Moreover, it is submitted that as Justice Thipsay explained, under the 
+Indian law of attribution, if it is said, as it is here, that a body corporate (ie PNB) was 
+deceived, then that requires somebody who represents that corporate body to be 
+deceived “you need to identify a person representing the body corporate”. In 
+49 
+ 
+summary, it is submitted on behalf of NDM that the legal submission under s.137 EA  
+2003 is analogous to the defense submission on the facts: PNB’s lending was 
+undertaken openly and with the consent of the relevant bank officials at PNB.  
+ 
+104. With regard to the second charge under Indian law “criminal breach of trust” 
+pursuant to s.409 of the Indian Penal Code, Justice Thipsay’s evidence is that the 
+GOI’s request fails to meet the requirements that the relevant property has been 
+suitably “entrusted”. As Justice Thipsay explains in his report, “Entrustment is the 
+essence of the offence of criminal breach of trust…I find that except mentioning that 
+the accused persons have committed an offence punishable under s.409 there is no 
+assertion of any facts which would suggest the existence of the ingredients of the 
+offence…the fact that some property was entrusted to any of the accused and that it 
+was utilized by the accused contrary to the directions of law or in breach of any 
+agreement as to the manner in which it should be used is not even averred”. The 
+GOI’s answer to this analysis is that the entrapment in this case was the power to issue 
+LOUs was also rejected by Justice Thipsay. “Yes, that is sought to be made out. But 
+that is not correct. The power to issue LOUs cannot be said to be property. Person 
+who does that cannot be said to be entrusted with property so as to be subject to 
+criminal breach of trust.” Finally, Justice Thipsay states that a required element of 
+the corruption offences is gratification. 
+ 
+105. Finally, in relation to the third request, the issue raised on behalf of NDM is 
+whether the conduct alleged to be perverting the course of justice properly amounts 
+to an offence under either Indian or English law for the purposes of s.137 of the 2003 
+Act. Under Indian law, Justice Thipsay, explains that there are issues in respect of 
+whether either removing documents from PNB by taking them to CAM and /or the 
+witnesses move to Egypt could constitute an offence of “causing the disappearance of 
+evidence” under s.201 Indian Penal Code. He also questions whether the offence of 
+criminal intimidation under s.506 Indian Penal Code is made out by conduct which is 
+actually only a threat of arrest by the police or ED in Dubai, Hong Kong or India. The 
+submission is that the third request conflates a police investigation with the course of 
+justice, when the two are distinct such that conduct which disrupts a police 
+investigation will not necessarily and of itself amount to an offence under common 
+law of “perverting the course of justice” The defense submit that the only conduct the 
+GOI allege which is relevant to the UK offence of “perverting” is directed toward the 
+50 
+ 
+very early stages of the CBI investigation, incapable of amounting to the English 
+common law offence. 
+ 
+106. In relation to Justice Thipsay, I attach no weight to his opinions set out in his 
+reports and in oral testimony.  
+ 
+107.Following giving evidence on the 13th May 2020, the Indian Law Minister Ravi 
+Shankar Prasad, gave a press conference. During the press conference the Law 
+Minster made reference to Justice Thipsay’s evidence in these extradition 
+proceedings. The Minister said “he is a retired judge from the Mumbai High Court, 
+and around ten months before his retirement, the Supreme Court transferred him to 
+Allahabad High Court due to administrative reasons………that tells its own story”. 
+Ms Mongomery and Mr Watson submit this was a deliberate insinuation that there 
+was something untoward in Justice Thipsay’s transfer. The Minister also comments 
+that Justice Thipsay’s evidence was directed by the opposition party in India, the 
+Congress Party; “a Congress member, who is a judge, a retired judge, give testimony 
+in [Mr Modi’s] defence, the situation is so suspicious, that based on it we can conclude 
+that the Congress Party is repeatedly trying to save Nirav Modi”. He also comments 
+that Justice Tipsay’s evidence was “legally unsustainable”. 
+ 
+108. I was referred to extensive material regarding the media attention to the 
+Government’s comments about Justice Thipsay’s evidence. I was due to hear from 
+Justice Thipsay again when the hearing resumed in September. I was asked for either 
+the court to impose an order pursuant to s.4(2) Contempt of Court Act 1981 to 
+postpone the reporting of Mr Justice Thipsay’s evidence or alternatively for the court 
+to sit in private during the course of his evidence as a direct consequence of the adverse 
+media coverage he had received in India. Having considered the transcript of the press 
+conference, it was clear in my view that it was a press conference given purely in a 
+political context, albeit as the Minister of Justice, in the context of the BJP Party 
+making political commentary about the Congress Party. That in turn, unsurprisingly, 
+garnered significant attention and headlines within the media and in social media 
+platforms. It was commentary which Justice Thipsay also was interviewed about 
+himself on television in the period between the first part of these extradition hearing 
+and the resumption of the hearing in September. Unwise political commentary maybe 
+51 
+ 
+but an equally unwise decision to have engaged with the media himself while these 
+proceeding were sub judice.  
+ 
+109. The extradition request for Nirav Modi is a high-profile case in India and I 
+have no doubt that Justice Thipsay as a former High Court Judge has overseen many 
+high profile cases in his time. He entered into the arena of giving evidence in these 
+extradition proceedings with his eyes open to the focus and scrutiny the case would 
+inevitably receive in India. It is inevitable he could have foreseen his affiliation to the 
+Congress Party may attract interest. Having checked his report dated 20th December 
+2019 and 29th June 2020, I note he has never disclosed his party-political affiliation 
+either in the report’s biography or in relation to his declaration as an expert and 
+disclosure of any potential conflict of interests. Justice Thipsay did not initially refuse 
+to give evidence again in these proceedings but he requested the court sit in private as 
+he says “it is likely to reduce the India media’s interest and the risk that the GOI will 
+again use my evidence as a political vehicle and to malign me”. Albeit I had regard to 
+the interests of Justice Thipsay as a witnesses, sitting in private was not justified 
+merely on the ground, that having regard to the nature of his evidence, testifying  
+publicly may result in further adverse commentary about him. I also refused to 
+postpone reporting under s.4(2) Contempt of Court Act 1981. There was no clear 
+evidence that reporting his evidence will give rise to a substantial risk of prejudice to 
+the administration of justice in these extradition proceedings. 
+ 
+110. I do not concern myself with political commentary and opinions of politicians in India 
+about Justice Thipsay’s evidence. However, Justice Thipsay is a retired High Court 
+Judge in India, giving evidence as an expert in this extradition request on behalf of 
+NDM. He is aware of the nature and interest in these proceedings. He would equally 
+be aware of his own political connections to Congress which it transpires he joined 
+after his retirement. Justice Thipsay refused to give live evidence when the extradition 
+hearing resumed.  Justice Thipsay is a retired judge who has aligned himself with a 
+political party on his retirement and received adverse commentary in the media. 
+However, he also engaged and courted with the media himself. His additional reports 
+and opinions subsequently submitted by the defence have not been subject to scrutiny. 
+His unwillingness to give further evidence in these proceedings, simply because he did 
+not get the protections which in my view there was no sound basis to grant, meant his 
+opinion went unchallenged by the GOI. There has been no ability for the Court to 
+52 
+ 
+further scrutinise his expert testimony. Overall, these factors have the effect, in my 
+assessment, of nullifying any weight I would have attached to his evidence.  
+ 
+111. I remind myself again that the test is based upon the conduct described rather than 
+upon the elements of the foreign offences Norris v. USA [2008] 1 AC 920. It is 
+sufficient that the matters alleged would “be capable of satisfying the requirements 
+of the English offence, if proved.” I have set out already my findings in relation to the 
+prima facie case and I do not intend to rehearse that again. Dishonest behaviour would 
+be the inevitable corollary of proving the matters alleged to constitute the foreign 
+offence. I am satisfied so I am sure that the GOI have proved that the conduct in the 
+requests is capable of satisfying the requirements of the notional English offences, if 
+proved. I am satisfied the requirements of s.137 of the Act are met.  
+ 
+Human Rights – section 87 of the Act 
+ 
+112. section 87 of the Extradition Act reads as follows: 
+ 
+i. s87 Human rights 
+a. If the judge is required to proceed under this section (by virtue 
+of section 84, 85 or 86) he must decide whether the person’s extradition 
+would be compatible with the Convention rights within the meaning 
+of the Human Rights Act 1998 (c. 42). 
+b. If the judge decides the question in subsection (1) in the negative 
+he must order the person’s discharge. 
+c. If the judge decides that question in the affirmative he must send the 
+case to the Secretary of State for his decision whether the person is to 
+be extradited 
+ 
+113. Ms Montgomery and Mr Watson raise Article 6 and 3 challenges under section 87 of 
+the 2003 Act.  I must decide whether NDM’s extradition would be compatible with his 
+Convention rights within the meaning of the Human Rights Act 1998.  If I decide in 
+the negative I must order his discharge.   
+ 
+ 
+ 
+53 
+ 
+Article 6 – Fair Trial Rights 
+ 
+114. In relation to the legal framework, the parties are agreed. Article 6 of the ECHR 
+prohibits extradition in circumstances where there are substantial grounds for 
+believing that there is a real risk that, if extradited, an individual would be exposed to 
+a “flagrant denial of a fair trial” Soering v. United Kingdom (1989) 11 ECHRR 439.  
+ 
+115. “Real risk” does not mean proof on the balance of probabilities. It means a risk which 
+is substantial and mot merely fanciful; and it may be established by something less 
+than proof of a 51% probability Brown v. Government of Rwanda (2009) EWHC 770.  
+ 
+116. A “flagrant denial of justice” is “synonymous with a trial which is manifestly 
+contrary to the provisions of Article 6 or the principles embodied therein” Othman v. 
+UK (2012) 55 EHRR 1.  It is the same as establishing a real risk of a “gross violation” 
+or showing that the deficiencies in the process were such that the trial he would face 
+on his return would be “so fundamental as to amount to a nullification or destruction 
+of the very essence of the rights guaranteed”: Dudko v. Russian Federation [2010] 
+EWHC 1125 (Admin). The burden of proof rests on the request person.  
+ 
+117. Ms Montgomery and Mr Watson submit that NDM’s case now attracts “the most 
+virulent and scathing press and social media commentary. He has been vilified, 
+deliberately humiliated in the public consciousness, and held up as an exemplar of 
+the cause of India’s economic woes”. They refer me in to press coverage from 9th 
+January 2020 “Angry Mumbaikars to burn 58-feet tall effigy of Nirav Modi on 
+“Holi”,in which residents of Mumbai have found a way to celebrate the festival of 
+Holi to “vent out their ire against the  Punjab National Bank scam accused, 
+businessman Nirav Modi” A further article in the Indian Express from August 2018 
+quotes the Environment Minister directing the demolition of an illegal bungalow of 
+Nirav Modi “ who has looted India and fled”.  
+ 
+118. It is also submitted that Nirav Modi’s case has consistently generated political 
+attention. Reference is made to newspaper articles in January 2020 in which Defense 
+Minister Nirmala Sitharaman told media in a press briefing that “the entire mite of 
+the government has been invoked to pin the culprit Nirav Modi in the fraud case 
+immediately after it came to light. Nirav Modi may have been able to run away from 
+54 
+ 
+the country but government is taking action against him”. In addition, comments 
+made by Prime Minister Narendra Modi that the government “will take stern action 
+against irregularities relating to economic matters……the system will not accept 
+theft of public money”. These comments made as the Economic Times reports, “in the 
+wake of alleged bank frauds involving jewelers Nirav Modi and Mehul Choksi and 
+business man Vikram Kothari”. Ms Mongomery and Mr Watson submit that not only 
+has NDM’s case been prejudiced by politicians and commentators, his guilt is being 
+actively promoted by the BJP as part of its campaign messaging.  
+ 
+119. In relation to whether NDM will be unable to advance any defense case before an 
+Indian Court, Ms Montgomery and Mr Watson draw my attention to the statement of 
+Mr Doobay [ v D], NDM’s Solicitor and the significant issues in preparing Mr Modi’s 
+extradition case, where Indian lawyers as experts and witnesses of fact have all 
+demonstrated a marked reluctance to give evidence on NDM’s behalf. Referring to an 
+unnamed organisation he approached to find potential witnesses, they stated “there 
+was a blatant political drive to crush dissent which promoted a climate of fear at 
+many levels in Indian society” and a fear of standing up against the government. 
+Another unnamed lawyer in India replied stating “potential witnesses see that friends 
+and associates of Mr Modi have been scrutinized and raised and are fearful to get 
+involved”. One expert who had agreed to prepare a report in the extradition 
+proceedings is said to have pulled out as “their children were lawyers and had told 
+them that their practices would suffer by association and that no one would 
+understand the independent and objective role of an expert and would assume that 
+they were supporting Mr Modi”. Ms Montgomery and Mr Watson submit that access 
+to defence witnesses and defence representation is critical to the fairness of any 
+criminal trial and can be decisive in assessing whether a future trial will be flagrantly 
+unfair. 
+ 
+120. My attention is drawn to a report of a case study of the treatment by the Indian 
+authorities of a person of significant political interest in India, namely a recently 
+extradited suspect Christian James Michel. The report is compiled by the authors 
+through access to his friends and family and private correspondence. This report is 
+adduced in evidence to demonstrate the likely treatment of NDM. In relation to the 
+treatment of Christian Michel by the CBI and ED, the report states that Mr Michel was 
+“held in squalid conditions, subjected prolonged interrogations, threatened with 
+55 
+ 
+violence and ill-treatment aimed at securing a confession through coercion and has 
+never been formally charged”. Ms Mongomery and Mr Watson submit this report 
+provides an accurate guide to the approach of law enforcement investigators to high 
+profile accused / defendants today.  
+ 
+121. During the hearing I received evidence from Justice Katju by live link from India. He 
+is a former Indian judge who served in the Allahabad High Court from 1991, then its 
+Acting Chief Justice and later Chief Justice of the Madras High Court and then the 
+Delhi High Court, before his appointment as a Judge of the Indian Supreme Court 
+until his retirement in 2011. Following his retirement, Mr Justice Katju has served as 
+Chairman of the Press Council of India. His reports and annexes are included in [ v N 
+/ Tabs 5 & 6] 
+ 
+122.Justice Katju’s evidence centered primarily on the fact Indian Courts have become 
+politicised. He states that in recent years the Supreme Court in India has “practically 
+surrendered before the Indian Government and is doing its bidding and is not acting 
+as an independent organ of the state protecting the rights of the people as it was 
+supposed to be” and in his view the “Indian judiciary has largely surrendered before 
+the political executive”. He gives example of a case heard by the Supreme Court which 
+in his view have been perversely decided and the Chief Justice was “simply doing the 
+bidding of the Indian Government. He has been rewarded as a quid pro quo by being 
+nominated as a member of Parliament after retirement”.   
+ 
+123. Justice Katju also makes reference to a former Chief Justice allotting critical cases to 
+benches presided over by relatively junior judges known for their affinity for the ruling 
+BJP party. He further gives account of an incident in January 2018 when four senior 
+Supreme Court Judges addressed the media cautioning that “democracy was at stake” 
+aggrieved by the way the judicial system was being operated in the country. Justice 
+Katju concluded that under political influence, crucial matters of public importance 
+were being allotted to handpicked benches of judges favorable to the ruling party and 
+the powers that be. He stated, “the highest echelons of the Indian judiciary have now 
+come under significant political ad executive influence”.  
+ 
+124. In answer to supplementary questions, he was asked by Ms Mongomery 
+whether the problem was confined to the superior courts to which Justice Katju 
+56 
+ 
+replied that “there is corruption rampant, large number of judges at all levels have 
+become corrupt. I guess 50% of judges are corrupt in India”.  
+ 
+125. Justice Katju also relies on various examples of political interference in the 
+appointment of judges which he describes as the Supreme Court having become 
+“subservient to the Indian Government” which he describes as “spinlessness and 
+servility”. He also provides commentary on pro-government judges being appointed 
+to positions of influence by the government on their retirement.  
+ 
+126. Justice Katju also expressed concerns about ministerial pronouncements of 
+NDM’s guilt including a press conference given by Mr Ravi Shankar Prasad the law 
+minister who commented that Mr Modi was a fugitive and a criminal, demonstrating 
+an inherent bias and that such comments that NDM is a criminal will have an 
+inevitable effect on the judiciary. He goes on to give his opinion that NDM has been 
+subjected to a media trial and victimised even before the investigation was complete 
+or the trial takes place. He believes that the media coverage has been so negative and 
+prejudiced that “the entire nation believes him to be guilty of a large-scale fraud” 
+despite the fact he still remains to be tried.  
+ 
+127. In relation to the CBI, Justice Katju explains there is evidence that the Government 
+blatantly interferes with the CBI’s functions and that it functions under the direction 
+of the ruling government. “Justice cannot be expected from an institution which itself 
+is caged”. As far as the ED is concerned his opinion is that they are under the complete 
+control of the government. 
+ 
+128. In his evidence to the Court he concluded his opinions regarding NDM having 
+a fair trial by saying that India was in terrible economic collapse even before the 
+pandemic, millions of people lost jobs. He continued by saying that the BJP were 
+trying to solve the problem but they do not know how to, so they find scapegoats and 
+NDM is a scapegoat for causing financial crisis in India. This is the crux of the 
+problem.  NDM must be blamed for the collapse of the Indian economy. He is cited as 
+a criminal.  
+ 
+129. In cross-examination, Justice Katju made some astonishing, inappropriate 
+and grossly insensitive comparisons. He stated that because the BJP cannot solve the 
+57 
+ 
+economic crises it is just like “Hitler and the Jews”. “Nirav Modi is the Jew that must 
+be blamed for all the problems in India”.  When challenged about his imputations 
+about the investigation, he stated that he was not commenting on the merits of the 
+case but that NDM cannot get a fair trial.  
+ 
+130. Ms Malcolm challenged Justice Katju about statements he had made to the 
+Indian media the day before giving his evidence in these extradition proceedings. He 
+agreed he made statements to the media despite the extradition proceedings being sub 
+judice. He was challenged about the appropriateness of giving press briefings, and 
+expressing his concerns as a high-profile figure in India was simply making matters 
+worse and undermining the rule of law, a self-fulfilling prophecy.  
+ 
+131. He was challenged about his astonishing allegations concerning the number of 
+corrupt Chief Justices in India. However, Justice Katju replied that “In last decade – 
+many more chief justices have come and gone and it was known they were corrupt. 
+That is my evidence, that is true. I am an insider – 20 years a judge – I know the 
+workings …..Over 50% of all judges are corrupt – this is my guess”. Justice Katju 
+denied suggestions he was a self-publicist making outrageous comments to garner 
+press attention.  
+ 
+132. Ms Malcolm challenged some of his historic comments captured in the media. In 
+2012, he accepted he said that 90% of Indians are fools. “I say it even now, politicians 
+take advantage”. He accepted in 2014 in his own blog he said gay relationships were 
+humbug and nonsense, albeit he explained he modified his statement. He also 
+accepted he had previously made a statement that “Women who remain single are 
+prone to psychological problems”. He denied he made outrageous statements to court 
+the press. “I have an opinion and that is my opinion”.  
+ 
+133. Finally, Ms Mongomery and Mr Watson rely on the events that occurred between the 
+hearing in May and the resumption of the extradition hearing in September. On the 
+13th 2020 I heard expert evidence from Mr Justice Thipsay [referred to above] by live 
+link. His evidence addressed a series of legal points which I have dealt with ealier in 
+this judgment. The day after Justice Thipsay gave evidence, the Indian Law Minister 
+Ravi Shankar Prasad, gave a press conference. During the press conference the Law 
+Minster made reference to Justice Thipsay’s evidence in these extradition 
+58 
+ 
+proceedings. The Minister said “he is a retired judge from the Mumbai High Court, 
+and around ten months before his retirement, the Supreme Court transferred him to 
+Allahabad High Court due to administrative reasons………that tells its own story”. 
+Ms Mongomery and Mr Watson submit this was a deliberate insinuation that there 
+was something untoward in Justice Thipsay’s transfer. The Minister also comments 
+that Justice Thipsay’s evidence was directed by the opposition party in India, the 
+Congress Party; “a Congress member, who is a judge, a retired judge, give testimony 
+in [Mr Modi’s] defence, the situation is so suspicious, that based on it we can conclude 
+that the Congress Party is repeatedly trying to save Nirav Modi”. He also comments 
+that Justice Tipsay’s evidence was “legally unsustainable”. 
+ 
+134.Thereafter, I have been referred to extensive material gathered in evidence by Mr 
+Doobay regarding the media attention to the Government’s comments about Justice 
+Thipsay’s evidence. Mr Doobay’s statement dated 30th June 2020 exhibits a schedule 
+of 29 excerpts from media publications and commentary by the press together with a 
+plethora of links to coverage by the ‘India Today’ programme, broadcast media as well 
+as social media. 
+ 
+135. Ms Mongomery and Mr Watson submit that cumulatively this evidence considered in 
+the context of Mr Justice Katju’s evidence of the fragility of the independence of the 
+judiciary, it will be impossible for Nirav Modi to be tried fairly in India.  
+ 
+Conclusions on Article 6 – Fair Trial Rights 
+ 
+136. I accept that NMD’s case in India has attracted and no doubt will continue to 
+attract significant media attention. NDM is a high-profile business man who made a 
+huge success of the Nirav Modi brand in India and worldwide. Much of the press 
+reporting to date has been sensationalised and certainly not assisted, in my 
+assessment by Judge Katju’s decision to attract media attention following a decision 
+to give press commentary the day before giving evidence in these proceedings while 
+they are sub judice. That naturally will fan the flames when Indian media have already 
+covered political commentary on Judge Thipsay’s evidence in these proceedings. I 
+agree with Ms Malcolm and Mr Hearn’s submissions that sensationalist media 
+reporting in high profile criminal cases is not unique to India and is not unknown in 
+this jurisdiction.  Courts are used to dealing with high profile cases which are subjected 
+59 
+ 
+to ill-advised political commentary.  The GOI adduce an affidavit from the Joint 
+Director of the CBI Bank Security & Fraud Zone dated 12th August 2020  [ v 16 / Tab 
+1] exhibiting a letter from the Solicitor General of India, in which the Solicitor General 
+makes the following observation “There are a large number of criminal cases being 
+tried in this country with respect to which various leaders across the political 
+spectrum and other person  in public life express their views. However, Indian 
+judiciary, while adjudicating on a particular case, remains untouched, unmoved and 
+unaffected. When every accused, including the “requested person” would have all 
+remedies available under the detailed provisions of the Code of Criminal procedure 
+[which ensures protection of rights of every accused of neutrality, impartiality and 
+objectivity of a criminal trial]”.  
+ 
+137. Equally, given the allegations Nirav Modi faces, namely allegations of defrauding a 
+State-owned bank of significant sums of money, it comes of no surprise that the case 
+has garnered political interest and some commentary. However, having considered 
+the transcript of the briefing given by Law Minister Ravi Shankar Prasad, it is clear in 
+my view that it was a press conference given in a purely political context, albeit as the 
+Minister of Justice, in the context of the BJP Party making political commentary about 
+the Congress Party. That in turn generated significant commentary within the media 
+and in social media. It was commentary which Justice Thipsay also was interviewed 
+about in India after he gave evidence.  
+ 
+138. Albeit, some political commentary could be described as ill-advised, there is 
+nothing in the volumes of media, broadcasting or social media links that have been 
+referred to me in the voluminous defense bundles that gives any indication that 
+politicians are trying to influence the outcome of any trial, let alone NDM’s trial or 
+that the trial process itself would be susceptible to such influence. I reject any 
+submission that the GOI have deliberately engineered a media onslaught. I attach little 
+weight to Justice Katju’s expert opinion.  
+ 
+139. Despite having been a former Supreme Court judge in India until his 
+retirement in 2011 his evidence was in my assessment less than objective and reliable. 
+His evidence in Court appeared tinged with resentment towards former senior judicial 
+colleagues. It had hallmarks of an outspoken critic with his own personal agenda.  I 
+found his evidence and behaviour in engaging the media the day before giving 
+60 
+ 
+evidence to be questionable for someone who served the Indian Judiciary at such a 
+high level appointed to guard and protect the rule of law.   
+ 
+140. Despite making commentary about the fairness of any trial process in India, 
+he accepted on a number of occasions in cross-examination that he had not considered 
+the evidence and it is evident from his report he certainly had not considered the full 
+requests from the GOI.  He made bold assertions about corruption across the judiciary 
+in India (including former Chief Justices) and that the Supreme Court had 
+surrendered itself to the executive.  Of note, despite being critical of a former Chief 
+Justice passing a verdict in a Supreme Court case in exchange for a nomination to the 
+upper house of Parliament in India on his retirement on a quid pro quo basis, 
+suggesting collusion and corruption, Justice Katju himself secured appointment by 
+the Government to Chairman of the Press Council of India following his own 
+retirement.  
+ 
+141. Despite being highly critical of the “trial by media” and its impact on NDM’s case, he 
+took the astonishing decision to brief journalists in relation to the evidence he was 
+giving in these proceedings, creating his own media storm and adding to the 
+heightened media interest to date.  
+ 
+142. I attach limited weight to the statements of Mr Guha [ v K] ] or Mr Sharma [ v 
+L] that the Indian Courts have become increasingly politicised. Their reports are 
+drawn from media articles and anonymous third-party sources. The fact Justice Katju 
+endorses these reports gives no further credence to their contents.  
+ 
+143.Submission that NDM will be unable to secure any witnesses due to fears of the 
+Indian authorities or the Indian media. That conflicts with the statements obtained by 
+the defense in these proceedings from a significant number of witnesses to evidence 
+to alternative narrative to the prima facie case challenges.  
+ 
+144. As Ms Malcolm and Mr Hearn correctly remind me in their final written 
+submissions, of the observations made by the Solicitor General of India. India is 
+governed by it written constitution which has at its core the fundamental principle of 
+the independence of the judiciary by virtue of the separation of powers between 
+judiciary, the executive and the legislature. There is no cogent or reliable evidence that 
+61 
+ 
+the judiciary in India are no longer independent, or capable of managing a fair trial 
+even where it is a high-profile fraud with significant media interest.  
+ 
+145.  There is no evidence which allows me to find that if extradited NDM is at real risk of 
+suffering a flagrant denial of justice.  The argument in relation to Article 6 fails. 
+ 
+Article 3 and Section 91 
+ 
+146. These challenges are separate but also inextricably interlinked due to a 
+deterioration in NDM’s mental health since he was remanded in custody in HMP 
+Wandsworth in these proceedings and therefore I intend to deal with the evidence and 
+submissions together, before drawing my conclusions and findings on the respective 
+challenges.   
+ 
+147. The parties are also agreed on the legal framework in relation to Article 3.  
+ 
+148. The legal test under Article 3 in extradition cases is well known; extradition 
+will be prohibited if there are substantial grounds for believing that there is a real risk 
+of treatment which violates Article 3, i.e. treatment which amounts to torture or 
+inhuman or degrading treatment or punishment:  Chahal v. United Kingdom (1996) 
+23 EHRR 413, Soering v. United Kingdom ( 1989) 11 EHRR 439; R (Ullah) v. Special 
+Adjudicator [2004] 2 AC 323. The prohibition is in absolute terms and therefore “its 
+guarantees apply irrespective of the reprehensible nature of the conduct of the 
+person in question”: Aswat v. United Kingdom (2014) 58 EHRR1. There is no 
+threshold for ‘flagrancy’  
+ 
+149. The burden on the defence is less than on the balance of probabilities but the 
+risk must be more than fanciful.  In Elashmawy v Court of Brescia, Italy [2015] 
+EWHC 28 (Admin) Lord Justice Aikens said that “in general, a very strong case is 
+required to make good a violation of Article 3.  The test is a stringent one and not 
+very easy to satisfy”.  The case underlines the importance of making findings about 
+the actual conditions and what their effect will be on the particular RP.  
+ 
+62 
+ 
+150.  In the extradition context, where prison conditions are in issue, the general 
+principles which apply have been summarized by the High Court in Elashmawy and 
+Riva v. Italy [2015] EWHC 28 (Admin) at para 49. 
+ 
+151. In so far as overcrowding is concerned, the Grand Chamber in Mursic v. Croatia 
+(2017) 65 EHRR 1 held that “the standard predominant in its caselaw of 3m2 of floor 
+surface per detainee in multi-occupation accommodation [is] the relevant minimum 
+standard under article 3 of the Convention [ …] When personal space available to a 
+detainee falls below 3m2 of floor space in multi-occupancy accommodation in prions, 
+the lack of personal space is considered so severe that a strong presumption of a 
+violation of art.3 arises. The burden of proof is on the respondent Government which 
+could, however, rebut that presumption by demonstrating that there were factors 
+capable of adequately compensating for the scarce allocation of personal space”. The 
+Grand Chamber’s analysis in Mursic has since been adopted by the High Court in 
+Grecu and Bagarea v. Romania [2017] EWHC 1427 (Admin). 
+ 
+152. Where an individual requires specific medical care and or treatment, then there must 
+be a particular focus on, and examination of, the medical facilities available to those 
+in custody in the receiving state; see USA v. Dewani [2014] EWHC 152 (Admin), 
+Aswat v. UK ( 2014) 58 EHRR 1; and R ( Aswat) v. SSHD [2014] EWHC 1216 (admin). 
+ 
+153. In a case where an assurance is given by a foreign state, the Court is required to 
+consider the eleven “Othman factors” when assessing the reliability of an assurance, 
+which ultimately all go to the question of whether the foreign state can be trusted: 
+Othman v. UK (2012) 55 EHRR 1. Notwithstanding that assurances can, in principle, 
+be deployed as a mechanism to support a foreign extradition request, they are not a 
+panacea, and ay assurances fall to be considered against a broader canvas.  
+ 
+154. The evidence that this court has had to consider in detail is in relation to the 
+assurances received that that NDM will be held not just at Arthur Road prison in 
+Mumbai but in a particular cell in that prison, Barrack No. 12. 
+ 
+155. In relation to s.91, the legal framework is as follows: 
+ 
+ 
+63 
+ 
+Section 91 (‘Physical or mental condition’) of the 2003 Act provides: 
+ 
+a. This section applies at any time in the extradition hearing if it 
+appears to the judge that the conditions in subsection (2) is satisfied. 
+b. The condition is that the physical or mental condition of the 
+person is such that it would be unjust or oppressive to extradite him.  
+c. The judge must (a) order the person’s discharge, or (b) adjourn the 
+extradition hearing until it appears to him that the condition in 
+subsection(2) is no longer satisfied.  
+ 
+156. In Dewani (no 1) v. South Africa [ 2012] EWHC 842 (Admin) at [73]: 
+ 
+“ In our view, the words in s.91 and s.25 set out the relevant test and little help 
+is gained by reference to the facts of other cases. We would add it is not likely 
+to be helpful to refer a court to observations that the threshold is high or that 
+the graver the charge the higher the bar, as this inevitably risks taking the 
+eye of the parties and of the court off the statutory test by drawing the court 
+into the consideration of the facts of other cases. The term “unjust or 
+oppressive” requires regard to be had to all the relevant circumstances, 
+including the fact that extradition is ordinarily likely to cause stress and 
+hardship; neither of those is sufficient. It is not necessary to enumerate these 
+circumstances, as they will inevitably vary from case to case as the decisions 
+listed in paragraph 72 demonstrate. We would observe that the citation of 
+decisions that do no more than restate the test under s.91 or apply the tests to 
+facts is strongly to be discouraged”. 
+ 
+157. What is unjust or oppressive is a fact specific assessment.  
+ 
+158. Where there is no question but that the defendant is unfit to stand trial then it 
+will be unjust or oppressive to extradite him. See R(Warren) v. SSHD [2003] EWHC 
+1177; United States of America v. Tolman [2008] 3 All ER 150, Lynch v. High Court 
+in Dublin [2010] EWHC 109. 
+ 
+159. Generally, the Court should consider the matter “in the round” as Lord Thomas PQBD 
+held in Republic of South Africa v. Dewani (no2) [2014] 1 WLR 3220: 
+64 
+ 
+ 
+“ We therefore accept….that the breadth of the factors to be considered under 
+s.91 include looking at the question of whether it was unjust or oppressive to 
+extradite the person at the time the request was being considered as well as 
+looking forward to what might happen in the proceedings in South Africa if 
+he was extradited. We must take into account all such matters, including 
+consequences to the requested person’s state of health and age. We accept that 
+this entails a court taking into account the question as to whether ordering 
+extradition would make the person’s extradition worse and whether there are 
+sufficient safeguards in place in the requesting state. 
+ 
+We do not, however, accept that there are any hard and fast rules; that would 
+be inconsistent with the position that each case must be specifically examined 
+by reference to its facts and circumstances.  The only situation in which a 
+court would most probably say it would be oppressive and unjust to return 
+him is where it is clear that he would be found by the court in the requesting 
+state to be unfit to plead. “ 
+ 
+Evidence from the GOI 
+ 
+160. I have received the following assurance from the GOI. It is dated the 8th June 
+2019 from the Ministry of Home Affairs [ v 6 / Tab 4]. It assures that in the event of 
+his extradition, Nirav Modi will be held at Barrack No 12, Arthur Road Jail. The 
+assurance is accompanied by a document entitled “The detailed legal and factual 
+framework to show how the terms of the assurance would be delivered in practice”.  
+ 
+161. The letter explains that the RP will have a minimum of 3m square of personal space 
+not including the furniture throughout detention (pre-trial, and post-trial, if 
+convicted).  He will be provided with a clean thick coating mat, pillow, sheet and 
+blanket.  A metal frame/wooden bed can be provided on medical grounds.  Adequate 
+light and ventilation and storage of personal belongings is also available.  He will have 
+“sufficient” access to clean drinking water each day and ‘adequate’ medical facilities 
+are available 24 hours a day.  He will have access to ‘adequate’ toilet and washing 
+facilities each day and be allowed out for exercise for more than one hour a day.  He 
+will receive ‘adequate’ food.   
+65 
+ 
+ 
+162. Paragraph 4 of the letter of assurance makes it clear that the assurance is a 
+sovereign assurance made by the Government of India in consultation with the State 
+Government concerned.   
+ 
+163. The Government confirm in paragraph 5 that they had furnished a similar 
+assurance in respect of the extradition of Mr Vijay Vittal Mallya and NDM would be 
+accommodated in the same barrack.  
+ 
+164. This is also confirmed in the note where it says the assurances set out in the 
+note are factually accurate and capable of being delivered by Barrack no. 12 for the 
+duration of NDM’s detention.  The prison authorities are bound by it.  Any complaints 
+can be made to the prison administration and also to various other Human Rights 
+bodies and the Judiciary 
+ 
+165. In the accompanying note, there is further information provided on subjects 
+important to the Court’s assessment under Article 3 ECHR: 
+ 
+i. Overall conditions 
+ii. The amount of individual space per inmate 
+iii. Material conditions (sleeping arrangements, number of people per area, 
+sanitation arrangements, drinking water, food and exercise facilities) 
+iv. Security 
+v. Violence 
+vi. Medical facilities 
+ 
+166.  The accompanying note also provides an assurance of living conditions for 
+NDM, if extradited conforming to CPT Standards of Council of Europe or ECHR. 
+ 
+167. It recognises that assertions of overcrowding are often made but says that does not 
+apply to Barrack No. 12, Arthur Road Jail.  At paragraph 5 of the note, there is a factual 
+description of material conditions in Barrack 12. The barrack measures approximately 
+20 ft x 15 ft and has a ceiling which is 20ft high with ceiling fans and tube lighting. It 
+has a separate toilet/wash room.  The windows and main door are grilled and provide 
+air circulation. There are 2 such cells in Barrack 12. As at June 2019 there are 3 
+66 
+ 
+prisoners in cell number 1 and no prisoners in cell number 2. The minimum 3m2  is 
+adequately provided for in Barrack 12. 
+ 
+168.  There is more detail on the maintenance and cleaning of Barrack No. 12 
+including provision of hygiene and cleaning products, the pest control teams visit 
+Barrack 12 once a week and fumigate the barrack to keep it free of mosquitoes and it 
+says that access to drinking water is at will.   
+ 
+169. Daylight is provided by the two grilled windows and one grilled door both 
+facing a passage which itself receives natural light throughout the day.  There is 
+adequate artificial lighting and that is described as being “well suited for reading 
+purposes”.  Ventilation is provided by the three ceiling fans in the cell and in the 
+passage.   
+ 
+170.In terms of sanitary facilities, there is a flushing lavatory and a wash basin with 
+constant supply of water.  There is a door between the cell and the bathroom.   
+ 
+171. There is a high level of security at the entrance to No. 12 and CCTV cameras monitor 
+24 hours a day.  A prison officer and a guard are on duty 24 hours a day and the 
+inmates in the Barrack do not mix with other prisoners.  There has been no violence 
+in Barrack No. 12 because of the nature of the facilities and the type of prisoners held 
+there.   
+ 
+172. Exercise takes place between 7am to noon and 3pm to 5.30pm in the outdoor “open 
+sky” yard area of Barrack 12 which is 15 feet x 40feet. During inclement weather and 
+monsoons season, there is room for exercise in the passage and hallway area.  Board 
+games are made available to the prisoners as well as outdoor badminton. 
+ 
+173.  Inmates can do yoga and meditation sessions. Inmates can use a library but also can 
+bring in their own reading matter.  Daily newspapers are available too in English and 
+local languages.   A television showing terrestrial channels is in the Barrack.  Family 
+visits are one a week for 20 minutes. Lawyer meetings are permitted daily except 
+Sundays and public holidays. Video conference facilities are also available.  
+ 
+67 
+ 
+174. In terms of medical assistance, medical facilities are available 24 hours a day 7 day a 
+week. Four medical officers along with four nursing orderlies and two pharmacists are 
+available, there is a prison hospital with 20 beds and outside experts come in when 
+required.  There is a public hospital within 3 km of the prison.   
+ 
+175. Meals are provided three times a day and the prison will try and accommodate special 
+dietary considerations.  Home food is allowed with the permission of the court.  A 
+canteen provides toiletries, mineral water and snacks, and prisoners are given a fresh 
+supply of bananas daily.  
+ 
+176. Paragraph three of the letter confirms that the conditions set out in the note are 
+accurate and capable of being delivered at Barrack No 12 for the duration of Nirav 
+Modi’s detention including in the event of conviction. It states “the prison authorities 
+are bound by this assurance provided for Nirav Modi and there is no discretion 
+whereby any other administrative, local government or judicial authority would 
+override it as per the law of the land”.  
+ 
+177. The further information provided in the note confirms that the minimum standards 
+are monitored by officers of the Prison Authority (Prison Administration, 
+Maharashta) , NHRC (National Human Rights Commission), SHRC ( State Human 
+Rights Commission) and by the judiciary. The monitoring authorities visit the jail 
+regularly and meets detainees. Detainees can complain to any of the relevant 
+monitoring bodies. It further sets out the training of police and prison staff in relation 
+to the unlawfulness of infliction of physical or psychological mistreatment.  
+ 
+178. I also received a further letter of assurance from the GOI dated 11th September 2020 
+[ v 16 / Tab 11]. This is from the Ministry of Home Affairs and the same Joint Secretary 
+who provided the earlier assurance. The letter is described as a continuation of the 
+assurance provided in June 2019 and confirms that if extradited Nirav Modi “may 
+receive any relevant and necessary treatment from a private doctor or mental health 
+expert of his choice, including treatment or counselling from psychiatrist, 
+psychologist, as required and paid for him, including coming into prison / over 
+video-link for consultations”.  
+ 
+68 
+ 
+179. Finally, I was provided with a very useful video of Barrack No. 12 inside and out.  The 
+video was shot in in natural light in on 20th August 2020 updating an earlier similar 
+video which had been served in the earlier part of the extradition proceedings and the 
+one used in the case of Mallya.  The last video is filmed on an overcast and damp day. 
+Barrack 12 is introduced as the area of the prison for high profile offenders. It is 
+apparent it is a well-guarded structure. It has a steel structure above with 20-foot 
+clearance from the ground to ensure free passage of air and light.  The video shows the 
+approach to the cell and the Barrack itself. The cell is 300 square feet and the 
+measurements described on the video mirror those in the assurance dated 8th June 
+2019.  The cell looks well decorated and very clean, albeit unoccupied. It has a flat 
+screen LED television screen high on the inside wall and the walls themselves are 
+painted white. The high ceilings have florescent lighting and ceiling fans. The video 
+mirrors the description within the assurance including the ventilation. Despite the 
+overcast day, there appears to be plenty of natural light entering the cell augmented 
+by the florescent lighting in the ceiling. The cell has a large clean en-suite bathroom 
+with shower, sink and flush toilet. Dignity and modesty is protected by a bathroom 
+door and curtain.  The bathroom facilities themselves are in fact better than those 
+described in the supporting note to the assurance, which does not mention the shower 
+facilities.  It showed a clean, large, well-appointed cell which had no prisoners or 
+furniture in it.  It shows where a detainee can exercise. 
+ 
+Defence Evidence 
+ 
+180. As I have already mentioned, the documentary evidence and exhibits in this 
+case is voluminous and the defence evidence in relation to the challenges under Article 
+3 and s.91 is equally extensive. I mean no disrespect to Ms Montgomery and Mr 
+Watson in not summarising the entirety of the evidence they rely on but that does not 
+mean I have not considered it. I will refer to evidence which I have considered is most 
+probative in making my findings in relation to Article 3 and the case specific 
+assessment I must undertake in relation to s.91.  
+ 
+181.  I heard expert evidence from, Dr Forrester. He alone had prepared an initial 
+psychiatric report dated 15th December 2019 and thereafter addendum reports dated 
+4th March 2020, 27th April 2020, 27th August 2020 and 3rd October 2020. [ v I/ Tab 
+21] [ v J / Tab 54 & 55] [ v O Tab 4 & 5] 
+69 
+ 
+ 
+182. I also heard live evidence from Dr Alan Mitchel who had prepared his first 
+report, a supplementary report and a further report.[ v  I & J ], [ v O / Tab 1 & Tab 10]   
+ 
+183. I also heard live evidence Professor Coker by live link [ v O / Tab 2] .  
+ 
+184. In relation to NDM’s mental health, Dr Forrester’s most recent report dated 
+23rd August 2020 is in my view the most relevant. He confirmed the contents of that 
+report in his live evidence. Dr Forrester is an experienced consultant forensic 
+psychiatrist.  In his opinion, NDM meets the criteria for a diagnosis of “recurrent 
+depressive disorder, current episode severe, without psychotic symptoms”. This 
+diagnosis is not challenged by the GOI.  
+ 
+185. At the beginning of his report in his summary of conclusions he states: 
+ 
+2.1  In my opinion, there has been a further deterioration in Nirav Modi’s 
+mental state since I last saw him, such that he now meets the criteria 
+for a diagnosis of recurrent depressive disorder, current episode 
+severe, without psychotic symptoms. 
+2.2.  In my opinion, it is likely that the restricted prison conditions 
+associated with lockdown, as a consequence of the Covid-19 global 
+pandemic, have played a significant role in causing his worsening 
+mood. 
+ 
+186. In relation to suicide risk Dr Forrester states: 
+ 
+9.5 It is also significant that he presents with persisting suicide ideas, and 
+with some suicidal intentions. Although the latter were not immediate 
+in nature when I interviewed him, their emergence does reflect a 
+further deterioration in his overall presentation. 
+ 
+9.6.  In my opinion, Nirav Modi should now be considered a substantial 
+(meaning high) albeit not immediate, risk of suicide. I take this view 
+because he has a history of recurrent depression, because I have 
+assessed his current risk of depression as sever, because there is 
+70 
+ 
+mounting evidence of progressive deterioration during time in 
+custody at HMP Wandsworth, with a further deterioration over the 4 
+week period before I saw him, because he has a family history of 
+suicide, and because he has reported both suicidal ideas and intentions 
+(albeit the latter were not immediate in their nature when I 
+interviewed him) . 
+ 
+187. In terms of treatment recommendations, Dr Forrester’s opinion is that NDM requires 
+regular psychiatric support to review and adjust his medication as required, along with 
+regular psychological support, to work within a cognitive behavioural model 
+framework to assist in treating the prominent negative cognitions be currently 
+experiences as part of a depressive illness. Dr Forrester explains that having reviewed 
+NDM’s medical records from the prison he is not receiving the care and treatment he 
+requires. There still has not been a full or comprehensive assessment of his mental 
+health although he is receiving anti-depressant medication, there is little evidence of 
+joint care provision and has not been receiving psychological treatment. 
+ 
+188. Dr Forrester’s opinion is that NDM now meets the criteria for detention under 
+Part III Mental Health Act 1983. Section 48 of the Act deals with the removal to 
+hospital of prisoners in cases where the person is suffering from a mental disorder of 
+a nature and degree which make it appropriate for him to be detained in a hospital for 
+medical treatment. Further, Dr Forrester concludes at para 9.17 of his report that “In 
+my opinion, he ….should be considered fit to plea at the present time. However, his 
+condition has deteriorated during his time in custody at HMP Wandsworth, with a 
+further dip during the 4 weeks before I assessment to prepare this report. With 
+further deterioration, and in particular with further worsening of his attention, 
+concentration and general ability to think, there is a risk he could become unfit to 
+plead in the future”.  
+ 
+189. In his live evidence, in answer to supplementary questions in chief, Dr 
+Forrester I noted in particular that he stated it was “Reasonable to conclude the 
+regime in the prison is causative of the decline in his presentation” and that “I think 
+he merits hospital transfer for medical treatment. Although I do note that Dr. 
+Forrester added the following observation “Having said that, a number of people 
+which severe depression can be treated in the in the community.” 
+71 
+ 
+ 
+190. In cross examination he also stated that “I would be prepared to discuss his 
+treatment with a practitioner in India”. 
+ 
+191. At Ms Montgomery and Mr Watson submit, the central issue under Article 3 and s.91 
+of the Act is whether, in light of this unchallenged diagnosis, the detention conditions 
+which would await Mr Modi in India are capable of meeting his current treatment and 
+care needs, and whether they are capable of responding appropriately to the 
+anticipated further deterioration in his mental health.  
+ 
+192. Assurances have been provided by the GOI as detailed above. It appears to be 
+an agreed position that were it proposed that NDM were to be held in the general 
+population at Arthur Road Prison in Mumbai ( Mumbai Central Prison) , Article 3 
+would no doubt prohibit his surrender by virtue of the conditions in Indian prisons 
+generally falling below acceptable international standards. Therefore, the central issue 
+is whether the assurances provided by the GOI are sufficient to ensure both 
+compatibility with Article 3 and that his extradition will not be “oppressive” under s.91 
+EA 2003. 
+ 
+193. I received reports from Dr Mitchell dated 8th January 2020 and 21st July 2020 
+and he gave live evidence before me at the extradition hearing.  
+ 
+194. Dr Mitchell is a licensed practitioner, was previously the Head of Healthcare 
+within the Scottish Prison Service and is currently Chair of the Independent Prison 
+Monitoring Advisory Group for HM Chief Inspector of Prisons in Scotland and is 
+regulatory engaged by the European Committee for the Prevention of Torture (CPT) 
+to carry out prison inspections. I recognise that Dr Mitchell is regularly engaged as an 
+expert witness on prison conditions in extradition proceedings before Westminster 
+Magistrates’; Court. In preparing his reports, he never met NDM. He has relied on the 
+open source material as well as other documents provided by Mr Modi’s solicitors 
+together with the video of Barrack 12 provided by GOI.  He has never visited or 
+inspected Mumbai Central Prison or Barrack 12 but in 2015 he had experience of 
+inspecting a prison in West Bengal. A request was made by Dr Mitchell to inspect 
+Barrack 12 and Mumbai Central Prison on 26th June 2019 as part of these extradition 
+proceedings but the CPS responded that they would not seek permission from the GOI. 
+72 
+ 
+ 
+195. Exhibited to Dr Mitchell’s reports is significant [ Volume I, J and O] open source 
+material relating to Mumbai Central Prison which depicts a picture of longstanding 
+problems of gross overcrowding, conditions of detention being below ECHR standards 
+and lack of rudimentary medical care for its inmates.  
+ 
+196. Dr Mitchell explains the structural deficiencies in India including his concern 
+over the absence of any Independent monitoring system and that as India has not 
+ratified the UN Convention Against Torture (UNCAT) there is no independent 
+monitoring of its prisons by any international body and there is no national prisons 
+inspectorate. In summary his opinions are that prisons are grossly overcrowded. The 
+physical state of prisons suffers from under-investment. Staff shortages across prison 
+estate, which he says are acute at Arthur Road notwithstanding the judicial inquiry 
+ordered by the Bombay High Court in 2015. His overall opinion is that the Indian 
+prison estate struggles to provide proper medical and psychological care for inmates. 
+In 2015 he visited Allipore Central Correctional Home and he concluded that the 
+conditions were “exceptionally bad and quite unlike anything I had seen in my visits 
+for the CPT”.   
+ 
+197. Dr Mitchell was also referred to some evidence adduced by the defense by way of a 
+letter from Sajasl Yadav [ v J / Tab 43]. He was not called to give evidence on behalf 
+of Mr Modi. He is a practicing advocate with the Bar Council of Maharasht. He has 
+represented clients who were lodged in Arthur Road Jail including on the ground floor 
+cells in Barrack 12. He last visited Barrack 12 in June 2018. His description of the unit 
+is “unbearably hot in the summer months” and vermin are visible and have free run 
+of the cells. There is extensive dust and noise pollution from the adjoining slum area. 
+There is insufficient natural light. Facilities to communicate with lawyers is poor. 
+There is no proper pharmacy and where medical problems cannot be treated by the 
+prison doctor, hospital attendance is difficult and delays obtaining hospital care can 
+be life threatening. He disputes there is clean drinking water supply and although the 
+assurances refer to hospitals nearby, he states they are referring to the Sir J.J. Group 
+of hospitals which are overcrowded and unhygienic.  
+ 
+198. In answer to supplementary questions in chief, Dr Mitchell agreed he has 
+viewed the latest video of Barrack 12 provided by GOI. In relation to Sadal Yadav’s 
+73 
+ 
+description of conditions with Barrack 12, Dr Mitchell was critical of the video footage 
+as the problems of noise, pollution, heat and damp and an unhealthy environment is 
+not assessable from the video footage.  
+ 
+199. Dr Mitchell however confirmed that there is no overcrowding issue in Barrack 
+12, he was satisfied it is Mursic compliant in terms of CPT physical space. However, 
+his concern is in relation to overcrowding elsewhere in the prison as that affects the 
+ability of prison staff to do their job. His main concern relates to the sufficiency of staff 
+and healthcare staff to maintain a safe and healthy environment for NDM. 
+ 
+200. In addition, he expressed concern that being potentially alone in Barrack 12 
+would be particularly harmful equivalent to solitary confinement is harmful in view of 
+Nirav Modi’s severe depressive illness. In relation mental health serves in 
+Maharashtra’s jail, Dr Mitchell stated that whether a psychiatrist is resident or not is 
+irrelevant. What is important is access to in reach psychiatric services- what is 
+important is access to psychiatric provision. Dr Mitchell referred to the Visitors Book 
+at Arthur Road on 9th July 2019. In his view 3400 inmates cannot be managed by 4 
+Doctors. 80 staff for over 3000 inmates is clearly insufficient in his view and 4 doctors 
+is equally insufficient. He concluded his evidence in chief by saying that from the 
+material he had seen from Arthur Road – “I do not believe Nirav Modi would be 
+appropriately cared for by the healthcare infrastructure at Arthur Road Jail. In 
+terms of his detention in Barrack 12 there is provision of his needs and a safe 
+environment but not in terms of his mental health and wellbeing”. 
+ 
+201. In cross-examination, Dr Mitchell accept again that in Barrack 12 over 
+crowding not an issue. However, he stated again that the GOI had not set out with any 
+detail as to how his healthcare needs will be met if he is extradited and held in Barrack 
+12 other than saying a doctor is available. “If Nirav Modi was held in solitary 
+confinement it would have a negative impact on his mental health and wellbeing”. 
+ 
+202. From the latest video, Dr Mitchell agreed there is a stark difference between 
+the new video and the one produced earlier by the GOI. 
+ 
+203. In relation to the risks of the COVID pandemic, Dr Mitchell agreed that the 
+GOI have implemented guidelines and protocols to control COVID.  
+74 
+ 
+ 
+204. In relation to the impact of COVID, I received a report from Professor Coker 
+and he gave live evidence at the hearing. Professor Coker is a Professor of Public 
+Health at the London School of Hygiene and Tropical Medicine and a specialist in 
+infectious diseases and epidemiology. He explains that any prison setting is extremely 
+susceptible to any communicable disease, especially COVID as they are closed 
+congregate settings. In his opinion the high prevalence of the virus in Mumbai, 
+especially in the slum areas, necessarily increases the risk of transmission into, and 
+then spread within, a prison. Professor Coker’s opinion is that the GOI have provided 
+a deficiency of information to provide any reassurance that there are appropriate 
+measures in place to prevent an unacceptably high risk to inmates. Prisons are 
+extremely susceptible and Barrack 12’s relative isolation gives no proper basis for 
+confidence that any inmate detained there would not be at risk of contracting COVID. 
+In answer to questions in cross-examination he accepted the proposition put to him 
+by Ms Malcolm that we are all at risk from COVID and at the time of giving his 
+evidence in these proceedings “ we were immunologically naive in terms of COVID” 
+. He said the key was reducing the risk and he could not predict what the position 
+would be in a year’s time.  
+ 
+205. Ms Mongomery and Mr Watson make extensive submission that in the context 
+of this case, given Nirav Modi’s mental health needs, the assurances and the video filed 
+by the GOI are simply inadequate and cannot meet the case under either Article 3 or 
+s.91.  
+ 
+Conclusions Article 3. 
+ 
+206. In relation to NDM’s mental health it is of note that Dr Forrester’s expert 
+opinion is that the current restrictive prison regime at HMP Wandsworth, as a 
+consequence of the Covid-19 pandemic has played a “significant role” in the 
+deterioration of NDM’s depressive disorder. I recognise that the restrictions within 
+our prison estate at present are exceptional as our prison service manages the regime 
+to protect prisoners’ health, maintain the security of the prison and protect the health 
+of the prison staff. Albeit Dr Forrester expresses an opinion that consequently NDM’s 
+heath now meets the criteria for hospital transfer under s.48 Mental Health Act 1983 
+he equally qualified this with his statement that “having said that, a number of people 
+75 
+ 
+with severe depression can be treated in the community”. Mr Modi’s condition is far 
+from unusual. Albeit the risk to suicide in Dr Forrester’s opinion is now assessed as 
+“substantial” there is nothing within his reports that signifies that NDM’s mental 
+health is such that it removes his capacity to resist the impulse to commit suicide. 
+Within his report, it is evident that any suicidal acts would be voluntary. At para 8.27 
+of Dr Forrester’s report he asks NDM whether he has suicidal plans. When answering 
+in the affirmative, NDM said he “can always get razors” and “I wonder if its better to 
+commit suicide rather than be killed”. NDM fears persecution and incarceration in 
+India. As Dr Forrester identifies, Nirav Modi’s progressive deterioration is linked to 
+the restricted prison regime on remand at HMP Wandsworth and although he has 
+expressed suicidal ideas, Dr Forrester confirms in several places in his report that 
+suicidal intentions are not immediate in nature.  
+ 
+207. With regard to Nirav Modi’s fitness to plead, he is regarded as fit to plead at 
+the present time. Albeit Dr Forrester recognises that if extradition is ordered and he 
+is removed to India, he considers it likely NDM’s condition would deteriorate. 
+However, Dr Forrester goes no further than saying he “could become unfit to plead in 
+the future”. That is not in any way sufficient for me to be satisfied the he would ( my 
+emphasis)  be found by the courts in India to be unfit to plead such that it would be 
+oppressive as stated in Dewani (no2) [2014] (supra). 
+ 
+208. GOI has provided comprehensive assurances in relation to the conditions 
+NDM will be detained in Barrack 12, supported by a video taken in August 2020, which 
+I place great weight on as being the best evidence before me to assess the conditions 
+in Barrack 12. I reject the submission that the video does not materially assist this 
+Court’s assessment of the actual conditions within Barrack 12. I find that it is entirely 
+corroborative of the conditions set out in the GOI’s assurance and in fact goes further 
+as the video shows better sanitary and washing facilities than described in the 
+accompanying note to the assurance dated 8th June 2019.   
+ 
+209.  The evidence from Mr Yadav, the Indian lawyer who describes the conditions 
+he has seen in Barrack 12 are simply not born out on the video evidence. Mr Yadav’s 
+evidence is placed before me by way of letters rather than sworn statements, his 
+evidence cannot be tested and I place little to no weight on the contents of those letters 
+and reject the defense submission that this provides me with direct evidence of the 
+76 
+ 
+conditions in Barrack 12. The video taken by GOI of the cell at Barrack 12 and the 
+facilities contradicts in every way the descriptions given by Mr Yadav. In any event the 
+video was filmed on 20th August 2020. The last time Mr Yadav appears to have visited 
+Barrack 12 was in June 2018.  
+ 
+210. There is no overcrowding in Barrack 12, that was conceded by Dr Mitchell who 
+said that in terms of overcrowding, Barrack 12 was Mursic compliant. That is where 
+NDM will be held, not in any other part of Arthur Road prison.  
+ 
+211. The conditions at Barrack 12 in respect of medical treatment. The GOI confirmed in 
+further information that in addition to the prison hospital, a specific ward at JJ 
+Hospital, Mumbai is exclusively reserved for Arthur Road inmates. The further 
+assurance dated 11th September 2020 provides NDM with the opportunity to receive 
+medical care from a private doctor or mental health expert of his choice. Indeed, Dr 
+Forrester confirmed he was willing to engage with any medical health professional in 
+India to discuss NDM’s treatment requirements.  This letter is a sovereign assurance 
+provided by GOI Ministry of Home Affairs extending additional facilities to NDM in 
+relation to specific medical treatment to him as a named individual.  Criticism within 
+defense submissions and the letters from Mr Yadav that diplomatic assurances 
+pertaining to private medical care being at the discretion of the Court is in my view a 
+smokescreen. As Ms Malcolm submits, under the Seventh Schedule of the Indian 
+Constitution, extradition is a matter solely under the purview of Central Government 
+/GOI. As I have already found above, I place little or no reliance on the evidence put 
+forward in Mr Yadav’s letters. Suggestions that NDM could not avail himself of private 
+medical treatment as he would have no property or money in India simply does not 
+bear true in light of the substantial securities which have been offered in the various 
+bail application in these proceedings. I find that in accordance with the note 
+accompanying the assurances provided to NDM “the prison authorities are bound by 
+this assurance provided for Nirav Modi and there is no discretion whereby any other 
+administrative, local government or judicial authority would override it as per the 
+law of the land”. That statement is compelling evidence of the commitment to comply 
+with the terms of the assurance by the GOI.  
+ 
+212.In relation to Professor Coker’s evidence with regard to the impact of COVID-19, the 
+pandemic has presented extraordinary challenges across the globe, an evolving 
+77 
+ 
+phenomenon with evolving strains and a rapidly evolving and expanding vaccine 
+programme across the world including in India. It has affected every country’s prison 
+regime and like every country, including the UK reactive and restrictive measures have 
+had to be put in place to manage the health or inmates and prison staff alike. The risk 
+of Covid-19 outbreaks during a global pandemic within a prison regime cannot be 
+discounted as we know from reported outbreaks in our own UK prison population. 
+However, this is not being ignored by the GOI and I am satisfied they have provided a 
+comprehensive account of measures taken in their response to Professor Coker’s 
+report in Volume 7. 
+ 
+213. The court must consider the Othman criteria (Othman v UK (2012) 55 EHRR 1) when 
+looking at an assurance provided by a foreign state.  In this case, I find that the 
+assurances are clear, the prison Arthur Road in Mumbai has been identified and the 
+cell Barrack No. 12 has been specified.  Various other assurances have been made in 
+relation to the NDM’s living conditions in Barrack No. 12 if he is returned and his 
+ability to obtain medical treatment.  The assurances have been disclosed to the court 
+and I find that the various representatives which have given the assurances will bind 
+the GOI.  The assurances set out the monitoring arrangements through the NHRC, 
+Maharashtra State Human Rights Commissions and judicial officers. The GOI will 
+know that if the assurances are broken, they will be very publicly broken in light of 
+NDM’s high profile.  Just as Senior District Judge (Magistrates’ Court) Arbuthnot (as 
+she then was) observed in her judgment in Mallya, I have no doubt NDM’s lawyers 
+would report any breach of assurance to this court as well as the Courts in India. That 
+in turn would create “a perfect storm of publicity” as the Senior District Judge 
+concluded in Mallya. That conclusion is equally apposite in this case.  Extradition 
+arrangements work on the basis of trust and any failure to abide by the assurances 
+given by the GOI in NDM’s case would doubtlessly affect the trust between this court 
+and the GOI.  I have no reason at all to think that the GOI would want to breach that 
+trust by not upholding their assurances provided in support of this extradition 
+request.  
+ 
+214. I am also required to consider the length and strength of relations between the 
+India and this country which are NDM complaining to his lawyers, to the prison 
+authorities, to the courts or to national or state Human Rights Commissions.  I have 
+no doubt that Courts would ensure these assurances are upheld.  There is no reliable 
+78 
+ 
+evidence of the GOI breaching their solemn diplomatic assurance. Examples provided 
+in the defense bundle of conditions other extraditees have been held in were cases 
+where detailed sovereign assurances were not provided.   
+ 
+215. Albeit I accept Dr Mitchell is an experienced prison inspector, he has not visited 
+Barrack 12, or Arthur Road jail. In light of the great weight I have placed on the 
+assurances provided in this case by the GOI and the “best evidence” being the video 
+evidence, I reject Dr Mitchells reservations and concerns. There is no doubt in my 
+mind that the conditions NDM will experience in Barrack 12 are far less restrictive and 
+far more spacious than the current regime he is being held in within the prison estate 
+in our own jurisdiction.  
+ 
+216. Having considered the Othman criteria, I accept the assurances given by the 
+GOI. 
+ 
+217. Having accepted the assurances in principle, I turn next to the prison conditions 
+which in the light of the assurances will apply in this case.  I find that NDM will be 
+held in Barrack No. 12 of Arthur Road in Mumbai.  As detailed above I find that the 
+video of the cell and the approach to the cell is the best evidence and an accurate 
+portrayal of the conditions in those cells.  The cell is large, far larger than the 3m2 
+minimum set out in Mursic.   The cell is clean and well decorated.  It has a very high 
+ceiling, adequate natural light from grilled windows, ceiling fans and strip lighting.  
+ 
+218. I find that NDM will be provided with a thick cotton mat, a pillow, sheet and 
+blanket.  He will be able to apply on medical grounds to have a bed.  He will have 
+access to drinking water “at will”. He will have access to the bathroom which is 
+attached to the cell and appears to be clean and is newly decorated.  It has a lavatory; 
+shower and the basin has a constant supply of water.  He will be able to wash each day 
+and will receive adequate food.  He may be allowed food from home if the court 
+permits.  
+ 
+219. There is sufficient security as corroborated on the video. A prison officer and 
+a guard are on duty 24 hours a day and the inmates of Barrack No. 12 do not mix with 
+other prisoners.  I accept further information from the GOI that there has never been 
+any violence in the cell because of the high-profile nature of the prisoners held there.   
+79 
+ 
+ 
+220. I accept that medical staff resources would be stretched within Mumbai 
+Central Jail but there is in place an assurance that NDM can consult his own private 
+doctors and psychiatrists. It is an assurance which this court considers to be an 
+important one in all the circumstances.  I equally accept that there are hospitals very 
+close to the prison were NDM to require hospitalisation.   
+ 
+221.I would expect that for medical reasons the prison should allow Nirav Modi a bed and 
+I have no doubt the Court will look sympathetically at any request for home cooked 
+food. That together will access to medical treatment of his choice and the undertaking 
+given by Dr Forrester that he would discuss recommended treatment with any Indian 
+doctor or psychiatrist engaged to look after Nirav Modi, all these threads when pulled 
+together would enable him to face the proceedings in India in a healthier state. 
+ 
+222. The test for this court to apply is whether there are substantial grounds for 
+believing that the RP, if extradited, would face a real risk of being subjected to 
+treatment contrary to Article 3.  Having accepted the assurances and considered the 
+conditions proposed by the GOI, I find there are no grounds at all for believing that 
+NDM would face a real risk of being subjected to treatment breaching Article 3.  The 
+argument fails. 
+ 
+Conclusions. S.91 EA 2003 
+ 
+223. In relation to the submissions that NDM’s mental health is now such that it 
+would be unjust or oppressive to extradite him, that challenge also fails. As I have 
+determined above, there is no determinative evidence such that it is clear NDM would 
+be found by the Court in India to be unfit to plead. Dr Forrester puts it no higher the 
+“could” if there was to be any further deterioration in Nirav Modi’s health. To date 
+such deterioration has been significantly attributed by Dr Forrester to the restrictive 
+regime in HMP Wandsworth. However, the regime awaiting NDM in Barrack 12, when 
+you consider the video, would I have no doubt, be an amelioration of his current 
+conditions of detention, especially when considered alongside the extensive 
+assurances provided by the GOI.  
+ 
+80 
+ 
+224. Although Dr Forrester within his report from October 2020 describes a need 
+for “medication, high intensity psychological interventions, electroconvulsive 
+therapy, crisis service, combined treatments, multi- professional and inpatient care” 
+in view of the assurances provided by the GOI I do not consider it necessary for the 
+GOI to be required to provide further detailed explanation of the care and treatment 
+plan which will be in place for NDM in custody at Barrack 12.  
+ 
+225. In relation to suicide risk, when considering the criteria in Turner v. 
+Government of the United States of America [2012] EWHC 2426 (Admin) the 
+evidence presented does not in my assessment meet the high threshold to satisfy me 
+that NDM’s mental health condition is such that it would be unjust or oppressive to 
+extradite him. Albeit risk of suicide is assessed as high, Dr Forrester confirms in his 
+report that there are no immediate suicidal intentions.  NDM’s mental condition is not 
+such that it removes his capacity to resist the impulse to commit suicide. It is clear 
+from Dr Forrester’s report that while in HMP Wandsworth the ACCT provisions can 
+be deployed to safeguard against risk and having considered the assurances provided 
+by GOI it is clear the Indian authorities have capacity to cope properly with NDM’s 
+mental health and suicidal risk, bolstered by NDM being able to access private 
+treatments from clinicians. I also weigh up the strong public interest in giving effect 
+to extradition treaty obligations.   
+ 
+226. I reject the s.91 challenge.  
+ 
+Procedural Requirements & Decision  
+ 
+227. Section 78(2) of the Extradition Act 2003 requires me to decide whether the 
+documents sent to me by the Secretary of State include: 
+ 
+a) The extradition request and certificate issued by the Secretary of State.  
+[s.78(2)(a)]: 
+ 
+All three requests and certificates have been sent to the Court by the Home Office. 
+ 
+b) Particulars of the person whose extradition is requested. [s.78 (2)(b)]: 
+ 
+81 
+ 
+The Requests contain details of NDM’s identity, including date of birth. No issue 
+is taken by Ms Montgomery and Mr Watson with this requirement.  
+ 
+c) Particulars of the offences are specified in the request [ s.78(2)(c) ]: 
+ 
+Detailed particulars of the offences have been provided in the requests. 
+ 
+d) In the case of a person accused of an offence, a warrant for his arrest issued in the 
+category 2 territory [ s.78(2)(d)]: 
+ 
+A “non-Bailable arrest warrant” has been provided in relation to the CBI 
+extradition request [ page 266] 
+A “non-bailable arrest warrant has been provided in relation to the ED extradition 
+request [ page 398] 
+A “non-bailable arrest warrant” has been provided in relation to the 
+supplementary CBI request issued by the Court of Sessions for Greater Mumbai 
+dated 2nd March 2020 and has been provided. 
+ 
+228. Therefore, I am satisfied that the requests satisfy the requirements of s.78(2) 
+EA 2003.  
+ 
+229. S.78(4) EA 2003 then requires: 
+ 
+(a)the person appearing or brought before him is the person whose 
+extradition is requested; 
+(b)the offence specified in the request is an extradition offence; 
+(c)copies of the documents sent to the judge by the Secretary of State have  
+been served on the person. 
+ 
+230. No challenge is raised in relation to s.78(4)(a ) or (c) and I am satisfied they 
+are complied with. For the reasons set out above in paragraphs 94 –111 above, I am 
+satisfied the offences specified in the requests are extradition offences.S. 137(3) EA 
+2003 is satisfied. I therefore proceed under s.79 EA 2003.  
+ 
+231. I must then decide whether the NDM’s extradition to India is barred by reason of: 
+82 
+ 
+a. the rule against double jeopardy; 
+b. extraneous considerations; 
+c. the passage of time; 
+d. hostage taking considerations; 
+e. forum. 
+ 
+232. No bars to extradition are raised and I find there are none. As NDM is accused 
+of the commissions of the extradition offences but is not alleged to be unlawfully at 
+large after conviction of them, I must proceed under s.84 EA 2003. 
+ 
+233. If required to proceed under s.84 EA 2003 I must decide whether there is 
+evidence which would be sufficient to make a case requiring an answer by NDM if the 
+proceedings were the summary trial of an information against him. In accordance with 
+my reasons and findings at paragraphs 69 – 73 and 92 – 93 above, I am satisfied there 
+is a prima facie case. I therefore proceed under s.87 EA 2003. 
+ 
+234. I must decide whether the NDM’s extradition would be compatible with the 
+Convention rights within the meaning of the Human Rights Act 1998. The challenge 
+raised on behalf of the NDM is that his extradition would not be compatible with his 
+Article 3 and 6 Rights. In accordance with my conclusions at paragraphs 136– 143   
+(Article 6) and 206 - 222 (Article 3)  above the challenges raised are rejected.  
+ 
+235. The remaining challenge under s.91 is rejected as per myconclusions at 
+paragraphs 223 - 226. No other challenges are raised.  I am satisfied so I am sure that 
+the RP’s extradition to India, is compatible with his Convention Rights within the 
+meaning of the Human Rights Act 1998. 
+ 
+236. Therefore, in accordance with s.87(3) EA 2003 I am sending this case to the 
+Secretary of State for a decision as to whether Nirav Modi is to be extradited. 
+ 
+237. In accordance with the provisions of s.92(2)(a) and (b) EA  2003, I hereby 
+notify Nirav Modi of his right to appeal to the High Court against my decision to send 
+the case to the Secretary of State. I also inform him that if he exercises his right of 
+appeal, the appeal will not be heard until the Secretary of State has made their 
+decision. The appeal can be on a point of law or fact or both (s.103(4) EA 2003). 
+83 
+ 
+ 
+238. Notice of appeal under s.92 EA 2003 must be given in accordance with the 
+rules of court before the end of 14 days starting with the day on which the Secretary of 
+State informs him under s.100 (1) or (4) EA 2003 of the order that they have made.  
+ 
+ 
+ 
+District Judge (Magistrates’ Court) Sam Goozée 
+Appropriate Judge 
+25th February 2021.

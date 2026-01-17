@@ -4,6 +4,8 @@ from langgraph.graph import StateGraph, END
 from neo4j import GraphDatabase
 import networkx as nx
 import os
+import json
+from datetime import datetime
 from datetime import datetime
 from dotenv import load_dotenv
 load_dotenv()
@@ -186,3 +188,19 @@ if __name__ == "__main__":
     print("\n🧠 Top 5 Central Accounts:")
     for acc, score in sorted(result["centrality"].items(), key=lambda x: x[1], reverse=True)[:5]:
         print(f"  {acc}: {score:.5f}")
+
+
+
+    output = {
+        "generated_at": datetime.now().isoformat(),
+        "in_degree": result["in_degree"],
+        "out_degree": result["out_degree"],
+        "total_sent": result["total_sent"],
+        "total_received": result["total_received"],
+        "centrality": result["centrality"]
+    }
+
+    with open("outputs/correlation_agent.json", "w") as f:
+        json.dump(output, f, indent=2)
+
+    print("💾 Saved → outputs/correlation_agent.json")

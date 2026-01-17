@@ -222,7 +222,8 @@ import os
 import csv
 from datetime import datetime, timedelta
 from typing import List, Dict, TypedDict
-
+import json
+from datetime import datetime
 from langgraph.graph import StateGraph, END
 from langchain_anthropic import ChatAnthropic
 
@@ -435,3 +436,19 @@ if __name__ == "__main__":
 
     print("\n== Claude Explanation ==\n")
     print(result["reasoning"])
+
+    
+
+    output = {
+        "generated_at": datetime.now().isoformat(),
+        "bursts": result["bursts"],
+        "chains": result["chains"],
+        "coordination_score": result["coordination_score"],
+        "reasoning": result["reasoning"]
+    }
+
+    with open("outputs/timeline_reconstruction.json", "w") as f:
+        json.dump(output, f, indent=2, default=str)
+
+    print("💾 Saved → outputs/timeline_reconstruction.json")
+

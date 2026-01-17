@@ -4,7 +4,7 @@ import networkx as nx
 from datetime import datetime
 import os
 from dotenv import load_dotenv
-
+import json
 from pattern_detection import PatternDetectionAgent  # your big class above
 
 load_dotenv()
@@ -90,8 +90,8 @@ if __name__ == "__main__":
     print(f"Total Detections: {len(final_state['detections'])}")
 
     # Optional persistence
-    import json
-    with open("pattern_detections_langgraph.json", "w") as f:
+    
+    with open("outputs/pattern_detections_langgraph.json", "w") as f:
         json.dump(final_state["detections"], f, indent=2)
 
     print("💾 Saved → pattern_detections_langgraph.json")
