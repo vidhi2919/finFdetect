@@ -1,0 +1,243 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+@layer base {
+  :root {
+    --background: 220 20% 6%;
+    --foreground: 210 20% 95%;
+
+    --card: 220 18% 10%;
+    --card-foreground: 210 20% 95%;
+
+    --popover: 220 18% 10%;
+    --popover-foreground: 210 20% 95%;
+
+    --primary: 175 70% 45%;
+    --primary-foreground: 220 20% 6%;
+
+    --secondary: 220 15% 18%;
+    --secondary-foreground: 210 20% 85%;
+
+    --muted: 220 15% 15%;
+    --muted-foreground: 215 15% 55%;
+
+    --accent: 175 60% 35%;
+    --accent-foreground: 210 20% 95%;
+
+    --destructive: 0 75% 55%;
+    --destructive-foreground: 210 20% 98%;
+
+    --success: 145 65% 42%;
+    --success-foreground: 220 20% 6%;
+
+    --warning: 38 92% 50%;
+    --warning-foreground: 220 20% 6%;
+
+    --border: 220 15% 18%;
+    --input: 220 15% 18%;
+    --ring: 175 70% 45%;
+
+    --radius: 0.5rem;
+
+    /* Custom fraud-specific tokens */
+    --risk-high: 0 75% 55%;
+    --risk-medium: 38 92% 50%;
+    --risk-low: 145 65% 42%;
+    --risk-unknown: 220 10% 50%;
+
+    --graph-node: 175 70% 45%;
+    --graph-edge: 220 15% 35%;
+    --graph-highlight: 175 70% 60%;
+
+    --terminal-bg: 220 25% 4%;
+    --terminal-text: 145 80% 65%;
+    --terminal-accent: 175 70% 55%;
+
+    --sidebar-background: 220 22% 8%;
+    --sidebar-foreground: 210 15% 75%;
+    --sidebar-primary: 175 70% 45%;
+    --sidebar-primary-foreground: 220 20% 6%;
+    --sidebar-accent: 220 15% 15%;
+    --sidebar-accent-foreground: 210 20% 95%;
+    --sidebar-border: 220 15% 15%;
+    --sidebar-ring: 175 70% 45%;
+
+    /* Glow effects */
+    --glow-primary: 0 0 20px hsl(175 70% 45% / 0.3);
+    --glow-risk-high: 0 0 15px hsl(0 75% 55% / 0.4);
+    --glow-risk-medium: 0 0 15px hsl(38 92% 50% / 0.4);
+    --glow-risk-low: 0 0 15px hsl(145 65% 42% / 0.3);
+  }
+
+  .dark {
+    --background: 220 20% 6%;
+    --foreground: 210 20% 95%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+
+  .font-mono {
+    font-family: 'JetBrains Mono', 'Fira Code', monospace;
+  }
+}
+
+@layer components {
+  /* Risk badge variants */
+  .risk-badge-high {
+    @apply bg-destructive/20 text-destructive border border-destructive/30;
+    box-shadow: var(--glow-risk-high);
+  }
+
+  .risk-badge-medium {
+    @apply bg-warning/20 text-warning border border-warning/30;
+    box-shadow: var(--glow-risk-medium);
+  }
+
+  .risk-badge-low {
+    @apply bg-success/20 text-success border border-success/30;
+    box-shadow: var(--glow-risk-low);
+  }
+
+  /* Terminal styling */
+  .terminal-panel {
+    @apply bg-[hsl(var(--terminal-bg))] border border-border rounded-lg font-mono text-sm;
+  }
+
+  .terminal-text {
+    color: hsl(var(--terminal-text));
+  }
+
+  .terminal-accent {
+    color: hsl(var(--terminal-accent));
+  }
+
+  /* Graph visualization container */
+  .graph-container {
+    @apply bg-card/50 border border-border rounded-lg relative overflow-hidden;
+    background-image: 
+      radial-gradient(circle at 1px 1px, hsl(var(--border)) 1px, transparent 0);
+    background-size: 24px 24px;
+  }
+
+  /* Data table enhancements */
+  .data-table-row {
+    @apply transition-colors duration-150;
+  }
+
+  .data-table-row:hover {
+    @apply bg-muted/50;
+  }
+
+  /* Metric card */
+  .metric-card {
+    @apply bg-card border border-border rounded-lg p-4 relative overflow-hidden;
+  }
+
+  .metric-card::before {
+    content: '';
+    @apply absolute top-0 left-0 w-full h-0.5;
+    background: linear-gradient(90deg, hsl(var(--primary)) 0%, transparent 100%);
+  }
+
+  /* Pulse animation for live indicators */
+  .pulse-live {
+    animation: pulse-live 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  }
+
+  @keyframes pulse-live {
+    0%, 100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.5;
+    }
+  }
+
+  /* Timeline connector */
+  .timeline-connector {
+    @apply absolute left-4 top-8 bottom-0 w-px bg-border;
+  }
+
+  /* Scan line effect */
+  .scan-line {
+    @apply absolute inset-0 pointer-events-none overflow-hidden;
+  }
+
+  .scan-line::after {
+    content: '';
+    @apply absolute inset-x-0 h-px bg-primary/10;
+    animation: scan 4s linear infinite;
+  }
+
+  @keyframes scan {
+    0% {
+      top: 0;
+    }
+    100% {
+      top: 100%;
+    }
+  }
+
+  /* Fade in animation */
+  .fade-in {
+    animation: fadeIn 0.3s ease-out;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  /* Slide in from left */
+  .slide-in-left {
+    animation: slideInLeft 0.3s ease-out;
+  }
+
+  @keyframes slideInLeft {
+    from {
+      opacity: 0;
+      transform: translateX(-20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: hsl(var(--background));
+}
+
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--muted));
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--muted-foreground));
+}
