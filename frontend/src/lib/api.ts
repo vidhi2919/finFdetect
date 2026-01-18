@@ -4,8 +4,8 @@ const API_BASE =
   typeof window !== "undefined"
     ? (window as any).__API_BASE__ ||
       import.meta.env?.NEXT_PUBLIC_API_BASE_URL ||
-      "http://localhost:8000"
-    : "http://localhost:8000";
+     "http://15.206.90.105"
+    :  "http://15.206.90.105";
 
 export async function apiGet<T>(path: string, init?: RequestInit): Promise<T> {
   const res = await fetch(`${API_BASE}${path}`, {
