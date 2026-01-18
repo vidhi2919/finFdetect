@@ -1,0 +1,4481 @@
+{
+    "generated_at": "2026-01-16T17:22:39.620673",
+    "count": 254,
+    "detections": [
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0199",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0199",
+                    "ACC0039",
+                    "ACC0050",
+                    "ACC0223",
+                    "ACC0152",
+                    "ACC0199"
+                ],
+                "length": 5,
+                "total_amount": 115672.5
+            },
+            "timestamp": "2026-01-16T22:52:38.648328"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0003",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0003",
+                    "ACC0183",
+                    "ACC0180",
+                    "ACC0270",
+                    "ACC0058",
+                    "ACC0003"
+                ],
+                "length": 5,
+                "total_amount": 109148.0
+            },
+            "timestamp": "2026-01-16T22:52:38.648486"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0257",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0257",
+                    "ACC0014",
+                    "ACC0232",
+                    "ACC0295",
+                    "ACC0021",
+                    "ACC0257"
+                ],
+                "length": 5,
+                "total_amount": 117576.0
+            },
+            "timestamp": "2026-01-16T22:52:38.650640"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0068",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0068",
+                    "ACC0015",
+                    "ACC0065",
+                    "ACC0197",
+                    "ACC0206",
+                    "ACC0068"
+                ],
+                "length": 5,
+                "total_amount": 109600.0
+            },
+            "timestamp": "2026-01-16T22:52:38.650959"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0105",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0105",
+                    "ACC0031",
+                    "ACC0155",
+                    "ACC0118",
+                    "ACC0238",
+                    "ACC0105"
+                ],
+                "length": 5,
+                "total_amount": 105796.0
+            },
+            "timestamp": "2026-01-16T22:52:38.653110"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0031",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0031",
+                    "ACC0155",
+                    "ACC0118",
+                    "ACC0238",
+                    "ACC0105",
+                    "ACC0031"
+                ],
+                "length": 5,
+                "total_amount": 105796.0
+            },
+            "timestamp": "2026-01-16T22:52:38.653294"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0198",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0198",
+                    "ACC0126",
+                    "ACC0171",
+                    "ACC0196",
+                    "ACC0009",
+                    "ACC0198"
+                ],
+                "length": 5,
+                "total_amount": 114653.0
+            },
+            "timestamp": "2026-01-16T22:52:38.654097"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0277",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0277",
+                    "ACC0300",
+                    "ACC0015",
+                    "ACC0266",
+                    "ACC0150",
+                    "ACC0277"
+                ],
+                "length": 5,
+                "total_amount": 112359.0
+            },
+            "timestamp": "2026-01-16T22:52:38.654789"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0277",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0277",
+                    "ACC0300",
+                    "ACC0205",
+                    "ACC0273",
+                    "ACC0150",
+                    "ACC0277"
+                ],
+                "length": 5,
+                "total_amount": 113109.0
+            },
+            "timestamp": "2026-01-16T22:52:38.654987"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0270",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0270",
+                    "ACC0058",
+                    "ACC0003",
+                    "ACC0183",
+                    "ACC0180",
+                    "ACC0270"
+                ],
+                "length": 5,
+                "total_amount": 109148.0
+            },
+            "timestamp": "2026-01-16T22:52:38.656254"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0074",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0074",
+                    "ACC0292",
+                    "ACC0121",
+                    "ACC0240",
+                    "ACC0278",
+                    "ACC0074"
+                ],
+                "length": 5,
+                "total_amount": 102312.0
+            },
+            "timestamp": "2026-01-16T22:52:38.656563"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0074",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0074",
+                    "ACC0292",
+                    "ACC0044",
+                    "ACC0202",
+                    "ACC0272",
+                    "ACC0074"
+                ],
+                "length": 5,
+                "total_amount": 113869.0
+            },
+            "timestamp": "2026-01-16T22:52:38.656794"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0089",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0089",
+                    "ACC0023",
+                    "ACC0248",
+                    "ACC0078",
+                    "ACC0136",
+                    "ACC0089"
+                ],
+                "length": 5,
+                "total_amount": 108955.0
+            },
+            "timestamp": "2026-01-16T22:52:38.657766"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0029",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0029",
+                    "ACC0056",
+                    "ACC0280",
+                    "ACC0022",
+                    "ACC0042",
+                    "ACC0029"
+                ],
+                "length": 5,
+                "total_amount": 110851.0
+            },
+            "timestamp": "2026-01-16T22:52:38.659715"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0165",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0165",
+                    "ACC0174",
+                    "ACC0142",
+                    "ACC0171",
+                    "ACC0196",
+                    "ACC0165"
+                ],
+                "length": 5,
+                "total_amount": 102493.0
+            },
+            "timestamp": "2026-01-16T22:52:38.660990"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0100",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0100",
+                    "ACC0251",
+                    "ACC0034",
+                    "ACC0158",
+                    "ACC0233",
+                    "ACC0100"
+                ],
+                "length": 5,
+                "total_amount": 117689.0
+            },
+            "timestamp": "2026-01-16T22:52:38.663943"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0116",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0116",
+                    "ACC0149",
+                    "ACC0288",
+                    "ACC0171",
+                    "ACC0279",
+                    "ACC0116"
+                ],
+                "length": 5,
+                "total_amount": 116015.0
+            },
+            "timestamp": "2026-01-16T22:52:38.666770"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0037",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0037",
+                    "ACC0252",
+                    "ACC0057",
+                    "ACC0274",
+                    "ACC0280",
+                    "ACC0037"
+                ],
+                "length": 5,
+                "total_amount": 110911.0
+            },
+            "timestamp": "2026-01-16T22:52:38.667539"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0260",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0260",
+                    "ACC0023",
+                    "ACC0028",
+                    "ACC0263",
+                    "ACC0035",
+                    "ACC0260"
+                ],
+                "length": 5,
+                "total_amount": 105600.0
+            },
+            "timestamp": "2026-01-16T22:52:38.667576"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0214",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0214",
+                    "ACC0194",
+                    "ACC0216",
+                    "ACC0169",
+                    "ACC0171",
+                    "ACC0214"
+                ],
+                "length": 5,
+                "total_amount": 107718.0
+            },
+            "timestamp": "2026-01-16T22:52:38.669951"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0214",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0214",
+                    "ACC0194",
+                    "ACC0227",
+                    "ACC0061",
+                    "ACC0024",
+                    "ACC0214"
+                ],
+                "length": 5,
+                "total_amount": 113938.5
+            },
+            "timestamp": "2026-01-16T22:52:38.670141"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0244",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0244",
+                    "ACC0125",
+                    "ACC0268",
+                    "ACC0150",
+                    "ACC0162",
+                    "ACC0244"
+                ],
+                "length": 5,
+                "total_amount": 106964.0
+            },
+            "timestamp": "2026-01-16T22:52:38.679495"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0272",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0272",
+                    "ACC0074",
+                    "ACC0292",
+                    "ACC0044",
+                    "ACC0202",
+                    "ACC0272"
+                ],
+                "length": 5,
+                "total_amount": 113869.0
+            },
+            "timestamp": "2026-01-16T22:52:38.680587"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0295",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0295",
+                    "ACC0292",
+                    "ACC0083",
+                    "ACC0070",
+                    "ACC0232",
+                    "ACC0295"
+                ],
+                "length": 5,
+                "total_amount": 110713.0
+            },
+            "timestamp": "2026-01-16T22:52:38.681112"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0295",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0295",
+                    "ACC0021",
+                    "ACC0257",
+                    "ACC0014",
+                    "ACC0232",
+                    "ACC0295"
+                ],
+                "length": 5,
+                "total_amount": 117576.0
+            },
+            "timestamp": "2026-01-16T22:52:38.681297"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0150",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0150",
+                    "ACC0162",
+                    "ACC0244",
+                    "ACC0125",
+                    "ACC0268",
+                    "ACC0150"
+                ],
+                "length": 5,
+                "total_amount": 106964.0
+            },
+            "timestamp": "2026-01-16T22:52:38.683795"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0150",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0150",
+                    "ACC0162",
+                    "ACC0120",
+                    "ACC0236",
+                    "ACC0201",
+                    "ACC0150"
+                ],
+                "length": 5,
+                "total_amount": 100044.0
+            },
+            "timestamp": "2026-01-16T22:52:38.683882"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0202",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0202",
+                    "ACC0272",
+                    "ACC0074",
+                    "ACC0292",
+                    "ACC0044",
+                    "ACC0202"
+                ],
+                "length": 5,
+                "total_amount": 113869.0
+            },
+            "timestamp": "2026-01-16T22:52:38.686492"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0011",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0011",
+                    "ACC0269",
+                    "ACC0283",
+                    "ACC0028",
+                    "ACC0264",
+                    "ACC0011"
+                ],
+                "length": 5,
+                "total_amount": 115245.0
+            },
+            "timestamp": "2026-01-16T22:52:38.687416"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0269",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0269",
+                    "ACC0283",
+                    "ACC0028",
+                    "ACC0264",
+                    "ACC0011",
+                    "ACC0269"
+                ],
+                "length": 5,
+                "total_amount": 115245.0
+            },
+            "timestamp": "2026-01-16T22:52:38.688729"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0181",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0181",
+                    "ACC0194",
+                    "ACC0227",
+                    "ACC0070",
+                    "ACC0229",
+                    "ACC0181"
+                ],
+                "length": 5,
+                "total_amount": 108130.0
+            },
+            "timestamp": "2026-01-16T22:52:38.689922"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0030",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0030",
+                    "ACC0064",
+                    "ACC0279",
+                    "ACC0081",
+                    "ACC0230",
+                    "ACC0030"
+                ],
+                "length": 5,
+                "total_amount": 107182.0
+            },
+            "timestamp": "2026-01-16T22:52:38.690874"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0065",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0065",
+                    "ACC0096",
+                    "ACC0292",
+                    "ACC0083",
+                    "ACC0015",
+                    "ACC0065"
+                ],
+                "length": 5,
+                "total_amount": 109582.0
+            },
+            "timestamp": "2026-01-16T22:52:38.691204"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0065",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0065",
+                    "ACC0197",
+                    "ACC0206",
+                    "ACC0068",
+                    "ACC0015",
+                    "ACC0065"
+                ],
+                "length": 5,
+                "total_amount": 109600.0
+            },
+            "timestamp": "2026-01-16T22:52:38.691615"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0171",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0171",
+                    "ACC0279",
+                    "ACC0116",
+                    "ACC0149",
+                    "ACC0288",
+                    "ACC0171"
+                ],
+                "length": 5,
+                "total_amount": 116015.0
+            },
+            "timestamp": "2026-01-16T22:52:38.693435"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0171",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0171",
+                    "ACC0196",
+                    "ACC0092",
+                    "ACC0224",
+                    "ACC0288",
+                    "ACC0171"
+                ],
+                "length": 5,
+                "total_amount": 110355.0
+            },
+            "timestamp": "2026-01-16T22:52:38.693491"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0121",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0121",
+                    "ACC0240",
+                    "ACC0278",
+                    "ACC0074",
+                    "ACC0292",
+                    "ACC0121"
+                ],
+                "length": 5,
+                "total_amount": 102312.0
+            },
+            "timestamp": "2026-01-16T22:52:38.695174"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0273",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0273",
+                    "ACC0150",
+                    "ACC0277",
+                    "ACC0300",
+                    "ACC0205",
+                    "ACC0273"
+                ],
+                "length": 5,
+                "total_amount": 113109.0
+            },
+            "timestamp": "2026-01-16T22:52:38.697201"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0273",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0273",
+                    "ACC0138",
+                    "ACC0087",
+                    "ACC0300",
+                    "ACC0205",
+                    "ACC0273"
+                ],
+                "length": 5,
+                "total_amount": 114263.0
+            },
+            "timestamp": "2026-01-16T22:52:38.697670"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0264",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0264",
+                    "ACC0219",
+                    "ACC0233",
+                    "ACC0161",
+                    "ACC0284",
+                    "ACC0264"
+                ],
+                "length": 5,
+                "total_amount": 111722.0
+            },
+            "timestamp": "2026-01-16T22:52:38.698635"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0264",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0264",
+                    "ACC0011",
+                    "ACC0269",
+                    "ACC0283",
+                    "ACC0028",
+                    "ACC0264"
+                ],
+                "length": 5,
+                "total_amount": 115245.0
+            },
+            "timestamp": "2026-01-16T22:52:38.699083"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0024",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0024",
+                    "ACC0041",
+                    "ACC0212",
+                    "ACC0063",
+                    "ACC0300",
+                    "ACC0024"
+                ],
+                "length": 5,
+                "total_amount": 108851.0
+            },
+            "timestamp": "2026-01-16T22:52:38.699422"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0281",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0281",
+                    "ACC0058",
+                    "ACC0267",
+                    "ACC0236",
+                    "ACC0201",
+                    "ACC0281"
+                ],
+                "length": 5,
+                "total_amount": 114324.0
+            },
+            "timestamp": "2026-01-16T22:52:38.701043"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0058",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0058",
+                    "ACC0267",
+                    "ACC0236",
+                    "ACC0201",
+                    "ACC0281",
+                    "ACC0058"
+                ],
+                "length": 5,
+                "total_amount": 114324.0
+            },
+            "timestamp": "2026-01-16T22:52:38.702075"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0058",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0058",
+                    "ACC0003",
+                    "ACC0183",
+                    "ACC0180",
+                    "ACC0270",
+                    "ACC0058"
+                ],
+                "length": 5,
+                "total_amount": 109148.0
+            },
+            "timestamp": "2026-01-16T22:52:38.702278"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0279",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0279",
+                    "ACC0081",
+                    "ACC0230",
+                    "ACC0030",
+                    "ACC0064",
+                    "ACC0279"
+                ],
+                "length": 5,
+                "total_amount": 107182.0
+            },
+            "timestamp": "2026-01-16T22:52:38.706485"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0279",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0279",
+                    "ACC0116",
+                    "ACC0149",
+                    "ACC0288",
+                    "ACC0171",
+                    "ACC0279"
+                ],
+                "length": 5,
+                "total_amount": 116015.0
+            },
+            "timestamp": "2026-01-16T22:52:38.706879"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0206",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0206",
+                    "ACC0068",
+                    "ACC0015",
+                    "ACC0065",
+                    "ACC0197",
+                    "ACC0206"
+                ],
+                "length": 5,
+                "total_amount": 109600.0
+            },
+            "timestamp": "2026-01-16T22:52:38.707757"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0056",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0056",
+                    "ACC0280",
+                    "ACC0022",
+                    "ACC0042",
+                    "ACC0029",
+                    "ACC0056"
+                ],
+                "length": 5,
+                "total_amount": 110851.0
+            },
+            "timestamp": "2026-01-16T22:52:38.709156"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0288",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0288",
+                    "ACC0171",
+                    "ACC0279",
+                    "ACC0116",
+                    "ACC0149",
+                    "ACC0288"
+                ],
+                "length": 5,
+                "total_amount": 116015.0
+            },
+            "timestamp": "2026-01-16T22:52:38.709512"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0288",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0288",
+                    "ACC0171",
+                    "ACC0196",
+                    "ACC0092",
+                    "ACC0224",
+                    "ACC0288"
+                ],
+                "length": 5,
+                "total_amount": 110355.0
+            },
+            "timestamp": "2026-01-16T22:52:38.709544"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0149",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0149",
+                    "ACC0288",
+                    "ACC0171",
+                    "ACC0279",
+                    "ACC0116",
+                    "ACC0149"
+                ],
+                "length": 5,
+                "total_amount": 116015.0
+            },
+            "timestamp": "2026-01-16T22:52:38.710215"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0162",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0162",
+                    "ACC0244",
+                    "ACC0125",
+                    "ACC0268",
+                    "ACC0150",
+                    "ACC0162"
+                ],
+                "length": 5,
+                "total_amount": 106964.0
+            },
+            "timestamp": "2026-01-16T22:52:38.710680"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0162",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0162",
+                    "ACC0120",
+                    "ACC0236",
+                    "ACC0201",
+                    "ACC0150",
+                    "ACC0162"
+                ],
+                "length": 5,
+                "total_amount": 100044.0
+            },
+            "timestamp": "2026-01-16T22:52:38.710914"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0118",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0118",
+                    "ACC0238",
+                    "ACC0105",
+                    "ACC0031",
+                    "ACC0155",
+                    "ACC0118"
+                ],
+                "length": 5,
+                "total_amount": 105796.0
+            },
+            "timestamp": "2026-01-16T22:52:38.712324"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0180",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0180",
+                    "ACC0002",
+                    "ACC0248",
+                    "ACC0034",
+                    "ACC0278",
+                    "ACC0180"
+                ],
+                "length": 5,
+                "total_amount": 103199.0
+            },
+            "timestamp": "2026-01-16T22:52:38.713271"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0267",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0267",
+                    "ACC0236",
+                    "ACC0201",
+                    "ACC0281",
+                    "ACC0058",
+                    "ACC0267"
+                ],
+                "length": 5,
+                "total_amount": 114324.0
+            },
+            "timestamp": "2026-01-16T22:52:38.713614"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0070",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0070",
+                    "ACC0229",
+                    "ACC0181",
+                    "ACC0194",
+                    "ACC0227",
+                    "ACC0070"
+                ],
+                "length": 5,
+                "total_amount": 108130.0
+            },
+            "timestamp": "2026-01-16T22:52:38.715040"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0070",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0070",
+                    "ACC0232",
+                    "ACC0295",
+                    "ACC0292",
+                    "ACC0083",
+                    "ACC0070"
+                ],
+                "length": 5,
+                "total_amount": 110713.0
+            },
+            "timestamp": "2026-01-16T22:52:38.715258"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0232",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0232",
+                    "ACC0295",
+                    "ACC0292",
+                    "ACC0083",
+                    "ACC0070",
+                    "ACC0232"
+                ],
+                "length": 5,
+                "total_amount": 110713.0
+            },
+            "timestamp": "2026-01-16T22:52:38.715596"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0232",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0232",
+                    "ACC0295",
+                    "ACC0021",
+                    "ACC0257",
+                    "ACC0014",
+                    "ACC0232"
+                ],
+                "length": 5,
+                "total_amount": 117576.0
+            },
+            "timestamp": "2026-01-16T22:52:38.715658"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0009",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0009",
+                    "ACC0198",
+                    "ACC0126",
+                    "ACC0171",
+                    "ACC0196",
+                    "ACC0009"
+                ],
+                "length": 5,
+                "total_amount": 114653.0
+            },
+            "timestamp": "2026-01-16T22:52:38.717016"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0280",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0280",
+                    "ACC0084",
+                    "ACC0077",
+                    "ACC0134",
+                    "ACC0168",
+                    "ACC0280"
+                ],
+                "length": 5,
+                "total_amount": 100236.0
+            },
+            "timestamp": "2026-01-16T22:52:38.720422"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0023",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0023",
+                    "ACC0028",
+                    "ACC0263",
+                    "ACC0035",
+                    "ACC0260",
+                    "ACC0023"
+                ],
+                "length": 5,
+                "total_amount": 105600.0
+            },
+            "timestamp": "2026-01-16T22:52:38.720537"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0023",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0023",
+                    "ACC0248",
+                    "ACC0078",
+                    "ACC0136",
+                    "ACC0089",
+                    "ACC0023"
+                ],
+                "length": 5,
+                "total_amount": 108955.0
+            },
+            "timestamp": "2026-01-16T22:52:38.720955"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0084",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0084",
+                    "ACC0077",
+                    "ACC0134",
+                    "ACC0168",
+                    "ACC0280",
+                    "ACC0084"
+                ],
+                "length": 5,
+                "total_amount": 100236.0
+            },
+            "timestamp": "2026-01-16T22:52:38.721007"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0062",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0062",
+                    "ACC0234",
+                    "ACC0263",
+                    "ACC0128",
+                    "ACC0266",
+                    "ACC0062"
+                ],
+                "length": 5,
+                "total_amount": 101743.0
+            },
+            "timestamp": "2026-01-16T22:52:38.721572"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0062",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0062",
+                    "ACC0173",
+                    "ACC0227",
+                    "ACC0070",
+                    "ACC0232",
+                    "ACC0062"
+                ],
+                "length": 5,
+                "total_amount": 116019.0
+            },
+            "timestamp": "2026-01-16T22:52:38.721956"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0002",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0002",
+                    "ACC0248",
+                    "ACC0034",
+                    "ACC0278",
+                    "ACC0180",
+                    "ACC0002"
+                ],
+                "length": 5,
+                "total_amount": 103199.0
+            },
+            "timestamp": "2026-01-16T22:52:38.723248"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0050",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0050",
+                    "ACC0223",
+                    "ACC0152",
+                    "ACC0199",
+                    "ACC0039",
+                    "ACC0050"
+                ],
+                "length": 5,
+                "total_amount": 115672.5
+            },
+            "timestamp": "2026-01-16T22:52:38.724563"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0096",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0096",
+                    "ACC0292",
+                    "ACC0083",
+                    "ACC0015",
+                    "ACC0065",
+                    "ACC0096"
+                ],
+                "length": 5,
+                "total_amount": 109582.0
+            },
+            "timestamp": "2026-01-16T22:52:38.726586"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0268",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0268",
+                    "ACC0150",
+                    "ACC0162",
+                    "ACC0244",
+                    "ACC0125",
+                    "ACC0268"
+                ],
+                "length": 5,
+                "total_amount": 106964.0
+            },
+            "timestamp": "2026-01-16T22:52:38.727878"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0240",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0240",
+                    "ACC0278",
+                    "ACC0074",
+                    "ACC0292",
+                    "ACC0121",
+                    "ACC0240"
+                ],
+                "length": 5,
+                "total_amount": 102312.0
+            },
+            "timestamp": "2026-01-16T22:52:38.728304"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0292",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0292",
+                    "ACC0121",
+                    "ACC0240",
+                    "ACC0278",
+                    "ACC0074",
+                    "ACC0292"
+                ],
+                "length": 5,
+                "total_amount": 102312.0
+            },
+            "timestamp": "2026-01-16T22:52:38.728347"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0015",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0015",
+                    "ACC0266",
+                    "ACC0150",
+                    "ACC0277",
+                    "ACC0300",
+                    "ACC0015"
+                ],
+                "length": 5,
+                "total_amount": 112359.0
+            },
+            "timestamp": "2026-01-16T22:52:38.728523"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0015",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0015",
+                    "ACC0065",
+                    "ACC0096",
+                    "ACC0292",
+                    "ACC0083",
+                    "ACC0015"
+                ],
+                "length": 5,
+                "total_amount": 109582.0
+            },
+            "timestamp": "2026-01-16T22:52:38.728739"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0021",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0021",
+                    "ACC0257",
+                    "ACC0014",
+                    "ACC0232",
+                    "ACC0295",
+                    "ACC0021"
+                ],
+                "length": 5,
+                "total_amount": 117576.0
+            },
+            "timestamp": "2026-01-16T22:52:38.728984"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0021",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0021",
+                    "ACC0231",
+                    "ACC0298",
+                    "ACC0113",
+                    "ACC0217",
+                    "ACC0021"
+                ],
+                "length": 5,
+                "total_amount": 108329.0
+            },
+            "timestamp": "2026-01-16T22:52:38.729326"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0233",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0233",
+                    "ACC0100",
+                    "ACC0251",
+                    "ACC0034",
+                    "ACC0158",
+                    "ACC0233"
+                ],
+                "length": 5,
+                "total_amount": 117689.0
+            },
+            "timestamp": "2026-01-16T22:52:38.731485"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0233",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0233",
+                    "ACC0161",
+                    "ACC0284",
+                    "ACC0264",
+                    "ACC0219",
+                    "ACC0233"
+                ],
+                "length": 5,
+                "total_amount": 111722.0
+            },
+            "timestamp": "2026-01-16T22:52:38.731600"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0161",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0161",
+                    "ACC0284",
+                    "ACC0264",
+                    "ACC0219",
+                    "ACC0233",
+                    "ACC0161"
+                ],
+                "length": 5,
+                "total_amount": 111722.0
+            },
+            "timestamp": "2026-01-16T22:52:38.731912"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0173",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0173",
+                    "ACC0227",
+                    "ACC0070",
+                    "ACC0232",
+                    "ACC0062",
+                    "ACC0173"
+                ],
+                "length": 5,
+                "total_amount": 116019.0
+            },
+            "timestamp": "2026-01-16T22:52:38.737198"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0298",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0298",
+                    "ACC0113",
+                    "ACC0217",
+                    "ACC0021",
+                    "ACC0231",
+                    "ACC0298"
+                ],
+                "length": 5,
+                "total_amount": 108329.0
+            },
+            "timestamp": "2026-01-16T22:52:38.737472"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0155",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0155",
+                    "ACC0072",
+                    "ACC0203",
+                    "ACC0213",
+                    "ACC0143",
+                    "ACC0155"
+                ],
+                "length": 5,
+                "total_amount": 105217.0
+            },
+            "timestamp": "2026-01-16T22:52:38.742185"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0155",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0155",
+                    "ACC0118",
+                    "ACC0238",
+                    "ACC0105",
+                    "ACC0031",
+                    "ACC0155"
+                ],
+                "length": 5,
+                "total_amount": 105796.0
+            },
+            "timestamp": "2026-01-16T22:52:38.742530"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0125",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0125",
+                    "ACC0268",
+                    "ACC0150",
+                    "ACC0162",
+                    "ACC0244",
+                    "ACC0125"
+                ],
+                "length": 5,
+                "total_amount": 106964.0
+            },
+            "timestamp": "2026-01-16T22:52:38.743770"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0196",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0196",
+                    "ACC0092",
+                    "ACC0224",
+                    "ACC0288",
+                    "ACC0171",
+                    "ACC0196"
+                ],
+                "length": 5,
+                "total_amount": 110355.0
+            },
+            "timestamp": "2026-01-16T22:52:38.744136"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0196",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0196",
+                    "ACC0165",
+                    "ACC0174",
+                    "ACC0142",
+                    "ACC0171",
+                    "ACC0196"
+                ],
+                "length": 5,
+                "total_amount": 102493.0
+            },
+            "timestamp": "2026-01-16T22:52:38.744608"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0018",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0018",
+                    "ACC0079",
+                    "ACC0155",
+                    "ACC0212",
+                    "ACC0063",
+                    "ACC0018"
+                ],
+                "length": 5,
+                "total_amount": 115597.0
+            },
+            "timestamp": "2026-01-16T22:52:38.752180"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0079",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0079",
+                    "ACC0155",
+                    "ACC0212",
+                    "ACC0109",
+                    "ACC0186",
+                    "ACC0079"
+                ],
+                "length": 5,
+                "total_amount": 113022.0
+            },
+            "timestamp": "2026-01-16T22:52:38.752853"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0079",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0079",
+                    "ACC0155",
+                    "ACC0212",
+                    "ACC0063",
+                    "ACC0018",
+                    "ACC0079"
+                ],
+                "length": 5,
+                "total_amount": 115597.0
+            },
+            "timestamp": "2026-01-16T22:52:38.752886"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0194",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0194",
+                    "ACC0216",
+                    "ACC0169",
+                    "ACC0171",
+                    "ACC0214",
+                    "ACC0194"
+                ],
+                "length": 5,
+                "total_amount": 107718.0
+            },
+            "timestamp": "2026-01-16T22:52:38.752996"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0216",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0216",
+                    "ACC0169",
+                    "ACC0171",
+                    "ACC0214",
+                    "ACC0194",
+                    "ACC0216"
+                ],
+                "length": 5,
+                "total_amount": 107718.0
+            },
+            "timestamp": "2026-01-16T22:52:38.754180"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0174",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0174",
+                    "ACC0142",
+                    "ACC0171",
+                    "ACC0196",
+                    "ACC0165",
+                    "ACC0174"
+                ],
+                "length": 5,
+                "total_amount": 102493.0
+            },
+            "timestamp": "2026-01-16T22:52:38.756207"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0083",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0083",
+                    "ACC0015",
+                    "ACC0065",
+                    "ACC0096",
+                    "ACC0292",
+                    "ACC0083"
+                ],
+                "length": 5,
+                "total_amount": 109582.0
+            },
+            "timestamp": "2026-01-16T22:52:38.756743"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0083",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0083",
+                    "ACC0070",
+                    "ACC0232",
+                    "ACC0295",
+                    "ACC0292",
+                    "ACC0083"
+                ],
+                "length": 5,
+                "total_amount": 110713.0
+            },
+            "timestamp": "2026-01-16T22:52:38.757283"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0266",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0266",
+                    "ACC0062",
+                    "ACC0234",
+                    "ACC0263",
+                    "ACC0128",
+                    "ACC0266"
+                ],
+                "length": 5,
+                "total_amount": 101743.0
+            },
+            "timestamp": "2026-01-16T22:52:38.758144"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0266",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0266",
+                    "ACC0150",
+                    "ACC0277",
+                    "ACC0300",
+                    "ACC0015",
+                    "ACC0266"
+                ],
+                "length": 5,
+                "total_amount": 112359.0
+            },
+            "timestamp": "2026-01-16T22:52:38.758555"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0238",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0238",
+                    "ACC0105",
+                    "ACC0031",
+                    "ACC0155",
+                    "ACC0118",
+                    "ACC0238"
+                ],
+                "length": 5,
+                "total_amount": 105796.0
+            },
+            "timestamp": "2026-01-16T22:52:38.759838"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0282",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0282",
+                    "ACC0168",
+                    "ACC0280",
+                    "ACC0022",
+                    "ACC0002",
+                    "ACC0282"
+                ],
+                "length": 5,
+                "total_amount": 102847.0
+            },
+            "timestamp": "2026-01-16T22:52:38.760356"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0143",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0143",
+                    "ACC0155",
+                    "ACC0072",
+                    "ACC0203",
+                    "ACC0213",
+                    "ACC0143"
+                ],
+                "length": 5,
+                "total_amount": 105217.0
+            },
+            "timestamp": "2026-01-16T22:52:38.761574"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0014",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0014",
+                    "ACC0232",
+                    "ACC0295",
+                    "ACC0021",
+                    "ACC0257",
+                    "ACC0014"
+                ],
+                "length": 5,
+                "total_amount": 117576.0
+            },
+            "timestamp": "2026-01-16T22:52:38.762700"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0028",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0028",
+                    "ACC0263",
+                    "ACC0035",
+                    "ACC0260",
+                    "ACC0023",
+                    "ACC0028"
+                ],
+                "length": 5,
+                "total_amount": 105600.0
+            },
+            "timestamp": "2026-01-16T22:52:38.762737"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0028",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0028",
+                    "ACC0264",
+                    "ACC0011",
+                    "ACC0269",
+                    "ACC0283",
+                    "ACC0028"
+                ],
+                "length": 5,
+                "total_amount": 115245.0
+            },
+            "timestamp": "2026-01-16T22:52:38.763453"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0128",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0128",
+                    "ACC0266",
+                    "ACC0062",
+                    "ACC0234",
+                    "ACC0263",
+                    "ACC0128"
+                ],
+                "length": 5,
+                "total_amount": 101743.0
+            },
+            "timestamp": "2026-01-16T22:52:38.764542"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0284",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0284",
+                    "ACC0264",
+                    "ACC0219",
+                    "ACC0233",
+                    "ACC0161",
+                    "ACC0284"
+                ],
+                "length": 5,
+                "total_amount": 111722.0
+            },
+            "timestamp": "2026-01-16T22:52:38.765896"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0205",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0205",
+                    "ACC0273",
+                    "ACC0150",
+                    "ACC0277",
+                    "ACC0300",
+                    "ACC0205"
+                ],
+                "length": 5,
+                "total_amount": 113109.0
+            },
+            "timestamp": "2026-01-16T22:52:38.767004"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0205",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0205",
+                    "ACC0273",
+                    "ACC0138",
+                    "ACC0087",
+                    "ACC0300",
+                    "ACC0205"
+                ],
+                "length": 5,
+                "total_amount": 114263.0
+            },
+            "timestamp": "2026-01-16T22:52:38.767165"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0126",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0126",
+                    "ACC0171",
+                    "ACC0196",
+                    "ACC0009",
+                    "ACC0198",
+                    "ACC0126"
+                ],
+                "length": 5,
+                "total_amount": 114653.0
+            },
+            "timestamp": "2026-01-16T22:52:38.767613"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0263",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0263",
+                    "ACC0035",
+                    "ACC0260",
+                    "ACC0023",
+                    "ACC0028",
+                    "ACC0263"
+                ],
+                "length": 5,
+                "total_amount": 105600.0
+            },
+            "timestamp": "2026-01-16T22:52:38.768009"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0263",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0263",
+                    "ACC0128",
+                    "ACC0266",
+                    "ACC0062",
+                    "ACC0234",
+                    "ACC0263"
+                ],
+                "length": 5,
+                "total_amount": 101743.0
+            },
+            "timestamp": "2026-01-16T22:52:38.768366"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0183",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0183",
+                    "ACC0180",
+                    "ACC0270",
+                    "ACC0058",
+                    "ACC0003",
+                    "ACC0183"
+                ],
+                "length": 5,
+                "total_amount": 109148.0
+            },
+            "timestamp": "2026-01-16T22:52:38.769565"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0042",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0042",
+                    "ACC0029",
+                    "ACC0056",
+                    "ACC0280",
+                    "ACC0022",
+                    "ACC0042"
+                ],
+                "length": 5,
+                "total_amount": 110851.0
+            },
+            "timestamp": "2026-01-16T22:52:38.769665"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0042",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0042",
+                    "ACC0240",
+                    "ACC0007",
+                    "ACC0078",
+                    "ACC0136",
+                    "ACC0042"
+                ],
+                "length": 5,
+                "total_amount": 117681.0
+            },
+            "timestamp": "2026-01-16T22:52:38.770084"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0186",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0186",
+                    "ACC0079",
+                    "ACC0155",
+                    "ACC0212",
+                    "ACC0109",
+                    "ACC0186"
+                ],
+                "length": 5,
+                "total_amount": 113022.0
+            },
+            "timestamp": "2026-01-16T22:52:38.771785"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0201",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0201",
+                    "ACC0150",
+                    "ACC0162",
+                    "ACC0120",
+                    "ACC0236",
+                    "ACC0201"
+                ],
+                "length": 5,
+                "total_amount": 100044.0
+            },
+            "timestamp": "2026-01-16T22:52:38.772586"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0201",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0201",
+                    "ACC0281",
+                    "ACC0058",
+                    "ACC0267",
+                    "ACC0236",
+                    "ACC0201"
+                ],
+                "length": 5,
+                "total_amount": 114324.0
+            },
+            "timestamp": "2026-01-16T22:52:38.773076"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0138",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0138",
+                    "ACC0087",
+                    "ACC0300",
+                    "ACC0205",
+                    "ACC0273",
+                    "ACC0138"
+                ],
+                "length": 5,
+                "total_amount": 114263.0
+            },
+            "timestamp": "2026-01-16T22:52:38.775199"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0248",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0248",
+                    "ACC0078",
+                    "ACC0136",
+                    "ACC0089",
+                    "ACC0023",
+                    "ACC0248"
+                ],
+                "length": 5,
+                "total_amount": 108955.0
+            },
+            "timestamp": "2026-01-16T22:52:38.776778"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0168",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0168",
+                    "ACC0280",
+                    "ACC0084",
+                    "ACC0077",
+                    "ACC0134",
+                    "ACC0168"
+                ],
+                "length": 5,
+                "total_amount": 100236.0
+            },
+            "timestamp": "2026-01-16T22:52:38.778171"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0168",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0168",
+                    "ACC0280",
+                    "ACC0022",
+                    "ACC0002",
+                    "ACC0282",
+                    "ACC0168"
+                ],
+                "length": 5,
+                "total_amount": 102847.0
+            },
+            "timestamp": "2026-01-16T22:52:38.778294"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0072",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0072",
+                    "ACC0203",
+                    "ACC0213",
+                    "ACC0143",
+                    "ACC0155",
+                    "ACC0072"
+                ],
+                "length": 5,
+                "total_amount": 105217.0
+            },
+            "timestamp": "2026-01-16T22:52:38.778771"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0197",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0197",
+                    "ACC0206",
+                    "ACC0068",
+                    "ACC0015",
+                    "ACC0065",
+                    "ACC0197"
+                ],
+                "length": 5,
+                "total_amount": 109600.0
+            },
+            "timestamp": "2026-01-16T22:52:38.781247"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0063",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0063",
+                    "ACC0018",
+                    "ACC0079",
+                    "ACC0155",
+                    "ACC0212",
+                    "ACC0063"
+                ],
+                "length": 5,
+                "total_amount": 115597.0
+            },
+            "timestamp": "2026-01-16T22:52:38.786670"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0063",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0063",
+                    "ACC0300",
+                    "ACC0024",
+                    "ACC0041",
+                    "ACC0212",
+                    "ACC0063"
+                ],
+                "length": 5,
+                "total_amount": 108851.0
+            },
+            "timestamp": "2026-01-16T22:52:38.786955"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0057",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0057",
+                    "ACC0274",
+                    "ACC0280",
+                    "ACC0037",
+                    "ACC0252",
+                    "ACC0057"
+                ],
+                "length": 5,
+                "total_amount": 110911.0
+            },
+            "timestamp": "2026-01-16T22:52:38.788183"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0057",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0057",
+                    "ACC0274",
+                    "ACC0108",
+                    "ACC0037",
+                    "ACC0252",
+                    "ACC0057"
+                ],
+                "length": 5,
+                "total_amount": 116356.0
+            },
+            "timestamp": "2026-01-16T22:52:38.788359"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0022",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0022",
+                    "ACC0002",
+                    "ACC0282",
+                    "ACC0168",
+                    "ACC0280",
+                    "ACC0022"
+                ],
+                "length": 5,
+                "total_amount": 102847.0
+            },
+            "timestamp": "2026-01-16T22:52:38.791283"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0022",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0022",
+                    "ACC0042",
+                    "ACC0029",
+                    "ACC0056",
+                    "ACC0280",
+                    "ACC0022"
+                ],
+                "length": 5,
+                "total_amount": 110851.0
+            },
+            "timestamp": "2026-01-16T22:52:38.791352"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0152",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0152",
+                    "ACC0199",
+                    "ACC0039",
+                    "ACC0050",
+                    "ACC0223",
+                    "ACC0152"
+                ],
+                "length": 5,
+                "total_amount": 115672.5
+            },
+            "timestamp": "2026-01-16T22:52:38.792029"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0113",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0113",
+                    "ACC0217",
+                    "ACC0021",
+                    "ACC0231",
+                    "ACC0298",
+                    "ACC0113"
+                ],
+                "length": 5,
+                "total_amount": 108329.0
+            },
+            "timestamp": "2026-01-16T22:52:38.792737"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0136",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0136",
+                    "ACC0089",
+                    "ACC0023",
+                    "ACC0248",
+                    "ACC0078",
+                    "ACC0136"
+                ],
+                "length": 5,
+                "total_amount": 108955.0
+            },
+            "timestamp": "2026-01-16T22:52:38.793176"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0236",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0236",
+                    "ACC0201",
+                    "ACC0150",
+                    "ACC0162",
+                    "ACC0120",
+                    "ACC0236"
+                ],
+                "length": 5,
+                "total_amount": 100044.0
+            },
+            "timestamp": "2026-01-16T22:52:38.793242"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0236",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0236",
+                    "ACC0201",
+                    "ACC0281",
+                    "ACC0058",
+                    "ACC0267",
+                    "ACC0236"
+                ],
+                "length": 5,
+                "total_amount": 114324.0
+            },
+            "timestamp": "2026-01-16T22:52:38.793404"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0087",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0087",
+                    "ACC0300",
+                    "ACC0205",
+                    "ACC0273",
+                    "ACC0138",
+                    "ACC0087"
+                ],
+                "length": 5,
+                "total_amount": 114263.0
+            },
+            "timestamp": "2026-01-16T22:52:38.797371"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0081",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0081",
+                    "ACC0230",
+                    "ACC0030",
+                    "ACC0064",
+                    "ACC0279",
+                    "ACC0081"
+                ],
+                "length": 5,
+                "total_amount": 107182.0
+            },
+            "timestamp": "2026-01-16T22:52:38.797524"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0169",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0169",
+                    "ACC0171",
+                    "ACC0214",
+                    "ACC0194",
+                    "ACC0216",
+                    "ACC0169"
+                ],
+                "length": 5,
+                "total_amount": 107718.0
+            },
+            "timestamp": "2026-01-16T22:52:38.799726"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0231",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0231",
+                    "ACC0298",
+                    "ACC0113",
+                    "ACC0217",
+                    "ACC0021",
+                    "ACC0231"
+                ],
+                "length": 5,
+                "total_amount": 108329.0
+            },
+            "timestamp": "2026-01-16T22:52:38.801428"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0252",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0252",
+                    "ACC0057",
+                    "ACC0274",
+                    "ACC0280",
+                    "ACC0037",
+                    "ACC0252"
+                ],
+                "length": 5,
+                "total_amount": 110911.0
+            },
+            "timestamp": "2026-01-16T22:52:38.803763"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0252",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0252",
+                    "ACC0057",
+                    "ACC0274",
+                    "ACC0108",
+                    "ACC0037",
+                    "ACC0252"
+                ],
+                "length": 5,
+                "total_amount": 116356.0
+            },
+            "timestamp": "2026-01-16T22:52:38.803820"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0077",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0077",
+                    "ACC0134",
+                    "ACC0168",
+                    "ACC0280",
+                    "ACC0084",
+                    "ACC0077"
+                ],
+                "length": 5,
+                "total_amount": 100236.0
+            },
+            "timestamp": "2026-01-16T22:52:38.804719"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0224",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0224",
+                    "ACC0288",
+                    "ACC0171",
+                    "ACC0196",
+                    "ACC0092",
+                    "ACC0224"
+                ],
+                "length": 5,
+                "total_amount": 110355.0
+            },
+            "timestamp": "2026-01-16T22:52:38.805602"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0158",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0158",
+                    "ACC0233",
+                    "ACC0100",
+                    "ACC0251",
+                    "ACC0034",
+                    "ACC0158"
+                ],
+                "length": 5,
+                "total_amount": 117689.0
+            },
+            "timestamp": "2026-01-16T22:52:38.806432"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0134",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0134",
+                    "ACC0168",
+                    "ACC0280",
+                    "ACC0084",
+                    "ACC0077",
+                    "ACC0134"
+                ],
+                "length": 5,
+                "total_amount": 100236.0
+            },
+            "timestamp": "2026-01-16T22:52:38.807268"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0109",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0109",
+                    "ACC0186",
+                    "ACC0079",
+                    "ACC0155",
+                    "ACC0212",
+                    "ACC0109"
+                ],
+                "length": 5,
+                "total_amount": 113022.0
+            },
+            "timestamp": "2026-01-16T22:52:38.808960"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0300",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0300",
+                    "ACC0015",
+                    "ACC0266",
+                    "ACC0150",
+                    "ACC0277",
+                    "ACC0300"
+                ],
+                "length": 5,
+                "total_amount": 112359.0
+            },
+            "timestamp": "2026-01-16T22:52:38.810647"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0300",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0300",
+                    "ACC0024",
+                    "ACC0041",
+                    "ACC0212",
+                    "ACC0063",
+                    "ACC0300"
+                ],
+                "length": 5,
+                "total_amount": 108851.0
+            },
+            "timestamp": "2026-01-16T22:52:38.810978"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0227",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0227",
+                    "ACC0061",
+                    "ACC0024",
+                    "ACC0214",
+                    "ACC0194",
+                    "ACC0227"
+                ],
+                "length": 5,
+                "total_amount": 113938.5
+            },
+            "timestamp": "2026-01-16T22:52:38.812038"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0227",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0227",
+                    "ACC0070",
+                    "ACC0229",
+                    "ACC0181",
+                    "ACC0194",
+                    "ACC0227"
+                ],
+                "length": 5,
+                "total_amount": 108130.0
+            },
+            "timestamp": "2026-01-16T22:52:38.812377"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0234",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0234",
+                    "ACC0263",
+                    "ACC0128",
+                    "ACC0266",
+                    "ACC0062",
+                    "ACC0234"
+                ],
+                "length": 5,
+                "total_amount": 101743.0
+            },
+            "timestamp": "2026-01-16T22:52:38.814369"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0035",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0035",
+                    "ACC0260",
+                    "ACC0023",
+                    "ACC0028",
+                    "ACC0263",
+                    "ACC0035"
+                ],
+                "length": 5,
+                "total_amount": 105600.0
+            },
+            "timestamp": "2026-01-16T22:52:38.818788"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0120",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0120",
+                    "ACC0236",
+                    "ACC0201",
+                    "ACC0150",
+                    "ACC0162",
+                    "ACC0120"
+                ],
+                "length": 5,
+                "total_amount": 100044.0
+            },
+            "timestamp": "2026-01-16T22:52:38.820726"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0034",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0034",
+                    "ACC0278",
+                    "ACC0180",
+                    "ACC0002",
+                    "ACC0248",
+                    "ACC0034"
+                ],
+                "length": 5,
+                "total_amount": 103199.0
+            },
+            "timestamp": "2026-01-16T22:52:38.824001"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0034",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0034",
+                    "ACC0158",
+                    "ACC0233",
+                    "ACC0100",
+                    "ACC0251",
+                    "ACC0034"
+                ],
+                "length": 5,
+                "total_amount": 117689.0
+            },
+            "timestamp": "2026-01-16T22:52:38.824481"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0229",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0229",
+                    "ACC0181",
+                    "ACC0194",
+                    "ACC0227",
+                    "ACC0070",
+                    "ACC0229"
+                ],
+                "length": 5,
+                "total_amount": 108130.0
+            },
+            "timestamp": "2026-01-16T22:52:38.825816"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0251",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0251",
+                    "ACC0034",
+                    "ACC0158",
+                    "ACC0233",
+                    "ACC0100",
+                    "ACC0251"
+                ],
+                "length": 5,
+                "total_amount": 117689.0
+            },
+            "timestamp": "2026-01-16T22:52:38.828186"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0092",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0092",
+                    "ACC0224",
+                    "ACC0288",
+                    "ACC0171",
+                    "ACC0196",
+                    "ACC0092"
+                ],
+                "length": 5,
+                "total_amount": 110355.0
+            },
+            "timestamp": "2026-01-16T22:52:38.829129"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0108",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0108",
+                    "ACC0037",
+                    "ACC0252",
+                    "ACC0057",
+                    "ACC0274",
+                    "ACC0108"
+                ],
+                "length": 5,
+                "total_amount": 116356.0
+            },
+            "timestamp": "2026-01-16T22:52:38.831088"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0274",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0274",
+                    "ACC0280",
+                    "ACC0037",
+                    "ACC0252",
+                    "ACC0057",
+                    "ACC0274"
+                ],
+                "length": 5,
+                "total_amount": 110911.0
+            },
+            "timestamp": "2026-01-16T22:52:38.833026"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0274",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0274",
+                    "ACC0108",
+                    "ACC0037",
+                    "ACC0252",
+                    "ACC0057",
+                    "ACC0274"
+                ],
+                "length": 5,
+                "total_amount": 116356.0
+            },
+            "timestamp": "2026-01-16T22:52:38.833553"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0283",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0283",
+                    "ACC0028",
+                    "ACC0264",
+                    "ACC0011",
+                    "ACC0269",
+                    "ACC0283"
+                ],
+                "length": 5,
+                "total_amount": 115245.0
+            },
+            "timestamp": "2026-01-16T22:52:38.835134"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0061",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0061",
+                    "ACC0024",
+                    "ACC0214",
+                    "ACC0194",
+                    "ACC0227",
+                    "ACC0061"
+                ],
+                "length": 5,
+                "total_amount": 113938.5
+            },
+            "timestamp": "2026-01-16T22:52:38.838225"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0064",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0064",
+                    "ACC0279",
+                    "ACC0081",
+                    "ACC0230",
+                    "ACC0030",
+                    "ACC0064"
+                ],
+                "length": 5,
+                "total_amount": 107182.0
+            },
+            "timestamp": "2026-01-16T22:52:38.839585"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0217",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0217",
+                    "ACC0021",
+                    "ACC0231",
+                    "ACC0298",
+                    "ACC0113",
+                    "ACC0217"
+                ],
+                "length": 5,
+                "total_amount": 108329.0
+            },
+            "timestamp": "2026-01-16T22:52:38.841593"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0039",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0039",
+                    "ACC0050",
+                    "ACC0223",
+                    "ACC0152",
+                    "ACC0199",
+                    "ACC0039"
+                ],
+                "length": 5,
+                "total_amount": 115672.5
+            },
+            "timestamp": "2026-01-16T22:52:38.843092"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0142",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0142",
+                    "ACC0171",
+                    "ACC0196",
+                    "ACC0165",
+                    "ACC0174",
+                    "ACC0142"
+                ],
+                "length": 5,
+                "total_amount": 102493.0
+            },
+            "timestamp": "2026-01-16T22:52:38.843853"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0219",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0219",
+                    "ACC0233",
+                    "ACC0161",
+                    "ACC0284",
+                    "ACC0264",
+                    "ACC0219"
+                ],
+                "length": 5,
+                "total_amount": 111722.0
+            },
+            "timestamp": "2026-01-16T22:52:38.845485"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0230",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0230",
+                    "ACC0030",
+                    "ACC0064",
+                    "ACC0279",
+                    "ACC0081",
+                    "ACC0230"
+                ],
+                "length": 5,
+                "total_amount": 107182.0
+            },
+            "timestamp": "2026-01-16T22:52:38.847683"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0213",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0213",
+                    "ACC0143",
+                    "ACC0155",
+                    "ACC0072",
+                    "ACC0203",
+                    "ACC0213"
+                ],
+                "length": 5,
+                "total_amount": 105217.0
+            },
+            "timestamp": "2026-01-16T22:52:38.848604"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0041",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0041",
+                    "ACC0212",
+                    "ACC0063",
+                    "ACC0300",
+                    "ACC0024",
+                    "ACC0041"
+                ],
+                "length": 5,
+                "total_amount": 108851.0
+            },
+            "timestamp": "2026-01-16T22:52:38.852708"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0044",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0044",
+                    "ACC0202",
+                    "ACC0272",
+                    "ACC0074",
+                    "ACC0292",
+                    "ACC0044"
+                ],
+                "length": 5,
+                "total_amount": 113869.0
+            },
+            "timestamp": "2026-01-16T22:52:38.855181"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0212",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0212",
+                    "ACC0109",
+                    "ACC0186",
+                    "ACC0079",
+                    "ACC0155",
+                    "ACC0212"
+                ],
+                "length": 5,
+                "total_amount": 113022.0
+            },
+            "timestamp": "2026-01-16T22:52:38.855746"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0203",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0203",
+                    "ACC0213",
+                    "ACC0143",
+                    "ACC0155",
+                    "ACC0072",
+                    "ACC0203"
+                ],
+                "length": 5,
+                "total_amount": 105217.0
+            },
+            "timestamp": "2026-01-16T22:52:38.857852"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0007",
+            "severity": 1.0,
+            "evidence": {
+                "cycle": [
+                    "ACC0007",
+                    "ACC0078",
+                    "ACC0136",
+                    "ACC0042",
+                    "ACC0240",
+                    "ACC0007"
+                ],
+                "length": 5,
+                "total_amount": 117681.0
+            },
+            "timestamp": "2026-01-16T22:52:38.859392"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0101",
+            "severity": 0.996,
+            "evidence": {
+                "cycle": [
+                    "ACC0101",
+                    "ACC0069",
+                    "ACC0283",
+                    "ACC0145",
+                    "ACC0129",
+                    "ACC0101"
+                ],
+                "length": 5,
+                "total_amount": 99103.0
+            },
+            "timestamp": "2026-01-16T22:52:38.675317"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0129",
+            "severity": 0.996,
+            "evidence": {
+                "cycle": [
+                    "ACC0129",
+                    "ACC0101",
+                    "ACC0069",
+                    "ACC0283",
+                    "ACC0145",
+                    "ACC0129"
+                ],
+                "length": 5,
+                "total_amount": 99103.0
+            },
+            "timestamp": "2026-01-16T22:52:38.719881"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0145",
+            "severity": 0.996,
+            "evidence": {
+                "cycle": [
+                    "ACC0145",
+                    "ACC0129",
+                    "ACC0101",
+                    "ACC0069",
+                    "ACC0283",
+                    "ACC0145"
+                ],
+                "length": 5,
+                "total_amount": 99103.0
+            },
+            "timestamp": "2026-01-16T22:52:38.748160"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0069",
+            "severity": 0.996,
+            "evidence": {
+                "cycle": [
+                    "ACC0069",
+                    "ACC0283",
+                    "ACC0145",
+                    "ACC0129",
+                    "ACC0101",
+                    "ACC0069"
+                ],
+                "length": 5,
+                "total_amount": 99103.0
+            },
+            "timestamp": "2026-01-16T22:52:38.783157"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0283",
+            "severity": 0.996,
+            "evidence": {
+                "cycle": [
+                    "ACC0283",
+                    "ACC0145",
+                    "ACC0129",
+                    "ACC0101",
+                    "ACC0069",
+                    "ACC0283"
+                ],
+                "length": 5,
+                "total_amount": 99103.0
+            },
+            "timestamp": "2026-01-16T22:52:38.834489"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0105",
+            "severity": 0.99,
+            "evidence": {
+                "cycle": [
+                    "ACC0105",
+                    "ACC0078",
+                    "ACC0033",
+                    "ACC0118",
+                    "ACC0238",
+                    "ACC0105"
+                ],
+                "length": 5,
+                "total_amount": 98062.0
+            },
+            "timestamp": "2026-01-16T22:52:38.652893"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0033",
+            "severity": 0.99,
+            "evidence": {
+                "cycle": [
+                    "ACC0033",
+                    "ACC0118",
+                    "ACC0238",
+                    "ACC0105",
+                    "ACC0078",
+                    "ACC0033"
+                ],
+                "length": 5,
+                "total_amount": 98062.0
+            },
+            "timestamp": "2026-01-16T22:52:38.697907"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0118",
+            "severity": 0.99,
+            "evidence": {
+                "cycle": [
+                    "ACC0118",
+                    "ACC0238",
+                    "ACC0105",
+                    "ACC0078",
+                    "ACC0033",
+                    "ACC0118"
+                ],
+                "length": 5,
+                "total_amount": 98062.0
+            },
+            "timestamp": "2026-01-16T22:52:38.712301"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0238",
+            "severity": 0.99,
+            "evidence": {
+                "cycle": [
+                    "ACC0238",
+                    "ACC0105",
+                    "ACC0078",
+                    "ACC0033",
+                    "ACC0118",
+                    "ACC0238"
+                ],
+                "length": 5,
+                "total_amount": 98062.0
+            },
+            "timestamp": "2026-01-16T22:52:38.759768"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0078",
+            "severity": 0.99,
+            "evidence": {
+                "cycle": [
+                    "ACC0078",
+                    "ACC0033",
+                    "ACC0118",
+                    "ACC0238",
+                    "ACC0105",
+                    "ACC0078"
+                ],
+                "length": 5,
+                "total_amount": 98062.0
+            },
+            "timestamp": "2026-01-16T22:52:38.819909"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0180",
+            "severity": 0.989,
+            "evidence": {
+                "cycle": [
+                    "ACC0180",
+                    "ACC0002",
+                    "ACC0248",
+                    "ACC0078",
+                    "ACC0278",
+                    "ACC0180"
+                ],
+                "length": 5,
+                "total_amount": 97761.0
+            },
+            "timestamp": "2026-01-16T22:52:38.713242"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0002",
+            "severity": 0.989,
+            "evidence": {
+                "cycle": [
+                    "ACC0002",
+                    "ACC0248",
+                    "ACC0078",
+                    "ACC0278",
+                    "ACC0180",
+                    "ACC0002"
+                ],
+                "length": 5,
+                "total_amount": 97761.0
+            },
+            "timestamp": "2026-01-16T22:52:38.723155"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0248",
+            "severity": 0.989,
+            "evidence": {
+                "cycle": [
+                    "ACC0248",
+                    "ACC0078",
+                    "ACC0278",
+                    "ACC0180",
+                    "ACC0002",
+                    "ACC0248"
+                ],
+                "length": 5,
+                "total_amount": 97761.0
+            },
+            "timestamp": "2026-01-16T22:52:38.776600"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0278",
+            "severity": 0.989,
+            "evidence": {
+                "cycle": [
+                    "ACC0278",
+                    "ACC0180",
+                    "ACC0002",
+                    "ACC0248",
+                    "ACC0078",
+                    "ACC0278"
+                ],
+                "length": 5,
+                "total_amount": 97761.0
+            },
+            "timestamp": "2026-01-16T22:52:38.788081"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0078",
+            "severity": 0.989,
+            "evidence": {
+                "cycle": [
+                    "ACC0078",
+                    "ACC0278",
+                    "ACC0180",
+                    "ACC0002",
+                    "ACC0248",
+                    "ACC0078"
+                ],
+                "length": 5,
+                "total_amount": 97761.0
+            },
+            "timestamp": "2026-01-16T22:52:38.819673"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0247",
+            "severity": 0.98,
+            "evidence": {
+                "cycle": [
+                    "ACC0247",
+                    "ACC0137",
+                    "ACC0194",
+                    "ACC0216",
+                    "ACC0195",
+                    "ACC0247"
+                ],
+                "length": 5,
+                "total_amount": 96092.0
+            },
+            "timestamp": "2026-01-16T22:52:38.651803"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0194",
+            "severity": 0.98,
+            "evidence": {
+                "cycle": [
+                    "ACC0194",
+                    "ACC0216",
+                    "ACC0195",
+                    "ACC0247",
+                    "ACC0137",
+                    "ACC0194"
+                ],
+                "length": 5,
+                "total_amount": 96092.0
+            },
+            "timestamp": "2026-01-16T22:52:38.753130"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0137",
+            "severity": 0.98,
+            "evidence": {
+                "cycle": [
+                    "ACC0137",
+                    "ACC0194",
+                    "ACC0216",
+                    "ACC0195",
+                    "ACC0247",
+                    "ACC0137"
+                ],
+                "length": 5,
+                "total_amount": 96092.0
+            },
+            "timestamp": "2026-01-16T22:52:38.765394"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0195",
+            "severity": 0.98,
+            "evidence": {
+                "cycle": [
+                    "ACC0195",
+                    "ACC0247",
+                    "ACC0137",
+                    "ACC0194",
+                    "ACC0216",
+                    "ACC0195"
+                ],
+                "length": 5,
+                "total_amount": 96092.0
+            },
+            "timestamp": "2026-01-16T22:52:38.809296"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0199",
+            "severity": 0.889,
+            "evidence": {
+                "cycle": [
+                    "ACC0199",
+                    "ACC0243",
+                    "ACC0099",
+                    "ACC0152",
+                    "ACC0199"
+                ],
+                "length": 4,
+                "total_amount": 97810.0
+            },
+            "timestamp": "2026-01-16T22:52:38.648156"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0243",
+            "severity": 0.889,
+            "evidence": {
+                "cycle": [
+                    "ACC0243",
+                    "ACC0099",
+                    "ACC0152",
+                    "ACC0199",
+                    "ACC0243"
+                ],
+                "length": 4,
+                "total_amount": 97810.0
+            },
+            "timestamp": "2026-01-16T22:52:38.738814"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0099",
+            "severity": 0.889,
+            "evidence": {
+                "cycle": [
+                    "ACC0099",
+                    "ACC0152",
+                    "ACC0199",
+                    "ACC0243",
+                    "ACC0099"
+                ],
+                "length": 4,
+                "total_amount": 97810.0
+            },
+            "timestamp": "2026-01-16T22:52:38.741126"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0152",
+            "severity": 0.889,
+            "evidence": {
+                "cycle": [
+                    "ACC0152",
+                    "ACC0199",
+                    "ACC0243",
+                    "ACC0099",
+                    "ACC0152"
+                ],
+                "length": 4,
+                "total_amount": 97810.0
+            },
+            "timestamp": "2026-01-16T22:52:38.791960"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0137",
+            "severity": 0.885,
+            "evidence": {
+                "cycle": [
+                    "ACC0137",
+                    "ACC0034",
+                    "ACC0158",
+                    "ACC0012",
+                    "ACC0137"
+                ],
+                "length": 4,
+                "total_amount": 97061.0
+            },
+            "timestamp": "2026-01-16T22:52:38.765823"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0012",
+            "severity": 0.885,
+            "evidence": {
+                "cycle": [
+                    "ACC0012",
+                    "ACC0137",
+                    "ACC0034",
+                    "ACC0158",
+                    "ACC0012"
+                ],
+                "length": 4,
+                "total_amount": 97061.0
+            },
+            "timestamp": "2026-01-16T22:52:38.774648"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0158",
+            "severity": 0.885,
+            "evidence": {
+                "cycle": [
+                    "ACC0158",
+                    "ACC0012",
+                    "ACC0137",
+                    "ACC0034",
+                    "ACC0158"
+                ],
+                "length": 4,
+                "total_amount": 97061.0
+            },
+            "timestamp": "2026-01-16T22:52:38.807054"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0025",
+            "severity": 0.876,
+            "evidence": {
+                "cycle": [
+                    "ACC0025",
+                    "ACC0092",
+                    "ACC0211",
+                    "ACC0215",
+                    "ACC0025"
+                ],
+                "length": 4,
+                "total_amount": 95209.0
+            },
+            "timestamp": "2026-01-16T22:52:38.719486"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0215",
+            "severity": 0.876,
+            "evidence": {
+                "cycle": [
+                    "ACC0215",
+                    "ACC0025",
+                    "ACC0092",
+                    "ACC0211",
+                    "ACC0215"
+                ],
+                "length": 4,
+                "total_amount": 95209.0
+            },
+            "timestamp": "2026-01-16T22:52:38.743247"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0092",
+            "severity": 0.876,
+            "evidence": {
+                "cycle": [
+                    "ACC0092",
+                    "ACC0211",
+                    "ACC0215",
+                    "ACC0025",
+                    "ACC0092"
+                ],
+                "length": 4,
+                "total_amount": 95209.0
+            },
+            "timestamp": "2026-01-16T22:52:38.829584"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0211",
+            "severity": 0.876,
+            "evidence": {
+                "cycle": [
+                    "ACC0211",
+                    "ACC0215",
+                    "ACC0025",
+                    "ACC0092",
+                    "ACC0211"
+                ],
+                "length": 4,
+                "total_amount": 95209.0
+            },
+            "timestamp": "2026-01-16T22:52:38.834331"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0049",
+            "severity": 0.867,
+            "evidence": {
+                "cycle": [
+                    "ACC0049",
+                    "ACC0230",
+                    "ACC0030",
+                    "ACC0271",
+                    "ACC0049"
+                ],
+                "length": 4,
+                "total_amount": 93418.0
+            },
+            "timestamp": "2026-01-16T22:52:38.649847"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0271",
+            "severity": 0.867,
+            "evidence": {
+                "cycle": [
+                    "ACC0271",
+                    "ACC0049",
+                    "ACC0230",
+                    "ACC0030",
+                    "ACC0271"
+                ],
+                "length": 4,
+                "total_amount": 93418.0
+            },
+            "timestamp": "2026-01-16T22:52:38.672182"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0230",
+            "severity": 0.867,
+            "evidence": {
+                "cycle": [
+                    "ACC0230",
+                    "ACC0030",
+                    "ACC0271",
+                    "ACC0049",
+                    "ACC0230"
+                ],
+                "length": 4,
+                "total_amount": 93418.0
+            },
+            "timestamp": "2026-01-16T22:52:38.847795"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0153",
+            "severity": 0.857,
+            "evidence": {
+                "cycle": [
+                    "ACC0153",
+                    "ACC0265",
+                    "ACC0176",
+                    "ACC0154",
+                    "ACC0153"
+                ],
+                "length": 4,
+                "total_amount": 91315.0
+            },
+            "timestamp": "2026-01-16T22:52:38.659349"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0223",
+            "severity": 0.857,
+            "evidence": {
+                "cycle": [
+                    "ACC0223",
+                    "ACC0141",
+                    "ACC0132",
+                    "ACC0130",
+                    "ACC0223"
+                ],
+                "length": 4,
+                "total_amount": 91305.0
+            },
+            "timestamp": "2026-01-16T22:52:38.669634"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0289",
+            "severity": 0.857,
+            "evidence": {
+                "cycle": [
+                    "ACC0289",
+                    "ACC0114",
+                    "ACC0122",
+                    "ACC0296",
+                    "ACC0289"
+                ],
+                "length": 4,
+                "total_amount": 91340.0
+            },
+            "timestamp": "2026-01-16T22:52:38.671618"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0154",
+            "severity": 0.857,
+            "evidence": {
+                "cycle": [
+                    "ACC0154",
+                    "ACC0153",
+                    "ACC0265",
+                    "ACC0176",
+                    "ACC0154"
+                ],
+                "length": 4,
+                "total_amount": 91315.0
+            },
+            "timestamp": "2026-01-16T22:52:38.679007"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0132",
+            "severity": 0.857,
+            "evidence": {
+                "cycle": [
+                    "ACC0132",
+                    "ACC0130",
+                    "ACC0223",
+                    "ACC0141",
+                    "ACC0132"
+                ],
+                "length": 4,
+                "total_amount": 91305.0
+            },
+            "timestamp": "2026-01-16T22:52:38.696225"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0176",
+            "severity": 0.857,
+            "evidence": {
+                "cycle": [
+                    "ACC0176",
+                    "ACC0154",
+                    "ACC0153",
+                    "ACC0265",
+                    "ACC0176"
+                ],
+                "length": 4,
+                "total_amount": 91315.0
+            },
+            "timestamp": "2026-01-16T22:52:38.705804"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0296",
+            "severity": 0.857,
+            "evidence": {
+                "cycle": [
+                    "ACC0296",
+                    "ACC0289",
+                    "ACC0114",
+                    "ACC0122",
+                    "ACC0296"
+                ],
+                "length": 4,
+                "total_amount": 91340.0
+            },
+            "timestamp": "2026-01-16T22:52:38.714786"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0114",
+            "severity": 0.857,
+            "evidence": {
+                "cycle": [
+                    "ACC0114",
+                    "ACC0122",
+                    "ACC0296",
+                    "ACC0289",
+                    "ACC0114"
+                ],
+                "length": 4,
+                "total_amount": 91340.0
+            },
+            "timestamp": "2026-01-16T22:52:38.746479"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0265",
+            "severity": 0.857,
+            "evidence": {
+                "cycle": [
+                    "ACC0265",
+                    "ACC0176",
+                    "ACC0154",
+                    "ACC0153",
+                    "ACC0265"
+                ],
+                "length": 4,
+                "total_amount": 91315.0
+            },
+            "timestamp": "2026-01-16T22:52:38.747404"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0122",
+            "severity": 0.857,
+            "evidence": {
+                "cycle": [
+                    "ACC0122",
+                    "ACC0296",
+                    "ACC0289",
+                    "ACC0114",
+                    "ACC0122"
+                ],
+                "length": 4,
+                "total_amount": 91340.0
+            },
+            "timestamp": "2026-01-16T22:52:38.783080"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0130",
+            "severity": 0.857,
+            "evidence": {
+                "cycle": [
+                    "ACC0130",
+                    "ACC0223",
+                    "ACC0141",
+                    "ACC0132",
+                    "ACC0130"
+                ],
+                "length": 4,
+                "total_amount": 91305.0
+            },
+            "timestamp": "2026-01-16T22:52:38.784056"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0141",
+            "severity": 0.857,
+            "evidence": {
+                "cycle": [
+                    "ACC0141",
+                    "ACC0132",
+                    "ACC0130",
+                    "ACC0223",
+                    "ACC0141"
+                ],
+                "length": 4,
+                "total_amount": 91305.0
+            },
+            "timestamp": "2026-01-16T22:52:38.853841"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0014",
+            "severity": 0.854,
+            "evidence": {
+                "cycle": [
+                    "ACC0014",
+                    "ACC0089",
+                    "ACC0172",
+                    "ACC0109",
+                    "ACC0014"
+                ],
+                "length": 4,
+                "total_amount": 90890.0
+            },
+            "timestamp": "2026-01-16T22:52:38.762409"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0172",
+            "severity": 0.854,
+            "evidence": {
+                "cycle": [
+                    "ACC0172",
+                    "ACC0109",
+                    "ACC0014",
+                    "ACC0089",
+                    "ACC0172"
+                ],
+                "length": 4,
+                "total_amount": 90890.0
+            },
+            "timestamp": "2026-01-16T22:52:38.818165"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0024",
+            "severity": 0.846,
+            "evidence": {
+                "cycle": [
+                    "ACC0024",
+                    "ACC0037",
+                    "ACC0252",
+                    "ACC0061",
+                    "ACC0024"
+                ],
+                "length": 4,
+                "total_amount": 89231.0
+            },
+            "timestamp": "2026-01-16T22:52:38.699285"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0061",
+            "severity": 0.846,
+            "evidence": {
+                "cycle": [
+                    "ACC0061",
+                    "ACC0024",
+                    "ACC0037",
+                    "ACC0252",
+                    "ACC0061"
+                ],
+                "length": 4,
+                "total_amount": 89231.0
+            },
+            "timestamp": "2026-01-16T22:52:38.838059"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0089",
+            "severity": 0.841,
+            "evidence": {
+                "cycle": [
+                    "ACC0089",
+                    "ACC0023",
+                    "ACC0078",
+                    "ACC0136",
+                    "ACC0089"
+                ],
+                "length": 4,
+                "total_amount": 88165.0
+            },
+            "timestamp": "2026-01-16T22:52:38.657861"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0136",
+            "severity": 0.841,
+            "evidence": {
+                "cycle": [
+                    "ACC0136",
+                    "ACC0089",
+                    "ACC0023",
+                    "ACC0078",
+                    "ACC0136"
+                ],
+                "length": 4,
+                "total_amount": 88165.0
+            },
+            "timestamp": "2026-01-16T22:52:38.793191"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0270",
+            "severity": 0.839,
+            "evidence": {
+                "cycle": [
+                    "ACC0270",
+                    "ACC0189",
+                    "ACC0183",
+                    "ACC0180",
+                    "ACC0270"
+                ],
+                "length": 4,
+                "total_amount": 87852.0
+            },
+            "timestamp": "2026-01-16T22:52:38.656009"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0183",
+            "severity": 0.839,
+            "evidence": {
+                "cycle": [
+                    "ACC0183",
+                    "ACC0180",
+                    "ACC0270",
+                    "ACC0189",
+                    "ACC0183"
+                ],
+                "length": 4,
+                "total_amount": 87852.0
+            },
+            "timestamp": "2026-01-16T22:52:38.769523"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0189",
+            "severity": 0.839,
+            "evidence": {
+                "cycle": [
+                    "ACC0189",
+                    "ACC0183",
+                    "ACC0180",
+                    "ACC0270",
+                    "ACC0189"
+                ],
+                "length": 4,
+                "total_amount": 87852.0
+            },
+            "timestamp": "2026-01-16T22:52:38.825152"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0119",
+            "severity": 0.838,
+            "evidence": {
+                "cycle": [
+                    "ACC0119",
+                    "ACC0121",
+                    "ACC0208",
+                    "ACC0156",
+                    "ACC0119"
+                ],
+                "length": 4,
+                "total_amount": 87510.0
+            },
+            "timestamp": "2026-01-16T22:52:38.684650"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0156",
+            "severity": 0.838,
+            "evidence": {
+                "cycle": [
+                    "ACC0156",
+                    "ACC0119",
+                    "ACC0121",
+                    "ACC0208",
+                    "ACC0156"
+                ],
+                "length": 4,
+                "total_amount": 87510.0
+            },
+            "timestamp": "2026-01-16T22:52:38.854585"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0005",
+            "severity": 0.835,
+            "evidence": {
+                "cycle": [
+                    "ACC0005",
+                    "ACC0067",
+                    "ACC0216",
+                    "ACC0169",
+                    "ACC0005"
+                ],
+                "length": 4,
+                "total_amount": 86926.0
+            },
+            "timestamp": "2026-01-16T22:52:38.666209"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0067",
+            "severity": 0.835,
+            "evidence": {
+                "cycle": [
+                    "ACC0067",
+                    "ACC0216",
+                    "ACC0169",
+                    "ACC0005",
+                    "ACC0067"
+                ],
+                "length": 4,
+                "total_amount": 86926.0
+            },
+            "timestamp": "2026-01-16T22:52:38.722546"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0216",
+            "severity": 0.835,
+            "evidence": {
+                "cycle": [
+                    "ACC0216",
+                    "ACC0169",
+                    "ACC0005",
+                    "ACC0067",
+                    "ACC0216"
+                ],
+                "length": 4,
+                "total_amount": 86926.0
+            },
+            "timestamp": "2026-01-16T22:52:38.754078"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0169",
+            "severity": 0.835,
+            "evidence": {
+                "cycle": [
+                    "ACC0169",
+                    "ACC0005",
+                    "ACC0067",
+                    "ACC0216",
+                    "ACC0169"
+                ],
+                "length": 4,
+                "total_amount": 86926.0
+            },
+            "timestamp": "2026-01-16T22:52:38.799484"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0249",
+            "severity": 0.813,
+            "evidence": {
+                "cycle": [
+                    "ACC0249",
+                    "ACC0208",
+                    "ACC0156",
+                    "ACC0001",
+                    "ACC0249"
+                ],
+                "length": 4,
+                "total_amount": 82621.0
+            },
+            "timestamp": "2026-01-16T22:52:38.663146"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0001",
+            "severity": 0.813,
+            "evidence": {
+                "cycle": [
+                    "ACC0001",
+                    "ACC0249",
+                    "ACC0208",
+                    "ACC0156",
+                    "ACC0001"
+                ],
+                "length": 4,
+                "total_amount": 82621.0
+            },
+            "timestamp": "2026-01-16T22:52:38.689131"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0208",
+            "severity": 0.813,
+            "evidence": {
+                "cycle": [
+                    "ACC0208",
+                    "ACC0156",
+                    "ACC0001",
+                    "ACC0249",
+                    "ACC0208"
+                ],
+                "length": 4,
+                "total_amount": 82621.0
+            },
+            "timestamp": "2026-01-16T22:52:38.827438"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0156",
+            "severity": 0.813,
+            "evidence": {
+                "cycle": [
+                    "ACC0156",
+                    "ACC0001",
+                    "ACC0249",
+                    "ACC0208",
+                    "ACC0156"
+                ],
+                "length": 4,
+                "total_amount": 82621.0
+            },
+            "timestamp": "2026-01-16T22:52:38.853985"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0121",
+            "severity": 0.783,
+            "evidence": {
+                "cycle": [
+                    "ACC0121",
+                    "ACC0240",
+                    "ACC0278",
+                    "ACC0292",
+                    "ACC0121"
+                ],
+                "length": 4,
+                "total_amount": 76522.0
+            },
+            "timestamp": "2026-01-16T22:52:38.695112"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0240",
+            "severity": 0.783,
+            "evidence": {
+                "cycle": [
+                    "ACC0240",
+                    "ACC0278",
+                    "ACC0292",
+                    "ACC0121",
+                    "ACC0240"
+                ],
+                "length": 4,
+                "total_amount": 76522.0
+            },
+            "timestamp": "2026-01-16T22:52:38.728099"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0292",
+            "severity": 0.783,
+            "evidence": {
+                "cycle": [
+                    "ACC0292",
+                    "ACC0121",
+                    "ACC0240",
+                    "ACC0278",
+                    "ACC0292"
+                ],
+                "length": 4,
+                "total_amount": 76522.0
+            },
+            "timestamp": "2026-01-16T22:52:38.728329"
+        },
+        {
+            "pattern_type": "cycle",
+            "account_id": "ACC0278",
+            "severity": 0.783,
+            "evidence": {
+                "cycle": [
+                    "ACC0278",
+                    "ACC0292",
+                    "ACC0121",
+                    "ACC0240",
+                    "ACC0278"
+                ],
+                "length": 4,
+                "total_amount": 76522.0
+            },
+            "timestamp": "2026-01-16T22:52:38.787772"
+        },
+        {
+            "pattern_type": "hub",
+            "account_id": "ACC0108",
+            "severity": 0.758,
+            "evidence": {
+                "in_degree": 27,
+                "out_degree": 19,
+                "total_degree": 46,
+                "total_received": 310997.0,
+                "total_sent": 284418.0,
+                "total_flow": 595415.0
+            },
+            "timestamp": "2026-01-16T22:52:38.864666"
+        },
+        {
+            "pattern_type": "hub",
+            "account_id": "ACC0216",
+            "severity": 0.755,
+            "evidence": {
+                "in_degree": 22,
+                "out_degree": 26,
+                "total_degree": 48,
+                "total_received": 281108.0,
+                "total_sent": 268430.0,
+                "total_flow": 549538.0
+            },
+            "timestamp": "2026-01-16T22:52:38.863495"
+        },
+        {
+            "pattern_type": "hub",
+            "account_id": "ACC0096",
+            "severity": 0.75,
+            "evidence": {
+                "in_degree": 20,
+                "out_degree": 24,
+                "total_degree": 44,
+                "total_received": 250797.0,
+                "total_sent": 368832.5,
+                "total_flow": 619629.5
+            },
+            "timestamp": "2026-01-16T22:52:38.863065"
+        },
+        {
+            "pattern_type": "hub",
+            "account_id": "ACC0116",
+            "severity": 0.734,
+            "evidence": {
+                "in_degree": 20,
+                "out_degree": 23,
+                "total_degree": 43,
+                "total_received": 287847.0,
+                "total_sent": 319701.0,
+                "total_flow": 607548.0
+            },
+            "timestamp": "2026-01-16T22:52:38.862111"
+        },
+        {
+            "pattern_type": "hub",
+            "account_id": "ACC0034",
+            "severity": 0.732,
+            "evidence": {
+                "in_degree": 27,
+                "out_degree": 17,
+                "total_degree": 44,
+                "total_received": 380388.0,
+                "total_sent": 203869.0,
+                "total_flow": 584257.0
+            },
+            "timestamp": "2026-01-16T22:52:38.864566"
+        },
+        {
+            "pattern_type": "hub",
+            "account_id": "ACC0090",
+            "severity": 0.721,
+            "evidence": {
+                "in_degree": 13,
+                "out_degree": 29,
+                "total_degree": 42,
+                "total_received": 193108.0,
+                "total_sent": 408364.0,
+                "total_flow": 601472.0
+            },
+            "timestamp": "2026-01-16T22:52:38.863409"
+        },
+        {
+            "pattern_type": "hub",
+            "account_id": "ACC0179",
+            "severity": 0.72,
+            "evidence": {
+                "in_degree": 28,
+                "out_degree": 17,
+                "total_degree": 45,
+                "total_received": 354702.0,
+                "total_sent": 186042.0,
+                "total_flow": 540744.0
+            },
+            "timestamp": "2026-01-16T22:52:38.863548"
+        },
+        {
+            "pattern_type": "hub",
+            "account_id": "ACC0092",
+            "severity": 0.715,
+            "evidence": {
+                "in_degree": 19,
+                "out_degree": 22,
+                "total_degree": 41,
+                "total_received": 299703.5,
+                "total_sent": 310036.5,
+                "total_flow": 609740.0
+            },
+            "timestamp": "2026-01-16T22:52:38.864643"
+        },
+        {
+            "pattern_type": "hub",
+            "account_id": "ACC0155",
+            "severity": 0.71,
+            "evidence": {
+                "in_degree": 22,
+                "out_degree": 20,
+                "total_degree": 42,
+                "total_received": 273247.0,
+                "total_sent": 306567.0,
+                "total_flow": 579814.0
+            },
+            "timestamp": "2026-01-16T22:52:38.863300"
+        },
+        {
+            "pattern_type": "hub",
+            "account_id": "ACC0150",
+            "severity": 0.709,
+            "evidence": {
+                "in_degree": 28,
+                "out_degree": 17,
+                "total_degree": 45,
+                "total_received": 322105.0,
+                "total_sent": 196274.0,
+                "total_flow": 518379.0
+            },
+            "timestamp": "2026-01-16T22:52:38.862357"
+        },
+        {
+            "pattern_type": "hub",
+            "account_id": "ACC0171",
+            "severity": 0.709,
+            "evidence": {
+                "in_degree": 19,
+                "out_degree": 23,
+                "total_degree": 42,
+                "total_received": 263188.0,
+                "total_sent": 314398.0,
+                "total_flow": 577586.0
+            },
+            "timestamp": "2026-01-16T22:52:38.862508"
+        },
+        {
+            "pattern_type": "hub",
+            "account_id": "ACC0049",
+            "severity": 0.702,
+            "evidence": {
+                "in_degree": 21,
+                "out_degree": 22,
+                "total_degree": 43,
+                "total_received": 307962.0,
+                "total_sent": 235583.0,
+                "total_flow": 543545.0
+            },
+            "timestamp": "2026-01-16T22:52:38.861743"
+        }
+    ]
+}

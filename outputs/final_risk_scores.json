@@ -1,0 +1,3302 @@
+[
+  {
+    "account_id": "ACC0065",
+    "risk_score": 58.69,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.638,
+      "pattern": 0.429,
+      "correlation": 0.334,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0216",
+    "risk_score": 56.27,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.536,
+      "pattern": 0.423,
+      "correlation": 0.375,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0074",
+    "risk_score": 55.84,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.557,
+      "pattern": 0.423,
+      "correlation": 0.322,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0107",
+    "risk_score": 55.73,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.621,
+      "pattern": 0.416,
+      "correlation": 0.231,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0117",
+    "risk_score": 55.52,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.54,
+      "pattern": 0.414,
+      "correlation": 0.345,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0098",
+    "risk_score": 55.38,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.536,
+      "pattern": 0.416,
+      "correlation": 0.341,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0077",
+    "risk_score": 55.2,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.571,
+      "pattern": 0.419,
+      "correlation": 0.275,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0009",
+    "risk_score": 55.13,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.608,
+      "pattern": 0.415,
+      "correlation": 0.222,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0291",
+    "risk_score": 55.09,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.553,
+      "pattern": 0.412,
+      "correlation": 0.307,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0004",
+    "risk_score": 54.96,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.562,
+      "pattern": 0.412,
+      "correlation": 0.287,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0136",
+    "risk_score": 54.78,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.55,
+      "pattern": 0.428,
+      "correlation": 0.272,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0206",
+    "risk_score": 54.67,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.543,
+      "pattern": 0.418,
+      "correlation": 0.292,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0034",
+    "risk_score": 54.36,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.476,
+      "pattern": 0.428,
+      "correlation": 0.362,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0012",
+    "risk_score": 54.36,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.547,
+      "pattern": 0.419,
+      "correlation": 0.269,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0196",
+    "risk_score": 54.34,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.528,
+      "pattern": 0.422,
+      "correlation": 0.292,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0226",
+    "risk_score": 54.01,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.497,
+      "pattern": 0.416,
+      "correlation": 0.331,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0018",
+    "risk_score": 53.99,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.492,
+      "pattern": 0.421,
+      "correlation": 0.33,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0103",
+    "risk_score": 53.93,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.552,
+      "pattern": 0.413,
+      "correlation": 0.249,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0108",
+    "risk_score": 53.92,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.451,
+      "pattern": 0.425,
+      "correlation": 0.382,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0155",
+    "risk_score": 53.89,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.461,
+      "pattern": 0.428,
+      "correlation": 0.361,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0090",
+    "risk_score": 53.87,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.468,
+      "pattern": 0.417,
+      "correlation": 0.366,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0271",
+    "risk_score": 53.84,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.472,
+      "pattern": 0.42,
+      "correlation": 0.354,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0049",
+    "risk_score": 53.52,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.47,
+      "pattern": 0.418,
+      "correlation": 0.344,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0262",
+    "risk_score": 53.48,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.544,
+      "pattern": 0.414,
+      "correlation": 0.237,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0128",
+    "risk_score": 53.27,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.484,
+      "pattern": 0.419,
+      "correlation": 0.309,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0179",
+    "risk_score": 53.22,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.459,
+      "pattern": 0.415,
+      "correlation": 0.35,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0092",
+    "risk_score": 53.15,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.43,
+      "pattern": 0.425,
+      "correlation": 0.375,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0028",
+    "risk_score": 53.15,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.471,
+      "pattern": 0.43,
+      "correlation": 0.306,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0184",
+    "risk_score": 53.02,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.484,
+      "pattern": 0.418,
+      "correlation": 0.298,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0299",
+    "risk_score": 52.75,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.47,
+      "pattern": 0.417,
+      "correlation": 0.307,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0116",
+    "risk_score": 52.72,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.414,
+      "pattern": 0.424,
+      "correlation": 0.379,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0042",
+    "risk_score": 52.67,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.447,
+      "pattern": 0.428,
+      "correlation": 0.321,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0150",
+    "risk_score": 52.65,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.433,
+      "pattern": 0.426,
+      "correlation": 0.344,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0011",
+    "risk_score": 52.6,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.447,
+      "pattern": 0.419,
+      "correlation": 0.331,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0099",
+    "risk_score": 52.52,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.441,
+      "pattern": 0.421,
+      "correlation": 0.333,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0096",
+    "risk_score": 52.5,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.4,
+      "pattern": 0.422,
+      "correlation": 0.392,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0145",
+    "risk_score": 52.32,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.441,
+      "pattern": 0.419,
+      "correlation": 0.326,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0197",
+    "risk_score": 52.25,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.438,
+      "pattern": 0.421,
+      "correlation": 0.324,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0236",
+    "risk_score": 52.21,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.467,
+      "pattern": 0.426,
+      "correlation": 0.271,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0171",
+    "risk_score": 52.08,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.399,
+      "pattern": 0.425,
+      "correlation": 0.368,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0173",
+    "risk_score": 51.63,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.491,
+      "pattern": 0.42,
+      "correlation": 0.215,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0232",
+    "risk_score": 51.51,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.426,
+      "pattern": 0.427,
+      "correlation": 0.296,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0062",
+    "risk_score": 51.34,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.523,
+      "pattern": 0.423,
+      "correlation": 0.148,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0290",
+    "risk_score": 51.26,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.443,
+      "pattern": 0.413,
+      "correlation": 0.279,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0130",
+    "risk_score": 51.25,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.403,
+      "pattern": 0.42,
+      "correlation": 0.328,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0277",
+    "risk_score": 51.24,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.447,
+      "pattern": 0.427,
+      "correlation": 0.251,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0033",
+    "risk_score": 51.19,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.406,
+      "pattern": 0.421,
+      "correlation": 0.319,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0270",
+    "risk_score": 51.08,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.441,
+      "pattern": 0.423,
+      "correlation": 0.258,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0047",
+    "risk_score": 50.99,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.387,
+      "pattern": 0.418,
+      "correlation": 0.342,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0067",
+    "risk_score": 50.89,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.411,
+      "pattern": 0.42,
+      "correlation": 0.298,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0006",
+    "risk_score": 50.73,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.424,
+      "pattern": 0.415,
+      "correlation": 0.278,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0132",
+    "risk_score": 50.71,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.396,
+      "pattern": 0.423,
+      "correlation": 0.307,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0100",
+    "risk_score": 50.6,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.39,
+      "pattern": 0.422,
+      "correlation": 0.312,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0156",
+    "risk_score": 50.56,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.368,
+      "pattern": 0.422,
+      "correlation": 0.343,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0165",
+    "risk_score": 50.55,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.4,
+      "pattern": 0.413,
+      "correlation": 0.308,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0029",
+    "risk_score": 50.55,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.402,
+      "pattern": 0.421,
+      "correlation": 0.293,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0133",
+    "risk_score": 50.51,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.466,
+      "pattern": 0.415,
+      "correlation": 0.204,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0300",
+    "risk_score": 50.38,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.377,
+      "pattern": 0.427,
+      "correlation": 0.313,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0134",
+    "risk_score": 50.37,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.451,
+      "pattern": 0.416,
+      "correlation": 0.218,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0146",
+    "risk_score": 50.35,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.434,
+      "pattern": 0.417,
+      "correlation": 0.241,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0141",
+    "risk_score": 50.24,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.452,
+      "pattern": 0.418,
+      "correlation": 0.207,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0244",
+    "risk_score": 50.15,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.361,
+      "pattern": 0.424,
+      "correlation": 0.33,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0154",
+    "risk_score": 50.14,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.433,
+      "pattern": 0.419,
+      "correlation": 0.229,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0086",
+    "risk_score": 50.08,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.449,
+      "pattern": 0.413,
+      "correlation": 0.211,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0126",
+    "risk_score": 50.08,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.365,
+      "pattern": 0.423,
+      "correlation": 0.322,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0198",
+    "risk_score": 50.04,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.421,
+      "pattern": 0.419,
+      "correlation": 0.242,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0124",
+    "risk_score": 50.0,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.426,
+      "pattern": 0.414,
+      "correlation": 0.24,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0176",
+    "risk_score": 49.87,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.354,
+      "pattern": 0.423,
+      "correlation": 0.328,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0066",
+    "risk_score": 49.81,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.402,
+      "pattern": 0.413,
+      "correlation": 0.268,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0016",
+    "risk_score": 49.79,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.404,
+      "pattern": 0.415,
+      "correlation": 0.261,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0243",
+    "risk_score": 49.67,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.392,
+      "pattern": 0.419,
+      "correlation": 0.267,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0276",
+    "risk_score": 49.66,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.364,
+      "pattern": 0.416,
+      "correlation": 0.313,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0148",
+    "risk_score": 49.59,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.435,
+      "pattern": 0.414,
+      "correlation": 0.206,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0255",
+    "risk_score": 49.58,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.449,
+      "pattern": 0.413,
+      "correlation": 0.186,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0112",
+    "risk_score": 49.46,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.361,
+      "pattern": 0.415,
+      "correlation": 0.309,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0023",
+    "risk_score": 49.42,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.341,
+      "pattern": 0.427,
+      "correlation": 0.319,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0058",
+    "risk_score": 49.31,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.389,
+      "pattern": 0.426,
+      "correlation": 0.243,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0180",
+    "risk_score": 49.3,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.337,
+      "pattern": 0.425,
+      "correlation": 0.322,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0210",
+    "risk_score": 49.23,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.419,
+      "pattern": 0.41,
+      "correlation": 0.218,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0073",
+    "risk_score": 49.21,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.359,
+      "pattern": 0.414,
+      "correlation": 0.301,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0172",
+    "risk_score": 49.21,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.348,
+      "pattern": 0.421,
+      "correlation": 0.307,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0135",
+    "risk_score": 49.19,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.358,
+      "pattern": 0.415,
+      "correlation": 0.3,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0072",
+    "risk_score": 49.12,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.412,
+      "pattern": 0.418,
+      "correlation": 0.211,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0241",
+    "risk_score": 49.1,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.335,
+      "pattern": 0.419,
+      "correlation": 0.324,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0188",
+    "risk_score": 49.07,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.359,
+      "pattern": 0.416,
+      "correlation": 0.291,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0109",
+    "risk_score": 49.06,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.33,
+      "pattern": 0.426,
+      "correlation": 0.319,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0070",
+    "risk_score": 49.05,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.358,
+      "pattern": 0.425,
+      "correlation": 0.278,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0227",
+    "risk_score": 49.01,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.331,
+      "pattern": 0.426,
+      "correlation": 0.315,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0228",
+    "risk_score": 48.93,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.372,
+      "pattern": 0.415,
+      "correlation": 0.266,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0234",
+    "risk_score": 48.9,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.35,
+      "pattern": 0.418,
+      "correlation": 0.293,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0200",
+    "risk_score": 48.87,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.391,
+      "pattern": 0.41,
+      "correlation": 0.242,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0278",
+    "risk_score": 48.86,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.356,
+      "pattern": 0.422,
+      "correlation": 0.276,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0005",
+    "risk_score": 48.83,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.38,
+      "pattern": 0.417,
+      "correlation": 0.246,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0194",
+    "risk_score": 48.79,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.321,
+      "pattern": 0.426,
+      "correlation": 0.319,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0267",
+    "risk_score": 48.79,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.327,
+      "pattern": 0.422,
+      "correlation": 0.316,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0131",
+    "risk_score": 48.77,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.394,
+      "pattern": 0.413,
+      "correlation": 0.228,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0168",
+    "risk_score": 48.65,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.363,
+      "pattern": 0.426,
+      "correlation": 0.249,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0269",
+    "risk_score": 48.63,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.383,
+      "pattern": 0.418,
+      "correlation": 0.23,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0057",
+    "risk_score": 48.62,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.334,
+      "pattern": 0.426,
+      "correlation": 0.291,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0063",
+    "risk_score": 48.61,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.34,
+      "pattern": 0.425,
+      "correlation": 0.283,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0151",
+    "risk_score": 48.59,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.377,
+      "pattern": 0.416,
+      "correlation": 0.24,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0199",
+    "risk_score": 48.54,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.322,
+      "pattern": 0.426,
+      "correlation": 0.305,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0245",
+    "risk_score": 48.53,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.34,
+      "pattern": 0.415,
+      "correlation": 0.294,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0167",
+    "risk_score": 48.51,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.345,
+      "pattern": 0.416,
+      "correlation": 0.284,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0014",
+    "risk_score": 48.47,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.335,
+      "pattern": 0.428,
+      "correlation": 0.279,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0137",
+    "risk_score": 48.47,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.356,
+      "pattern": 0.423,
+      "correlation": 0.255,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0093",
+    "risk_score": 48.47,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.399,
+      "pattern": 0.416,
+      "correlation": 0.201,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0183",
+    "risk_score": 48.41,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.323,
+      "pattern": 0.424,
+      "correlation": 0.3,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0182",
+    "risk_score": 48.39,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.339,
+      "pattern": 0.418,
+      "correlation": 0.284,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0202",
+    "risk_score": 48.37,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.381,
+      "pattern": 0.422,
+      "correlation": 0.214,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0189",
+    "risk_score": 48.37,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.325,
+      "pattern": 0.418,
+      "correlation": 0.304,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0104",
+    "risk_score": 48.27,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.317,
+      "pattern": 0.416,
+      "correlation": 0.314,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0163",
+    "risk_score": 48.26,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.362,
+      "pattern": 0.414,
+      "correlation": 0.249,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0078",
+    "risk_score": 48.24,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.335,
+      "pattern": 0.421,
+      "correlation": 0.278,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0223",
+    "risk_score": 48.23,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.319,
+      "pattern": 0.422,
+      "correlation": 0.3,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0032",
+    "risk_score": 48.21,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.336,
+      "pattern": 0.413,
+      "correlation": 0.287,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0076",
+    "risk_score": 48.2,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.327,
+      "pattern": 0.413,
+      "correlation": 0.3,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0209",
+    "risk_score": 48.13,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.401,
+      "pattern": 0.408,
+      "correlation": 0.193,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0204",
+    "risk_score": 48.09,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.38,
+      "pattern": 0.413,
+      "correlation": 0.215,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0122",
+    "risk_score": 48.07,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.335,
+      "pattern": 0.418,
+      "correlation": 0.274,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0218",
+    "risk_score": 48.0,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.313,
+      "pattern": 0.417,
+      "correlation": 0.305,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0038",
+    "risk_score": 47.94,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.339,
+      "pattern": 0.417,
+      "correlation": 0.263,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0008",
+    "risk_score": 47.93,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.336,
+      "pattern": 0.415,
+      "correlation": 0.27,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0185",
+    "risk_score": 47.93,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.332,
+      "pattern": 0.415,
+      "correlation": 0.276,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0224",
+    "risk_score": 47.93,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.339,
+      "pattern": 0.42,
+      "correlation": 0.258,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0022",
+    "risk_score": 47.91,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.309,
+      "pattern": 0.424,
+      "correlation": 0.296,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0079",
+    "risk_score": 47.84,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.319,
+      "pattern": 0.429,
+      "correlation": 0.27,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0260",
+    "risk_score": 47.82,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.313,
+      "pattern": 0.423,
+      "correlation": 0.287,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0031",
+    "risk_score": 47.81,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.365,
+      "pattern": 0.416,
+      "correlation": 0.219,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0003",
+    "risk_score": 47.78,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.336,
+      "pattern": 0.418,
+      "correlation": 0.258,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0020",
+    "risk_score": 47.77,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.313,
+      "pattern": 0.416,
+      "correlation": 0.295,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0110",
+    "risk_score": 47.76,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.323,
+      "pattern": 0.415,
+      "correlation": 0.281,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0289",
+    "risk_score": 47.74,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.316,
+      "pattern": 0.422,
+      "correlation": 0.28,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0251",
+    "risk_score": 47.7,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.374,
+      "pattern": 0.418,
+      "correlation": 0.197,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0083",
+    "risk_score": 47.7,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.332,
+      "pattern": 0.426,
+      "correlation": 0.248,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0085",
+    "risk_score": 47.53,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.336,
+      "pattern": 0.413,
+      "correlation": 0.253,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0257",
+    "risk_score": 47.5,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.302,
+      "pattern": 0.424,
+      "correlation": 0.286,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0002",
+    "risk_score": 47.46,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.339,
+      "pattern": 0.417,
+      "correlation": 0.239,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0127",
+    "risk_score": 47.45,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.376,
+      "pattern": 0.415,
+      "correlation": 0.186,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0036",
+    "risk_score": 47.41,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.356,
+      "pattern": 0.415,
+      "correlation": 0.214,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0219",
+    "risk_score": 47.39,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.313,
+      "pattern": 0.42,
+      "correlation": 0.27,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0272",
+    "risk_score": 47.35,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.334,
+      "pattern": 0.421,
+      "correlation": 0.235,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0051",
+    "risk_score": 47.35,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.317,
+      "pattern": 0.416,
+      "correlation": 0.268,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0152",
+    "risk_score": 47.32,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.293,
+      "pattern": 0.425,
+      "correlation": 0.289,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0102",
+    "risk_score": 47.31,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.327,
+      "pattern": 0.416,
+      "correlation": 0.251,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0030",
+    "risk_score": 47.3,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.335,
+      "pattern": 0.421,
+      "correlation": 0.231,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0046",
+    "risk_score": 47.3,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.325,
+      "pattern": 0.415,
+      "correlation": 0.255,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0056",
+    "risk_score": 47.26,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.318,
+      "pattern": 0.422,
+      "correlation": 0.253,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0094",
+    "risk_score": 47.24,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.32,
+      "pattern": 0.416,
+      "correlation": 0.258,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0037",
+    "risk_score": 47.24,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.302,
+      "pattern": 0.422,
+      "correlation": 0.276,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0118",
+    "risk_score": 47.19,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.298,
+      "pattern": 0.425,
+      "correlation": 0.275,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0237",
+    "risk_score": 47.18,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.305,
+      "pattern": 0.415,
+      "correlation": 0.279,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0120",
+    "risk_score": 47.17,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.312,
+      "pattern": 0.421,
+      "correlation": 0.259,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0017",
+    "risk_score": 47.15,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.329,
+      "pattern": 0.416,
+      "correlation": 0.24,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0143",
+    "risk_score": 47.14,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.344,
+      "pattern": 0.422,
+      "correlation": 0.208,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0273",
+    "risk_score": 47.12,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.312,
+      "pattern": 0.426,
+      "correlation": 0.249,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0010",
+    "risk_score": 47.11,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.332,
+      "pattern": 0.415,
+      "correlation": 0.235,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0296",
+    "risk_score": 47.1,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.292,
+      "pattern": 0.42,
+      "correlation": 0.287,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0247",
+    "risk_score": 47.09,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.314,
+      "pattern": 0.417,
+      "correlation": 0.258,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0266",
+    "risk_score": 47.08,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.298,
+      "pattern": 0.424,
+      "correlation": 0.271,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0084",
+    "risk_score": 47.06,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.293,
+      "pattern": 0.423,
+      "correlation": 0.279,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0288",
+    "risk_score": 47.04,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.3,
+      "pattern": 0.426,
+      "correlation": 0.263,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0292",
+    "risk_score": 47.01,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.293,
+      "pattern": 0.422,
+      "correlation": 0.278,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0043",
+    "risk_score": 46.97,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.321,
+      "pattern": 0.414,
+      "correlation": 0.246,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0013",
+    "risk_score": 46.89,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.318,
+      "pattern": 0.417,
+      "correlation": 0.242,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0286",
+    "risk_score": 46.88,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.298,
+      "pattern": 0.418,
+      "correlation": 0.27,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0284",
+    "risk_score": 46.85,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.357,
+      "pattern": 0.42,
+      "correlation": 0.177,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0258",
+    "risk_score": 46.83,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.327,
+      "pattern": 0.412,
+      "correlation": 0.233,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0211",
+    "risk_score": 46.79,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.288,
+      "pattern": 0.415,
+      "correlation": 0.285,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0157",
+    "risk_score": 46.77,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.306,
+      "pattern": 0.411,
+      "correlation": 0.263,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0007",
+    "risk_score": 46.73,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.339,
+      "pattern": 0.416,
+      "correlation": 0.204,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0186",
+    "risk_score": 46.72,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.31,
+      "pattern": 0.42,
+      "correlation": 0.241,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0025",
+    "risk_score": 46.66,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.322,
+      "pattern": 0.418,
+      "correlation": 0.223,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0119",
+    "risk_score": 46.66,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.296,
+      "pattern": 0.418,
+      "correlation": 0.262,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0060",
+    "risk_score": 46.64,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.295,
+      "pattern": 0.417,
+      "correlation": 0.264,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0203",
+    "risk_score": 46.63,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.289,
+      "pattern": 0.418,
+      "correlation": 0.271,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0050",
+    "risk_score": 46.58,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.321,
+      "pattern": 0.419,
+      "correlation": 0.219,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0087",
+    "risk_score": 46.55,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.292,
+      "pattern": 0.421,
+      "correlation": 0.258,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0055",
+    "risk_score": 46.53,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.294,
+      "pattern": 0.415,
+      "correlation": 0.263,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0268",
+    "risk_score": 46.51,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.317,
+      "pattern": 0.418,
+      "correlation": 0.223,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0125",
+    "risk_score": 46.49,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.284,
+      "pattern": 0.419,
+      "correlation": 0.27,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0088",
+    "risk_score": 46.43,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.325,
+      "pattern": 0.414,
+      "correlation": 0.213,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0263",
+    "risk_score": 46.38,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.276,
+      "pattern": 0.426,
+      "correlation": 0.266,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0281",
+    "risk_score": 46.36,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.276,
+      "pattern": 0.422,
+      "correlation": 0.271,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0220",
+    "risk_score": 46.35,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.334,
+      "pattern": 0.411,
+      "correlation": 0.2,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0295",
+    "risk_score": 46.2,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.286,
+      "pattern": 0.426,
+      "correlation": 0.242,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0082",
+    "risk_score": 46.2,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.277,
+      "pattern": 0.413,
+      "correlation": 0.275,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0225",
+    "risk_score": 46.12,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.294,
+      "pattern": 0.414,
+      "correlation": 0.244,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0275",
+    "risk_score": 46.12,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.335,
+      "pattern": 0.415,
+      "correlation": 0.181,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0231",
+    "risk_score": 46.04,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.308,
+      "pattern": 0.418,
+      "correlation": 0.213,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0069",
+    "risk_score": 46.02,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.325,
+      "pattern": 0.415,
+      "correlation": 0.191,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0221",
+    "risk_score": 46.01,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.283,
+      "pattern": 0.416,
+      "correlation": 0.252,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0253",
+    "risk_score": 46.0,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.325,
+      "pattern": 0.405,
+      "correlation": 0.205,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0287",
+    "risk_score": 45.99,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.307,
+      "pattern": 0.412,
+      "correlation": 0.221,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0027",
+    "risk_score": 45.98,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.293,
+      "pattern": 0.415,
+      "correlation": 0.237,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0035",
+    "risk_score": 45.98,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.316,
+      "pattern": 0.418,
+      "correlation": 0.198,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0230",
+    "risk_score": 45.96,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.265,
+      "pattern": 0.425,
+      "correlation": 0.263,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0081",
+    "risk_score": 45.95,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.274,
+      "pattern": 0.419,
+      "correlation": 0.258,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0071",
+    "risk_score": 45.9,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.338,
+      "pattern": 0.41,
+      "correlation": 0.173,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0170",
+    "risk_score": 45.89,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.293,
+      "pattern": 0.416,
+      "correlation": 0.231,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0252",
+    "risk_score": 45.88,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.279,
+      "pattern": 0.425,
+      "correlation": 0.238,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0080",
+    "risk_score": 45.83,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.291,
+      "pattern": 0.412,
+      "correlation": 0.237,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0229",
+    "risk_score": 45.82,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.276,
+      "pattern": 0.416,
+      "correlation": 0.253,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0024",
+    "risk_score": 45.81,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.28,
+      "pattern": 0.423,
+      "correlation": 0.236,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0208",
+    "risk_score": 45.81,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.284,
+      "pattern": 0.415,
+      "correlation": 0.242,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0101",
+    "risk_score": 45.78,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.296,
+      "pattern": 0.418,
+      "correlation": 0.218,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0015",
+    "risk_score": 45.76,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.271,
+      "pattern": 0.427,
+      "correlation": 0.241,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0192",
+    "risk_score": 45.74,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.283,
+      "pattern": 0.413,
+      "correlation": 0.243,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0089",
+    "risk_score": 45.64,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.272,
+      "pattern": 0.424,
+      "correlation": 0.238,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0138",
+    "risk_score": 45.61,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.263,
+      "pattern": 0.42,
+      "correlation": 0.256,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0144",
+    "risk_score": 45.55,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.291,
+      "pattern": 0.414,
+      "correlation": 0.22,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0238",
+    "risk_score": 45.53,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.292,
+      "pattern": 0.421,
+      "correlation": 0.207,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0248",
+    "risk_score": 45.51,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.259,
+      "pattern": 0.428,
+      "correlation": 0.245,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0280",
+    "risk_score": 45.51,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.273,
+      "pattern": 0.422,
+      "correlation": 0.233,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0217",
+    "risk_score": 45.5,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.26,
+      "pattern": 0.422,
+      "correlation": 0.252,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0166",
+    "risk_score": 45.46,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.285,
+      "pattern": 0.411,
+      "correlation": 0.229,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0246",
+    "risk_score": 45.45,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.264,
+      "pattern": 0.413,
+      "correlation": 0.257,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0264",
+    "risk_score": 45.45,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.258,
+      "pattern": 0.425,
+      "correlation": 0.248,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0052",
+    "risk_score": 45.44,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.296,
+      "pattern": 0.412,
+      "correlation": 0.21,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0061",
+    "risk_score": 45.44,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.269,
+      "pattern": 0.421,
+      "correlation": 0.237,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0212",
+    "risk_score": 45.4,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.3,
+      "pattern": 0.422,
+      "correlation": 0.187,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0021",
+    "risk_score": 45.39,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.256,
+      "pattern": 0.425,
+      "correlation": 0.248,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0139",
+    "risk_score": 45.21,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.276,
+      "pattern": 0.415,
+      "correlation": 0.224,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0190",
+    "risk_score": 45.2,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.292,
+      "pattern": 0.414,
+      "correlation": 0.201,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0285",
+    "risk_score": 45.17,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.325,
+      "pattern": 0.41,
+      "correlation": 0.156,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0162",
+    "risk_score": 45.14,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.26,
+      "pattern": 0.426,
+      "correlation": 0.228,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0115",
+    "risk_score": 45.13,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.257,
+      "pattern": 0.414,
+      "correlation": 0.25,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0213",
+    "risk_score": 45.11,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.32,
+      "pattern": 0.415,
+      "correlation": 0.153,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0214",
+    "risk_score": 45.07,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.252,
+      "pattern": 0.425,
+      "correlation": 0.238,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0095",
+    "risk_score": 45.07,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.306,
+      "pattern": 0.413,
+      "correlation": 0.175,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0147",
+    "risk_score": 45.05,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.283,
+      "pattern": 0.414,
+      "correlation": 0.207,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0259",
+    "risk_score": 45.03,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.293,
+      "pattern": 0.41,
+      "correlation": 0.197,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0044",
+    "risk_score": 45.01,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.273,
+      "pattern": 0.42,
+      "correlation": 0.211,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0149",
+    "risk_score": 44.94,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.254,
+      "pattern": 0.418,
+      "correlation": 0.239,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0249",
+    "risk_score": 44.89,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.263,
+      "pattern": 0.418,
+      "correlation": 0.223,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0164",
+    "risk_score": 44.84,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.255,
+      "pattern": 0.415,
+      "correlation": 0.237,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0053",
+    "risk_score": 44.75,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.294,
+      "pattern": 0.409,
+      "correlation": 0.183,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0233",
+    "risk_score": 44.73,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.245,
+      "pattern": 0.426,
+      "correlation": 0.23,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0054",
+    "risk_score": 44.72,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.263,
+      "pattern": 0.415,
+      "correlation": 0.219,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0111",
+    "risk_score": 44.7,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.266,
+      "pattern": 0.412,
+      "correlation": 0.218,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0181",
+    "risk_score": 44.68,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.257,
+      "pattern": 0.415,
+      "correlation": 0.226,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0045",
+    "risk_score": 44.65,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.264,
+      "pattern": 0.415,
+      "correlation": 0.214,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0240",
+    "risk_score": 44.63,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.244,
+      "pattern": 0.421,
+      "correlation": 0.234,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0265",
+    "risk_score": 44.59,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.268,
+      "pattern": 0.415,
+      "correlation": 0.205,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0097",
+    "risk_score": 44.58,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.263,
+      "pattern": 0.413,
+      "correlation": 0.215,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0091",
+    "risk_score": 44.57,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.245,
+      "pattern": 0.416,
+      "correlation": 0.237,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0195",
+    "risk_score": 44.53,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.289,
+      "pattern": 0.418,
+      "correlation": 0.166,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0242",
+    "risk_score": 44.53,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.25,
+      "pattern": 0.413,
+      "correlation": 0.232,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0235",
+    "risk_score": 44.47,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.268,
+      "pattern": 0.413,
+      "correlation": 0.202,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0121",
+    "risk_score": 44.4,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.246,
+      "pattern": 0.418,
+      "correlation": 0.224,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0075",
+    "risk_score": 44.39,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.25,
+      "pattern": 0.415,
+      "correlation": 0.222,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0040",
+    "risk_score": 44.32,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.25,
+      "pattern": 0.412,
+      "correlation": 0.223,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0158",
+    "risk_score": 44.14,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.259,
+      "pattern": 0.425,
+      "correlation": 0.181,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0041",
+    "risk_score": 44.04,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.254,
+      "pattern": 0.42,
+      "correlation": 0.191,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0294",
+    "risk_score": 44.03,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.239,
+      "pattern": 0.412,
+      "correlation": 0.225,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0191",
+    "risk_score": 43.93,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.234,
+      "pattern": 0.413,
+      "correlation": 0.226,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0059",
+    "risk_score": 43.91,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.248,
+      "pattern": 0.415,
+      "correlation": 0.201,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0140",
+    "risk_score": 43.85,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.247,
+      "pattern": 0.414,
+      "correlation": 0.201,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0297",
+    "risk_score": 43.84,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.242,
+      "pattern": 0.412,
+      "correlation": 0.211,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0177",
+    "risk_score": 43.73,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.238,
+      "pattern": 0.415,
+      "correlation": 0.207,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0175",
+    "risk_score": 43.73,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.23,
+      "pattern": 0.415,
+      "correlation": 0.219,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0215",
+    "risk_score": 43.72,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.245,
+      "pattern": 0.413,
+      "correlation": 0.199,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0048",
+    "risk_score": 43.61,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.248,
+      "pattern": 0.415,
+      "correlation": 0.186,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0193",
+    "risk_score": 43.59,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.243,
+      "pattern": 0.41,
+      "correlation": 0.2,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0178",
+    "risk_score": 43.51,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.261,
+      "pattern": 0.412,
+      "correlation": 0.166,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0201",
+    "risk_score": 43.49,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.261,
+      "pattern": 0.42,
+      "correlation": 0.153,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0153",
+    "risk_score": 43.47,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.24,
+      "pattern": 0.417,
+      "correlation": 0.188,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0001",
+    "risk_score": 43.29,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.234,
+      "pattern": 0.415,
+      "correlation": 0.191,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0279",
+    "risk_score": 43.27,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.222,
+      "pattern": 0.421,
+      "correlation": 0.199,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0129",
+    "risk_score": 43.25,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.261,
+      "pattern": 0.412,
+      "correlation": 0.153,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0106",
+    "risk_score": 43.24,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.243,
+      "pattern": 0.413,
+      "correlation": 0.178,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0283",
+    "risk_score": 43.24,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.224,
+      "pattern": 0.426,
+      "correlation": 0.187,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0142",
+    "risk_score": 43.08,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.217,
+      "pattern": 0.421,
+      "correlation": 0.197,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0068",
+    "risk_score": 42.98,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.227,
+      "pattern": 0.411,
+      "correlation": 0.192,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0160",
+    "risk_score": 42.94,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.218,
+      "pattern": 0.414,
+      "correlation": 0.199,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0114",
+    "risk_score": 42.94,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.218,
+      "pattern": 0.418,
+      "correlation": 0.193,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0256",
+    "risk_score": 42.93,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.215,
+      "pattern": 0.414,
+      "correlation": 0.203,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0161",
+    "risk_score": 42.88,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.242,
+      "pattern": 0.418,
+      "correlation": 0.154,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0205",
+    "risk_score": 42.79,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.211,
+      "pattern": 0.424,
+      "correlation": 0.187,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0105",
+    "risk_score": 42.72,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.216,
+      "pattern": 0.422,
+      "correlation": 0.179,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0169",
+    "risk_score": 42.71,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.22,
+      "pattern": 0.421,
+      "correlation": 0.174,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0064",
+    "risk_score": 42.66,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.214,
+      "pattern": 0.418,
+      "correlation": 0.185,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0261",
+    "risk_score": 42.65,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.23,
+      "pattern": 0.411,
+      "correlation": 0.171,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0174",
+    "risk_score": 42.46,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.216,
+      "pattern": 0.408,
+      "correlation": 0.187,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0113",
+    "risk_score": 42.44,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.222,
+      "pattern": 0.418,
+      "correlation": 0.162,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0159",
+    "risk_score": 42.23,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.21,
+      "pattern": 0.413,
+      "correlation": 0.177,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0187",
+    "risk_score": 42.17,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.226,
+      "pattern": 0.413,
+      "correlation": 0.15,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0274",
+    "risk_score": 42.12,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.2,
+      "pattern": 0.424,
+      "correlation": 0.17,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0207",
+    "risk_score": 42.03,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.201,
+      "pattern": 0.412,
+      "correlation": 0.182,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0254",
+    "risk_score": 41.95,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.212,
+      "pattern": 0.411,
+      "correlation": 0.163,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0282",
+    "risk_score": 41.89,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.196,
+      "pattern": 0.411,
+      "correlation": 0.184,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0039",
+    "risk_score": 41.82,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.191,
+      "pattern": 0.419,
+      "correlation": 0.176,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0026",
+    "risk_score": 41.63,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.221,
+      "pattern": 0.406,
+      "correlation": 0.141,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0123",
+    "risk_score": 41.63,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.213,
+      "pattern": 0.408,
+      "correlation": 0.15,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0019",
+    "risk_score": 41.55,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.187,
+      "pattern": 0.414,
+      "correlation": 0.176,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0239",
+    "risk_score": 41.54,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.194,
+      "pattern": 0.41,
+      "correlation": 0.171,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0298",
+    "risk_score": 41.21,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.177,
+      "pattern": 0.414,
+      "correlation": 0.174,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0222",
+    "risk_score": 40.72,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.175,
+      "pattern": 0.405,
+      "correlation": 0.166,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0293",
+    "risk_score": 40.27,
+    "risk_band": "MEDIUM",
+    "components": {
+      "flow": 0.162,
+      "pattern": 0.413,
+      "correlation": 0.151,
+      "timeline": 1.0
+    }
+  },
+  {
+    "account_id": "ACC0250",
+    "risk_score": 39.36,
+    "risk_band": "LOW",
+    "components": {
+      "flow": 0.161,
+      "pattern": 0.415,
+      "correlation": 0.104,
+      "timeline": 1.0
+    }
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "total_detections": 31449,
+  "by_pattern": {
+    "cycle": 261,
+    "hub": 299,
+    "layering": 30888,
+    "smurfing": 1
+  },
+  "high_severity_count": 254,
+  "unique_accounts": 300,
+  "avg_severity": 0.4181110051193997
+}
